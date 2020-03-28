@@ -19,6 +19,9 @@ from user import views
 from django.urls import path, include
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('user/', views.user_detail),
+    path('user/', views.user),
+    path('user/<int:pk>/', views.user_detail),
+    path('intent/',views.intent),
+    path('intent/<str:pk>/',views.intent_detail)
     #path('', include('user.urls')),
 ]
