@@ -8,6 +8,8 @@ from django.views.decorators.csrf import csrf_exempt
 from django.http import HttpResponse, JsonResponse
 from rest_framework.parsers import JSONParser
 from rest_framework.decorators import api_view
+from django.core import serializers
+import pandas as pd
 @csrf_exempt
 @api_view(['GET','POST'])
 def user(request):
@@ -76,8 +78,11 @@ def intent_detail(request, pk):
     except:
         return HttpResponse(status=404)
     if request.method == 'GET':
-        serializer = IntentSerializer(intent)
-        return JsonResponse(data=serializer.data, safe= False)
+        #result = []
+        result = list(Intent.objects.order_by('quantity')[:5])
+        #serializer = IntentSerializer(result)
+        serializer = serializers.serialize('json', result)
+        return HttpResponse(serializer, content_type='application/json')
     if request.method == 'POST':
         data = intent
         data.quantity = data.quantity + 1
