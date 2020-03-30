@@ -1,0 +1,2252 @@
+,key,val,val
+0,Giáo dục Thể chất,7140206,7140206
+1,Kế toán,7340301,7340301
+2,Công nghệ thông tin,7480201,7480201
+3,Công nghệ kỹ thuật nhiệt,7510206,7510206
+4,"Công nghệ kỹ thuật điện, điện tử",7510301,7510301
+5,Công nghệ kỹ thuật điều khiển và tự động hóa,7510303,7510303
+6,Công nghệ kỹ thuật hoá học,7510401,7510401
+7,Quản lý công nghiệp,7510601,7510601
+8,Công nghệ thực phẩm,7540101,7540101
+9,Quản trị dịch vụ du lịch và lữ hành,7810103,7810103
+10,Quản trị khách sạn,7810201,7810201
+11,Công nghệ kỹ thuật cơ khí,7510201,7510201
+12,Chính trị học,QHX02,QHX02
+13,Quản lý nhà nước,7310205,7310205
+14,Quản trị kinh doanh,7340101,7340101
+15,Tài chính – Ngân hàng,7340201,7340201
+16,Luật kinh tế,7380107_C,7380107_C
+17,Công nghệ kỹ thuật xây dựng,7510103,7510103
+18,Thú y,7640101,7640101
+19,Điều dưỡng,7720301,7720301
+20,Dinh dưỡng,7720401,7720401
+21,Quản lý đất đai,7850103,7850103
+22,Y học cổ truyền,7720115,7720115
+23,Dược học,7720201,7720201
+24,Sư phạm Tiếng Anh,7140231,7140231
+25,Sư phạm Tiếng Pháp,7140233,7140233
+26,Sư phạm Tiếng Trung Quốc,7140234,7140234
+27,Ngôn ngữ Anh,7220201,7220201
+28,Ngôn ngữ Anh CLC,7220201C,7220201C
+29,Ngôn ngữ Nga,7220202,7220202
+30,Ngôn ngữ Pháp,7220203,7220203
+31,Ngôn ngữ Trung Quốc,7220204,7220204
+32,Ngôn ngữ Trung Quốc CLC,7220204CLC,7220204CLC
+33,Ngôn ngữ Nhật,7220209,7220209
+34,Ngôn ngữ Nhật CLC,7220209CLC,7220209CLC
+35,Ngôn ngữ Hàn Quốc,7220210,7220210
+36,Ngôn ngữ Hàn Quốc CLC,7220210CLC,7220210CLC
+37,Ngôn ngữ Thái Lan,7220214,7220214
+38,Quốc tế học,QHX18,QHX18
+39,Quốc tế học CLC,7310601CLC,7310601CLC
+40,Đông phương học,QHX05,QHX05
+41,Sư phạm tiếng Anh,7140231,7140231
+42,Sư phạm tiếng Pháp,7140233,7140233
+43,Sư phạm tiếng Trung,7140234,7140234
+44,Ngôn ngữ Anh (Chất lượng cao),7220201CLC,7220201CLC
+45,Quốc tế học (Chất lượng cao),7310601CLC,7310601CLC
+46,Ngôn ngữ Nhật (Chất lượng cao),7220209CLC,7220209CLC
+47,Ngôn ngữ Hàn Quốc (Chất lượng cao),7220210CLC,7220210CLC
+48,Ngôn ngữ Trung Quốc (Chất lượng cao),7220204CLC,7220204CLC
+49,Công nghệ sinh học,7420201,7420201
+50,Công nghệ thông tin (Chất lượng cao - ngoại ngữ Nhật),7480201CLC,7480201CLC
+51,Công nghệ thông tin (đào tạo theo cơ chế đặc thù),7480201DT,7480201DT
+52,Công nghệ kỹ thuật vật liệu xây dựng,7510105,7510105
+53,Công nghệ chế tạo máy,7510202,7510202
+54,Công nghệ dầu khí và khai thác dầu (chất lượng cao),7510701CLC,7510701CLC
+55,Kỹ thuật cơ khí,7520103,7520103
+56,Kỹ thuật cơ khí - chuyên ngành Cơ khí động lực (Chất lượng cao),7520103CLC,7520103CLC
+57,Kỹ thuật cơ điện tử,7520114,7520114
+58,Kỹ thuật cơ điện tử (Chất lượng cao),7520114CLC,7520114CLC
+59,Kỹ thuật nhiệt,7520115,7520115
+60,Kỹ thuật nhiệt (Chất lượng cao),7520115CLC,7520115CLC
+61,Kỹ thuật tàu thuỷ,7520122,7520122
+62,Kỹ thuật điện,7520201,7520201
+63,Kỹ thuật điện (Chất lượng cao),7520201CLC,7520201CLC
+64,Kỹ thuật điện tử - viễn thông,7520207,7520207
+65,Kỹ thuật điện tử - viễn thông (Chất lượng cao),7520207CLC,7520207CLC
+66,Kỹ thuật điều khiển và tự động hoá,7520216,7520216
+67,Kỹ thuật điều khiển và tự động hóa (Chất lượng cao),F7520216,F7520216
+68,Kỹ thuật hoá học,7520301,7520301
+69,Kỹ thuật môi trường,7520320,7520320
+70,Công nghệ thực phẩm (Chất lượng cao),7540101CLC,7540101CLC
+71,Kiến trúc (Chất lượng cao),7580101CLC,7580101CLC
+72,Kỹ thuật xây dựng - chuyên ngành Xây dựng dân dụng & công nghiệp,7580201A,7580201A
+73,Kỹ thuật xây dựng - chuyên ngành Tin học xây dựng,7580201B,7580201B
+74,Kỹ thuật xây dựng - chuyên ngành Xây dựng dân dụng & công nghiệp (Chất lượng cao),7580201CLC,7580201CLC
+75,Kỹ thuật xây dựng công trình thuỷ,7580202,7580202
+76,Kỹ thuật xây dựng công trình giao thông,7580205,7580205
+77,Kỹ thuật xây dựng công trình giao thông (Chất lượng cao),7580205CLC,7580205CLC
+78,Kinh tế xây dựng,7580301,7580301
+79,Kinh tế xây dựng (Chất lượng cao),7580301CLC,7580301CLC
+80,Quản lý tài nguyên và môi trường,7850101,7850101
+81,Chương trình tiên tiến ngành Điện tử viễn thông,7905206,7905206
+82,Chương trình tiên tiến ngành Hệ thống nhúng,7905216,7905216
+83,Chương trình đào tạo kỹ sư chất lượng cao Việt-Pháp,PFIEV,PFIEV
+84,Công nghệ kỹ thuật vật liệu xây dựng,7510105,7510105
+85,Công nghệ chế tạo máy,7510202,7510202
+86,Kỹ thuật tàu thủy,7520122,7520122
+87,Kỹ thuật hóa học,7520301,7520301
+88,Quản lý tài nguyên & môi trường,7850101,7850101
+89,Công nghệ thông tin (CLC - ngoại ngữ Nhật),7480201CLC,7480201CLC
+90,Công nghệ dầu khí và khai thác dầu,7510701CLC,7510701CLC
+91,Kỹ thuật cơ khí - chuyên ngành Cơ khí động lực (CLC),7520103CLC,7520103CLC
+92,Kỹ thuật nhiệt (CLC),7520115CLC,7520115CLC
+93,Kỹ thuật điện (CLC),7520115CLC,7520115CLC
+94,Kỹ thuật điện tử & viễn thông (CLC),7520207CLC,7520207CLC
+95,Kỹ thuật điều khiển & tự động hóa (CLC),7520216CLC,7520216CLC
+96,Kiến trúc (CLC),7580101CLC,7580101CLC
+97,KT xây dựng – c.ngành XD dân dụng & công nghiệp,7580201A,7580201A
+98,KT xây dựng – c.ngành XD dân dụng & công nghiệp (CLC),7580201CLC,7580201CLC
+99,Kỹ thuật xây dựng công trình giao thông (CLC),7580205CLC,7580205CLC
+100,Kinh tế xây dựng (CLC),7580301CLC,7580301CLC
+101,Kỹ thuật Hệ thống công nghiệp (dự kiến mở),7520118,7520118
+102,Công nghệ thông tin (đào tạo theo cơ chế đặc thù - Hợp tác doanh nghiệp),7480201DT,7480201DT
+103,Kỹ thuật Cơ sở hạ tầng (dự kiến mở),7580210,7580210
+104,Kỹ thuật hệ thống công nghiệp,7520118,7520118
+105,Kỹ thuật môi trường (Chất lượng cao),7520320CLC,7520320CLC
+106,Kỹ thuật xây dựng - chuyên ngành Tin học xây dựng,7580201A,7580201A
+107,Kỹ thuật xây dựng công trình thủy (Chất lượng cao),7580202CLC,7580202CLC
+108,Kỹ thuật cơ sở hạ tầng,7580210,7580210
+109,Quản trị kinh doanh chất lượng cao,7340101 CLC,7340101 CLC
+110,Tài chính - Ngân hàng chất lượng cao,7340201_CLC,7340201_CLC
+111,Kế toán chất lượng cao,7340301 CLC,7340301 CLC
+112,Kiểm toán,7340302,7340302
+113,Công nghệ kỹ thuật công trình xây dựng,7510102,7510102
+114,Công nghệ kỹ thuật cơ điện tử,7510203,7510203
+115,"Công nghệ kỹ thuật điện, điện tử chất lượng cao",7510301_CLC,7510301_CLC
+116,Công nghệ kỹ thuật điện tử - viễn thông,7510302,7510302
+117,Công nghệ kỹ thuật điện tử - viễn thông chất lượng cao,7510302_CLC,7510302_CLC
+118,Công nghệ kỹ thuật điều khiển và tự động hóa chất lượng cao,7510303_CLC,7510303_CLC
+119,Công nghệ kỹ thuật năng lượng,7510403,7510403
+120,Công nghệ kỹ thuật môi trường,7510406,7510406
+121,Công nghệ kỹ thuật hạt nhân,QHT05,QHT05
+122,Quản lý công nghiệp chất lượng cao,7510601_CLC,7510601_CLC
+123,Quản lý năng lượng,7510602,7510602
+124,Logistics và Quản lý chuỗi cung ứng,7510605,7510605
+125,"Quản trị kinh doanh (Gồm 2 chuyên ìgành: Quản trị doanh nghiệp; Quản trị du lịch, (hách sạn)",7340101,7340101
+126,Tai chính - Ngân hảng (Gồm 2 chuyên ngành: Tải chính doanh nghiệp; Ngân hàng),7340201,7340201
+127,Tai chính - Ngân hàng chất lượng cao,7340201 CLC,7340201 CLC
+128,Kế toán (Gồm 2 chuyên ngành: Kế toán doanh ighiệp; Kế toán và kiểm soát],7340301,7340301
+129,"Công nghệ kỵ thuật điện, điện tử (Gồm 4 chuyên igành: Hệ thống điện; Điện công nghiệp và dân dụng; Tự động hoá Hệ thống điện; Điều khiển kết nối nguồn phân tán)",7510301,7510301
+130,"Công nghệ kỹ thuật điện, điện tử chất luợng cao (Gồm 2 chuyên ngành: Hệ thống điện chất lượng cao; Điện công nghiệp vả dân dụng chất lượng cao)",7510301_CLC,7510301_CLC
+131,Quàn lý công nghiệp chất lượng cao,7510601 CLC,7510601 CLC
+132,Công nghệ thông tin (Gồm 3 chuyên ngành: Công nghệ phần mêm; Quản trị và an ninh •nạng; Hệ thông thương mại điện tử),7480201,7480201
+133,Công nghệ kỹ thuật điều khiển vả tự động hoá (Gôm 2 chuyên ngành: Công nqhệ kỵ thuật điêu khiển; Tự động hóa và điều khiển thiết bị điện công nghiệp),7510303,7510303
+134,Công nghệ kỹ thuật điều khiển và tự động hoá chất lượng cao,7510303_CLC,7510303_CLC
+135,Công nghệ kỹ thuật điện từ - viễn thông (Gồm 5 Dhuyên ngành: Điện từ viễn thông; Kỹ thuật điện từ; Điện từ và kỳ thuật máy tính; Điện từ và obot; Điện từ y tế),7510302,7510302
+136,Công nghệ kỹ thuật điện tử - viễn thông chất ượng cao,7510302_CLC,7510302_CLC
+137,Kỹ thuật nhiệt (Gồm 2 chuyên ngành: Nhiệt điện; Điện lạnh),7520115,7520115
+138,Công nghệ kỹ thuật công trình xây dựng (Gồm 3 chuyên ngành: Xây dựng công trình điện; Xây dựng dân dụng và công nghiệp; Quàn lý dự án vá công trinh điện),7510102,7510102
+139,Công nghệ kỹ thuật cơ khí (Gồm 2 chuyên ngành: Cơ khí chế tạo máy; Công nghệ chế tạo thiết bị điện),7510201,7510201
+140,Công nghệ kỹ thuật cơ điện từ,7510203,7510203
+141,Thương mại điện tử,7340122,7340122
+142,Tài chính Ngân hàng,7340201,7340201
+143,Công nghệ kỹ thuật điều khiển và tự động hoá,7510303,7510303
+144,Kỹ thuật địa chất,QHT19,QHT19
+145,Kỹ thuật trắc địa - bản đồ,7520503,7520503
+146,Kỹ thuật mỏ,7520601,7520601
+147,Kỹ thuật tuyển khoáng,7520607,7520607
+148,Tài chính ngân hàng,7340201D,7340201D
+149,Kỹ thuật Trắc địa-Bản đồ,7520503,7520503
+150,,,
+151,Quan hệ công chúng,QHX13,QHX13
+152,Kiến trúc cảnh quan,7580102,7580102
+153,Kỹ thuật xây dựng,7580201,7580201
+154,7720301,7720301,7720301
+155,Kiến trúc,7580101,7580101
+156,Kỹ thuật công trình xây dựng,7580201,7580201
+157,Giáo dục Tiểu học,7140202,7140202
+158,Kinh tế phát triển,QHE01,QHE01
+159,Kinh doanh thương mại,7340121,7340121
+160,Công nghệ thông tin (đặc thù),7480201DT,7480201DT
+161,Kinh doanh nông nghiệp,7620114,7620114
+162,Quản trị dịch vụ du lịch và lữ hành (đặc thù),7810103DT,7810103DT
+163,Tài chính - Ngân hàng,QHE41,QHE41
+164,Kỹ thuật điện,7520201,7520201
+165,Giáo dục tiểu học,7140202,7140202
+166,Kỹ thuật xây dựng (Chuyên ngành Xây dựng dân dụng & công nghiệp),7580201,7580201
+167,Giáo dục Mầm non,51140201,51140201
+168,Giáo dục Chính trị,7140205,7140205
+169,Sư phạm Toán học,7140209,7140209
+170,Sư phạm Tin học,7140210,7140210
+171,Sư phạm Vật lý,7140211,7140211
+172,Sư phạm Hoá học,7140212,7140212
+173,Sư phạm Sinh học,7140213,7140213
+174,Sư phạm Ngữ văn,7140217,7140217
+175,Sư phạm Lịch sử,7140218,7140218
+176,Sư phạm Địa lý,7140219,7140219
+177,Sư phạm Âm nhạc,7140221,7140221
+178,Lịch sử,QHX08,QHX08
+179,Văn học,7229030,7229030
+180,Văn hoá học,7229040,7229040
+181,Tâm lý học,QHX19,QHX19
+182,Tâm lý học (Chất lượng cao),7310401CLC,7310401CLC
+183,Địa lý học,7310501,7310501
+184,Việt Nam học,7310630,7310630
+185,Việt Nam học CLC,7310630CLC,7310630CLC
+186,Báo chí,QHX01,QHX01
+187,Báo chí (Chất lượng cao),7320101CLC,7320101CLC
+188,Vật lý học,QHT03,QHT03
+189,Hoá học,QHT06,QHT06
+190,Hóa học CLC,7440112CLC,7440112CLC
+191,Khoa học môi trường,7440301,7440301
+192,Toán ứng dụng,7460112,7460112
+193,Công nghệ thông tin CLC,7480201CLC,7480201CLC
+194,Công tác xã hội,7760101,7760101
+195,Quản lý tài nguyên và môi trường (Chất lượng cao),7850101CLC,7850101CLC
+196,Hóa học,7440112,7440112
+197,Hóa học (Chuyên ngành Hóa Dược-Chất lượng cao),7440112CLC,7440112CLC
+198,Công nghệ thông tin (Chất lượng cao),7480201_CLC,7480201_CLC
+199,Địa lý học,7310501,7310501
+200,Việt Nam học (Chất lượng cao),7310630CLC,7310630CLC
+201,Giáo dục Công dân,7140204,7140204
+202,Sư phạm khoa học tự nhiên,7140247,7140247
+203,Sư phạm Lịch sử- Địa lý,7140249,7140249
+204,Sư phạm Tin học và Công nghệ Tiểu học,7140250,7140250
+205,Hóa học (Chất lượng cao),7440112CLC,7440112CLC
+206,Y khoa,7720101,7720101
+207,Dược học (tổ hợp A00),7720201A,7720201A
+208,Dược học (tổ hợp B00),7720201B,7720201B
+209,Răng - Hàm - Mặt,7720501,7720501
+210,Kinh tế,7310101,7310101
+211,Kinh doanh quốc tế,7340120,7340120
+212,Hệ thống thông tin quản lý,7340405_J2,7340405_J2
+213,Luật,7380101,7380101
+214,Giáo dục Quốc phòng - An ninh,7140208,7140208
+215,Du lịch,7810101,7810101
+216,Quản trị nhà hàng và dịch vụ ăn uống,7810202,7810202
+217,Du lịch điện tử,7810102,7810102
+218,Các ngành đào tạo đại học,,
+219,Kinh tế (chất lượng cao),7310101CL,7310101CL
+220,Kinh tế chính trị,7310102,7310102
+221,Thống kê kinh tế,7310107,7310107
+222,Quản trị kinh doanh (chất lượng cao),7340101_407C,7340101_407C
+223,Marketing,7340115,7340115
+224,Tài chính - Ngân hàng (chất lượng cao),7340201_404C,7340201_404C
+225,Kiểm toán (chất lượng cao),7340302_409C,7340302_409C
+226,Quản trị nhân lực,7340404,7340404
+227,Hệ thống thông tin quản lý (chất lượng cao),7340405_406C,7340405_406C
+228,Tài chính - Ngân hàng (liên kết),7349001,7349001
+229,Quản trị kinh doanh (liên kết),7349002,7349002
+230,Kinh tế nông nghiệp,7620115,7620115
+231,Song ngành Kinh tế - Tài chính (liên kết),7903124,7903124
+232,Tài chính - Ngân hàng CLC,7349001,7349001
+233,Song ngành Kinh tế - Tài chính,7903124,7903124
+234,Quản trị kinh doanh CLC,7340101C,7340101C
+235,Bất động sản,7340116,7340116
+236,Công nghệ sau thu hoạch,7540104,7540104
+237,Đảm bảo chất lượng và an toàn thực phẩm,7540106,7540106
+238,Công nghệ chế biến lâm sản,7549001,7549001
+239,Khuyến nông,7620102,7620102
+240,Khoa học đất,QHT14,QHT14
+241,Chăn nuôi,7620105,7620105
+242,Nông học,7620109,7620109
+243,Khoa học cây trồng,7620110,7620110
+244,Bảo vệ thực vật,7620112,7620112
+245,Công nghệ rau hoa quả và cảnh quan,7620113,7620113
+246,Phát triển nông thôn,7620116,7620116
+247,Lâm học,7620201,7620201
+248,Lâm nghiệp đô thị,7620202,7620202
+249,Quản lý tài nguyên rừng,7620211,7620211
+250,Nuôi trồng thuỷ sản,7620301,7620301
+251,Bệnh học thủy sản,7620302,7620302
+252,Quản lý thủy sản,7620305,7620305
+253,Quản lý tài nguyên rừng,7620211,7620211
+254,Nuôi trồng thủy sản,7620301,7620301
+255,Khoa học cây trồng,7620110,7620110
+256,Thú y,7640101,7640101
+257,Công nghệ thực phẩm,7540101,7540101
+258,Đảm bảo chất lượng và an toàn thực phẩm,7540106,7540106
+259,Kỹ thuật cơ sở hạ tầng,7580210,7580210
+260,Kỹ thuật cơ – điện tử,7520114,7520114
+261,Công nghệ kỹ thuật cơ khí,7510201,7510201
+262,Sinh học ứng dụng,7420203,7420203
+263,Sư phạm Mỹ thuật,7140222,7140222
+264,Hội hoạ,7210103,7210103
+265,Điêu khắc,52210105,52210105
+266,Thiết kế đồ họa,52210403,52210403
+267,Thiết kế thời trang,7210404,7210404
+268,Thiết kế nội thất,7580108CT,7580108CT
+269,Sư phạm Mỹ thuật,7140222,7140222
+270,Hội họa,52210103,52210103
+271,Thiết kế Đồ họa,7210403,7210403
+272,Thiết kế Thời trang,7210404,7210404
+273,Thiết kế Nội thất,7580108,7580108
+274,Công nghệ kỹ thuật môi trường,7510406,7510406
+275,Kỹ thuật Xây dựng,7580201,7580201
+276,Kỹ thuật điện,7520201,7520201
+277,Thiết kế Đồ họa,7210403,7210403
+278,Kỹ thuật điều khiển và tự động hóa,7520216,7520216
+279,Tâm lý học giáo dục,7310403D,7310403D
+280,Vật lí (chương trình tiên tiến),T140211,T140211
+281,Sư phạm Vật lí,7140211,7140211
+282,Sư phạm Hóa học,GD1,GD1
+283,Sư phạm Địa lí,7140219,7140219
+284,Giáo dục Mầm non,7140201,7140201
+285,Giáo dục Quốc phòng – An ninh,7140208C,7140208C
+286,Vật lí,T140211,T140211
+287,Sư phạm công nghệ,7140246,7140246
+288,Giáo dục pháp luật,7140248,7140248
+289,Sư phạm Lịch sử - Địa lý,51140249,51140249
+290,Hệ thống thông tin,7340405,7340405
+291,Vật lý (chương trình tiên tiến),T140211,T140211
+292,Hán Nôm,QHX06,QHX06
+293,Triết học,QHX22,QHX22
+294,Ngôn ngữ học,QHX10,QHX10
+295,Xã hội học,QHX25,QHX25
+296,Sinh học,QHT08,QHT08
+297,Địa chất học,QHT18,QHT18
+298,Địa lý tự nhiênkỹ thuật,7440217,7440217
+299,Toán học,QHT01,QHT01
+300,Hán - Nôm,7220104,7220104
+301,Vật lí học,QHT03,QHT03
+302,Địa lí tự nhiên,QHT10,QHT10
+303,Công nghệ kỹ thuật điện tử - Viễn thông,7510302,7510302
+304,Kỹ thuật địa chất,7520501,7520501
+305,Kỹ thuật trắc địa - Bản đồ,7520503,7520503
+306,Kiến trúc,7580101,7580101
+307,Toán kinh tế,7310108,7310108
+308,Kỹ thuật sinh học,7420202,7420202
+309,Kỹ thuật phần mềm,7480103C,7480103C
+310,Quy hoạch vùng và đô thị,7580105CLC,7580105CLC
+311,Địa kỹ thuật xây dựng,7580211,7580211
+312,Quản lý bệnh viện,7720802,7720802
+313,Y học dự phòng,7720110,7720110
+314,Kỹ thuật xét nghiệm y học,7720601,7720601
+315,Kỹ thuật hình ảnh y học,7720602,7720602
+316,Y tế công cộng,7720701,7720701
+317,Quản trị văn phòng,QHX17,QHX17
+318,Truyền thông đa phương tiện,7320104,7320104
+319,An toàn thông tin,7480202,7480202
+320,Công nghệ kỹ thuật ô tô,7510205,7510205
+321,Kỹ thuật y sinh,7520212,7520212
+322,"Công nghệ dệt, may",7540204,7540204
+323,Quản lý xây dựng,7580302,7580302
+324,Dược học: - Sản xuất & phát triển thuốc - Dược lâm sàng - Quản lý & cung ứng thuốc,7720201,7720201
+325,Công nghệ thực phẩm: - Công nghệ sau thu hoạch - Công nghệ thực phẩm - Quản lý sản xuất & cung ứng thực phẩm - Công nghệ chế biến thủy hải sản,7540101,7540101
+326,Kỹ thuật môi trường: - Kỹ thuật môi trường - Quản lý tài nguyên & môi trường - Cấp thoát nước & môi trường nước,7520320,7520320
+327,Công nghệ sinh học - Công nghệ sinh học nông nghiệp - Công nghệ sinh học thực phẩm & sức khỏe - Công nghệ sinh học môi trường,7420201,7420201
+328,Công nghệ thông tin: - Mạng máy tính & truyền thông - Công nghệ phần mềm - Hệ thống thông tin,7480201,7480201
+329,Kế toán: - Kế toán kiểm toán - Kế toán ngân hàng - Kế toán tài chính,7340301,7340301
+330,Tài chính - Ngân hàng: - Tài chính doanh nghiệp - Tài chính thuế - Tài chính ngân hàng - Tài chính bảo hiểm,7340201,7340201
+331,Marketing: - Marketing tổng hợp - Marketing truyền thông - Quản trị Marketing,7340115,7340115
+332,Quản trị kinh doanh - Quản trị doanh nghiệp - Quản trị ngoại thương - Quản trị nhân sự - Quản trị hàng không - Quản trị logistics,7340101,7340101
+333,Kinh doanh quốc tế: - Thương mại quốc tế - Tài chính quốc tế - Thương mại điện tử,7340120,7340120
+334,Quản trị nhà hàng & dịch vụ ăn uống,7810202,7810202
+335,Luật kinh tế: - Luật kinh doanh - Luật thương mại quốc tế - Luật tài chính ngân hàng,7380107,7380107
+336,Đông phương học: - Hàn Quốc học - Nhật Bản học - Trung Quốc học,7310608,7310608
+337,Logistics & quản lý chuỗi cung ứng,7510605,7510605
+338,Công nghệ thực phẩm*,7540101,7540101
+339,"Công nghệ sợi, dệt",7540202,7540202
+340,Công nghệ may,7540205,7540205
+341,"Công nghệ kỹ thuật điện tử, truyền thông",7510302,7510302
+342,Cơ sở Hà Nội:,,
+343,Ke toán,7340301_405,7340301_405
+344,Mạng máy tính và truyền thông dữ liệu (ngành mới),7480102,7480102
+345,Cồng nghệ thông tin,7480201,7480201
+346,Cồng nghệ kỹ thuật cơ khí,7510201,7510201
+347,Công nghệ kỹ thuật Cơ điện tử (ngành mới),7510203,7510203
+348,Công nghệ kỹ thuật điều khiến và tự động hóa,7510303,7510303
+349,Cơ sở Nam Định:,,
+350,Mạng máy tính và truyền thông dữ liệu,7480102,7480102
+351,Kinh doanh quốc tế (Phân hiệu tại Thừa Thiên Huế),7340120H,7340120H
+352,Tài chính-Ngân hàng (Phân hiệu tại Thừa Thiên Huế),7340201H,7340201H
+353,Kế toán (Phân hiệu tại Thừa Thiên Huế),7340301H,7340301H
+354,Luật kinh tế (Phân hiệu tại Thừa Thiên Huế),7380107H,7380107H
+355,Cơ sở tại Quảng Ngãi:,,
+356,Luật Kinh tế,7380107,7380107
+357,Phân hiệu tại Thừa Thiền Huế,,
+358,Kỹ thuật phục hồi chức năng,7720603,7720603
+359,Khoa học máy tính,CN8,CN8
+360,Bảo hiểm,7340204,7340204
+361,CƠ SỞ TP.HCM:,,
+362,CƠ SỞ SƠN TÂY:,,
+363,CƠ SỞ TẠI HÀ NỘI:,,
+364,Hệ thống thông tin quản lý (Chương trình đặc thù),7340405D,7340405D
+365,Quản trị dịch vụ du lịch và lữ hành (Chương trình đặc thù),7810103D,7810103D
+366,Quản trị khách sạn (Chương trình đặc thù),7810201D,7810201D
+367,Quản trị nhà hàng và dịch vụ ăn uống (Chương trình đặc thù),7810202D,7810202D
+368,Quản trị kinh doanh (Chương trình chất lượng cao),7340101C,7340101C
+369,Marketing (Chương trình chất lượng cao),7340115C,7340115C
+370,Kế toán (Chương trình chất lượng cao),7340301C,7340301C
+371,Tài chính – Ngân hàng (Chương trình chất lượng cao),7340201C,7340201C
+372,Kinh doanh quốc tế (Chương trình chất lượng cao),7340120C,7340120C
+373,Quản trị khách sạn (Chương trình chất lượng cao),7810201C,7810201C
+374,Quản trị kinh doanh (Chương trình quốc tế),7340101Q,7340101Q
+375,Marketing (Chương trình quốc tế),7340115Q,7340115Q
+376,Kế toán (Chương trình quốc tế),7340301Q,7340301Q
+377,Kinh doanh quốc tế (Chương trình quốc tế),7340120Q,7340120Q
+378,Khí tượng và khí hậu học,QHT16,QHT16
+379,Thuỷ văn học,7440224,7440224
+380,Biến đổi khí hậu và Phát triển bền vững,7440298,7440298
+381,Khí tượng thủy văn biển,7440299,7440299
+382,Kinh tế tài nguyên thiên nhiên,7850102,7850102
+383,Quản lý tài nguyên nước,7850198,7850198
+384,Quản lý biển,7850199,7850199
+385,Tại trụ sở chính,,
+386,Biến đổi khí hậu và phát triển bền vững,7440298,7440298
+387,Thủy văn học,7440224,7440224
+388,Kỹ thuật trắc địa – bản đồ,7520503PH,7520503PH
+389,Tại phân hiệu Thanh Hóa,,
+390,Trụ sở chính tại Hà Nội,,
+391,Phân hiệu tại Thanh Hóa,,
+392,Kỹ thuật cơ khí động lực,7520116,7520116
+393,Quan hệ quốc tế,7310206,7310206
+394,Đông Phương học,7310608,7310608
+395,Giáo dục Mầm non (hệ cao đẳng),51140201,51140201
+396,Giáo dục Tiểu học (hệ cao đẳng),5140202,5140202
+397,Giáo dục Thể chất (hệ cao đẳng),51140206,51140206
+398,Sư phạm Tin học (hệ cao đẳng),51140210,51140210
+399,Sư phạm Âm nhạc (hệ cao đẳng),51140221,51140221
+400,Sư phạm Mỹ thuật (hệ cao đẳng),51140222,51140222
+401,Sư phạm Tiếng Anh (hệ cao đẳng),5140231,5140231
+402,Chuyên ngành Văn hóa Du lịch,7229040D-01,7229040D-01
+403,Chuyên ngành Văn hóa Truyền thông,7229040-02,7229040-02
+404,Chuyên ngành Văn hóa Doanh nghiệp,7229040-03,7229040-03
+405,Quản lý văn hoá,7229042,7229042
+406,Quản lý văn hóa,7229042,7229042
+407,Chuyên ngành Chính sách công,7310201D-01,7310201D-01
+408,Xây dựng Đảng và chính quyền nhà nước,7310202,7310202
+409,Chuyên ngành Quản lý nhà nước về kinh tế,7310205-01,7310205-01
+410,Chuyên ngành Quản lí tài chính công,7310205-02,7310205-02
+411,Chuyên ngành Quản lý nhà nướcvề nông nghiệp và phát triển nông thôn,7310205-03,7310205-03
+412,Chuyên ngành Thanh tra,7310205-04,7310205-04
+413,Thông tin - thư viện,7320201,7320201
+414,Lưu trữ học,QHX09,QHX09
+415,TẠI HÀ NỘI,,
+416,CN Văn hóa du lịch,7229040-01QN,7229040-01QN
+417,CN Văn hóa truyền thông,7229040-02,7229040-02
+418,CN Văn hóa doanh nghiệp,7229040-03,7229040-03
+419,CN Quản lý nhà nước về kinh tế,7310205-01,7310205-01
+420,CN Quản lí tài chính công,7310205-02,7310205-02
+421,CN Quản lý nhà nước về NN và phát triển NT,7310205-03,7310205-03
+422,CN Thanh tra,7380101-01QN,7380101-01QN
+423,CN Chính sách công,7310201-01,7310201-01
+424,Phân hiệu tại Quảng Nam,,
+425,CN Văn hóa Du lịch,7229040D-01,7229040D-01
+426,Cơ sở tại TPHCM,,
+427,CN QLNN về Kinh tế,7310205-01,7310205-01
+428,CN Quản lý tài chính công,7310205-02,7310205-02
+429,CN QLNN về Tôn giáo,7310205-03,7310205-03
+430,Quản trị Kinh doanh,7340101,7340101
+431,Quản trị Văn phòng,7340406LT,7340406LT
+432,Công nghệ Thông tin,CN1,CN1
+433,Giáo dục Mầm non (cao đẳng),51140201,51140201
+434,Giáo dục Tiểu học (cao đẳng),51140202,51140202
+435,Giáo dục Thể chất (cao đẳng),51140206,51140206
+436,Sư phạm Toán học (cao đẳng),51140209,51140209
+437,Sư phạm Tin học (cao đẳng),51140210,51140210
+438,Sư phạm Vật lý (cao đẳng),51140211,51140211
+439,Sư phạm Hoá học (cao đẳng),51140212,51140212
+440,Sư phạm Sinh học (cao đẳng),51140213,51140213
+441,Sư phạm Ngữ văn (cao đẳng),51140217,51140217
+442,Sư phạm Lịch sử (cao đẳng),51140218,51140218
+443,Sư phạm Địa lý (cao đẳng),51140219,51140219
+444,Sư phạm Âm nhạc (cao đẳng),51140221,51140221
+445,Sư phạm Mỹ thuật (cao đẳng),51140222,51140222
+446,Sư phạm Tiếng Anh (cao đẳng),51140231,51140231
+447,Sư phạm mầm non (trung cấp),42140201,42140201
+448,Sư phạm tiểu học (trung cấp),42140202,42140202
+449,Sư phạm thể dục thể thao (trung cấp),42140206,42140206
+450,Hệ Cao đẳng,,
+451,Sư phạm Tin học (Chuyên ngành Tin học – Công nghệ Tiểu học),7140210,7140210
+452,Sư phạm Hóa học (Chuyên ngành Hóa – Lý),7140212,7140212
+453,Sư phạm Sinh học (Chuyên ngành Sinh học – Công nghệ THPT),7140213,7140213
+454,Sư phạm Tiếng Anh (Chuyên ngành Tiếng Anh Tiểu học- Mầm non),7140231,7140231
+455,Sư phạm Lịch sử (Chuyên ngành Sử - Địa),7140218,7140218
+456,Các ngành trình độ cao đẳng,,
+457,Các ngành đào tạo đại học:,,
+458,Quản lý Tài nguyên và Môi trường,7850101,7850101
+459,Các ngành đào tạo cao đẳng sư phạm,,
+460,Các ngành đào tạo cao đẳng ngoài sư phạm,,
+461,Tiếng Anh,6220206,6220206
+462,Tiếng Trung Quốc,6220209,6220209
+463,"Công nghệ KT Điện, ĐT",6510303,6510303
+464,Nuôi trồng thủy sản,7620301,7620301
+465,Các ngành đào tạo cao đẳng,,
+466,Thiết kế công nghiệp,7210402,7210402
+467,Kinh doanh quôc tế,7340120,7340120
+468,Y đa khoa,7720101,7720101
+469,Răng- Hàm -Mặt,7720501,7720501
+470,Quản lý đô thị và công trình,7580106,7580106
+471,Quản lý giáo dục,7140114,7140114
+472,Thống kê,7460201,7460201
+473,Điểm chuẩn theo kết quả thi THPTQG:,,
+474,Giáo dục mâm non,7140201,7140201
+475,Giáo duc Tiêu hoc,7140202,7140202
+476,Giáo duc Chính tri,7140205,7140205
+477,Giáo dục Thê chât,7140206,7140206
+478,Sư phạm Ngừ văn,7140217,7140217
+479,Sư phạm Tiêng Anh,7140231,7140231
+480,Kinh tê,7310101,7310101
+481,Kê toán,7340301,7340301
+482,Sinh hoc,7420101,7420101
+483,Hoá hoc,7440112,7440112
+484,Địa lý tự nhiên,QHT10,QHT10
+485,Toán hoc,7460101,7460101
+486,Thông kê,7460201,7460201
+487,Kỹ thuật phân mêm,7480103,7480103
+488,Kỹ thuật điện tử - viên thông,7520207,7520207
+489,Điểm chuẩn xét học bạ:,,
+490,Sư phạm Lịch sử Địa lý,7140249,7140249
+491,Sư phạm Toán học (hệ cao đẳng),51140209,51140209
+492,Sư phạm Vật lý (hệ cao đẳng),51140211,51140211
+493,Sư phạm Lịch sử (hệ cao đẳng),51140218,51140218
+494,Sư phạm Toán,GD1,GD1
+495,Hệ đại học,,
+496,Đạo diễn sân khấu,7210227,7210227
+497,Diễn viên kịch - điện ảnh,7210234,7210234
+498,Đạo diễn điện ảnh - truyền hình,7210235,7210235
+499,Quay phim,7210236,7210236
+500,"Diễn viên kịch, điện ảnh - truyền hình",7210234,7210234
+501,"Đạo diễn điển ảnh, truyền hình",7210235,7210235
+502,Công nghệ kỹ thuật điện tử viễn thông,7510302,7510302
+503,Công nghệ thông tin (chương trình đào tạo CNTT Việt Nhật),7480201-VJ,7480201-VJ
+504,Công nghệ vật liệu,7510402,7510402
+505,Kỹ thuật ô tô,7520130,7520130
+506,Công nghệ truyền thông,7320106,7320106
+507,Công nghệ kỹ thuật máy tính,7480108,7480108
+508,Thương mại điện tử (Theo đặt hàng Doanh nghiệp),7340122_DT,7340122_DT
+509,Kỹ thuật phần mềm (Theo đặt hàng Doanh nghiệp),7480103_DT,7480103_DT
+510,Công nghệ kỹ thuật máy tính (Theo đặt hàng Doanh nghiệp),7480108_DT,7480108_DT
+511,Công nghệ thông tin (Theo đặt hàng Doanh nghiệp),7480201_DT,7480201_DT
+512,Công nghệ kỹ thuật điện tử - viễn thông (Liên kết với Đài Loan),7510302_FCU,7510302_FCU
+513,Kinh tế đầu tư,7310104,7310104
+514,Quản lý công,7340403,7340403
+515,Sư phạm Tiếng Nga,7140232,7140232
+516,Nhóm ngành Quản trị - Quản lý (Gồm 3 ngành: Quản trị nhân lực; Hệ thống thông tin quản lý; Quản trị văn phòng),73404,73404
+517,Quản trị công nghệ truyền thông*,7340410,7340410
+518,Truyền thông và mạng máy tính,7480102,7480102
+519,Nhóm ngành Công nghệ thông tin và truyền thông (Gồm 2 ngành: Kỹ thuật phần mềm; Hệ thống thông tin quản lý),748,748
+520,Mạng máy tính và Truyền thông dữ liệu,7480102,7480102
+521,Nhóm ngành Quản trị - Quản lý (*) - Quản trị nhân lực - Quản trị văn phòng - Hệ thống thông tin quản lý,73404,73404
+522,Quản trị công nghệ truyền thông,7340410,7340410
+523,Thiết kế thời trang (hợp tác với Viện thời trang Mod’Art Paris – Pháp),7210404,7210404
+524,Logistics và Quản lý chuỗi cung ứng (dự kiến),7510605,7510605
+525,Ngôn ngữ Anh (hệ số 2 môn tiếng Anh) (*),7220201,7220201
+526,Thanh nhạc,7210205,7210205
+527,Khối ngành Toán - Tin học,,
+528,Khối ngành Kinh tế - Quản lý,,
+529,Quản trị dịch vụ du lịch - Lữ hành,7810103,7810103
+530,Khối ngành Ngoại ngữ,,
+531,Khối ngành Khoa học xã hội và nhân văn,,
+532,Khối ngành Khoa học sức khỏe,,
+533,Kỹ thuật tài nguyên nước,7580212,7580212
+534,Kỹ thuật cấp thoát nước,7580213,7580213
+535,Quản lý tổng hợp tài nguyên nước,7850195,7850195
+536,Quản lý tài nguyên khoáng sản,7850196,7850196
+537,Quản lý tài nguyên và môi trường biển đảo,7850197,7850197
+538,Biển đổi khí hậu và phát triển bền vững,7440298,7440298
+539,Kỹ thuật trắc địa Bản đồ,7520503,7520503
+540,Quàn lý tài nguyên và môi trường biển đảo,7850197,7850197
+541,Nông nghiệp,7620101,7620101
+542,Lâm sinh,7620205,7620205
+543,Khoa học & Quản lý môi trường (CTTT),7904492,7904492
+544,Công nghệ thực phẩm (CTTT),7905419,7905419
+545,Kinh tế nông nghiệp (CTTT),7906425,7906425
+546,Quản lý thông tin,QHX14,QHX14
+547,Kỹ thuật thực phẩm,7540102,7540102
+548,Khoa học & Quản lý môi trường,7904492,7904492
+549,Sư phạm tiếng anh,51140231,51140231
+550,giáo dục tiểu học,51140202,51140202
+551,SƯ phạm tin học,51140210,51140210
+552,Sư phạm mỹ thuật,52140222,52140222
+553,Sư phạm âm nhạc,51120221,51120221
+554,Sư phạm mầm non,51140201,51140201
+555,Giáo dục học,7140101,7140101
+556,Sư phạm Vật Lý,7140211_A01,7140211_A01
+557,Sư phạm Ngữ Văn,7140217_D14,7140217_D14
+558,Sư phạm Lịch Sử,7140218_C03,7140218_C03
+559,Sư phạm Địa Lý,7140219_D10,7140219_D10
+560,Ngôn ngữ Anh -Chất lượng cao,F7220201,F7220201
+561,Ngôn ngữ Trung Quốc (Chuyên ngành Trung - Anh),7220204A,7220204A
+562,Việt Nam học (Chuyên ngành Du lịch và Quản lý du lịch),7310630Q,7310630Q
+563,Việt Nam học (Chuyên ngành Du lịch và Quản lý du lịch) - Chất lượng cao,F7310630Q,F7310630Q
+564,Quản trị kinh doanh -Chất lượng cao,F7340101,F7340101
+565,Quản trị kinh doanh (Chuyên ngành Quản trị Marketing),7340101M,7340101M
+566,Quản trị kinh doanh (Chuyên ngành Quản trị Marketing)- Chất lượng cao,F7340101M,F7340101M
+567,Quản trị kinh doanh (Chuyên ngành Quản trị Nhà hàng - Khách sạn),7340101N,7340101N
+568,Quản trị kinh doanh (Chuyên ngành Quản trị Nhà hàng - Khách sạn) -Chất lượng cao,F7340101N,F7340101N
+569,Kinh doanh quốc tế -Chất lượng cao,F7340120,F7340120
+570,Tài chính - Ngân hàng - Chất lượng cao,F7340201,F7340201
+571,Kế toán - Chất lượng cao,F7340301,F7340301
+572,Quan hệ lao động,7340408,7340408
+573,Luật - Chất Lượng cao,F7380101,F7380101
+574,Công nghệ sinh học (Chất lượng cao),F7420201,F7420201
+575,Khoa học môi trường(Chất lượng cao),F7440301,F7440301
+576,Khoa học máy tính- Chất lượng cao,F7480101,F7480101
+577,Kỹ thuật phần mềm - Chất lượng cao,F7480103,F7480103
+578,Kỹ thuật điện - Chất lượng cao,F7520201,F7520201
+579,Kỹ thuật điện tử - viễn thông (Chất lượng cao),F7520207,F7520207
+580,Kỹ thuật xây dựng (Chất lượng cao),F7580201,F7580201
+581,Quản lý thể dục thể thao,7810301,7810301
+582,Bảo hộ lao động,7850201,7850201
+583,Ngôn ngữ Anh -Chương trình học 02 năm đầu tại Bảo Lộc,B7220201,B7220201
+584,Quản trị kinh doanh (Chuyên ngành Quản trị Nhà hàng - Khách sạn) - Chương trình học 02 năm đầu tại Bảo Lộc,B7340101N,B7340101N
+585,Luật - Chương trình học 02 năm đầu tại Bảo Lộc,B7380101,B7380101
+586,Công nghệ sinh học - Chương trình học 02 năm đầu tại Bảo Lộc,B7420201,B7420201
+587,Kỹ thuật phần mềm - Chương trình học 02 năm đầu tại Bảo Lộc,B7480103,B7480103
+588,Ngôn ngữ Anh- Chương trình học 02 năm đầu tại Nha Trang,N7220201,N7220201
+589,Quản trị kinh doanh (Chuyên ngành Quản trị Marketing)-Chương trình học 02 năm đầu tại Nha Trang,N7340101M,N7340101M
+590,Quản trị kinh doanh (Chuyên ngành Quản trị Nhà hàng - Khách sạn) -Chương trình học 02 năm đầu tại Nha Trang,N7340101N,N7340101N
+591,Kế toán -Chương trình học 02 năm đầu tại Nha Trang,N7340301,N7340301
+592,Luật -Chương trình học 02 năm đầu tại Nha Trang,N7380101,N7380101
+593,Ngôn ngữ Anh - Chương trình học 02 năm đầu tại Cà Mau,M7220201,M7220201
+594,Kế toán - Chương trình học 02 năm đầu tại Cà Mau,M7340301,M7340301
+595,Kỹ thuật điện - Chương trình học 02 năm đầu tại Cà Mau,M7520201,M7520201
+596,Kỹ thuật điều khiển và tự động hóa -Chương trình học 02 năm đầu tại Cà Mau,M7520216,M7520216
+597,Quản lý du lịch và giải trí (song bằng 2+2) Đại học khoa học và công nghệ quốc gia Penghu (Đài Loan),K7310630Q,K7310630Q
+598,Quản trị kinh doanh (song bằng 2+2) Đại học kinh tế Praha (Cộng Hòa Séc),K7340101,K7340101
+599,"Quản trị nhà hàng khách sạn (song bằng 2,5+1,5) Đại học Taylor’s (Malaysia)",K7340101N,K7340101N
+600,Tài chính (song bằng 2+2) Đại học Fengchia (Đài Loan),K7340201,K7340201
+601,"Kế toán (song bằng 3+1) Đại học West of England, Bristol (Vương Quốc Anh)",K7340301,K7340301
+602,"Kỹ thuật điện – điện tử (song bằng 2,5+1,5) Đại học khoa học ứng dụng Saxion (Hà Lan)",K7520201,K7520201
+603,Việt Nam học (CN Du lịch và Lữ hành),7310630,7310630
+604,Quản trị kinh doanh (CN quản trị nhân sự),7340101,7340101
+605,"Quan hệ lao động (CN Quản lý Quan hệ lao động, CN Hành vi tổ chức)",7340408,7340408
+606,Quản lý thể dục thể thao (CN Kinh doanh thể thao và tổ chức sự kiện),7810301,7810301
+607,Ngôn ngữ Trung Quốc (CN Trung - Anh),7220204A,7220204A
+608,Việt Nam học (CN Du lịch và Quản lý du lịch),7310630Q,7310630Q
+609,Quản trị kinh doanh (CN Quản trị Nhà hàng - Khách sạn),7340101N,7340101N
+610,Golf,7810302,7810302
+611,Ngôn ngữ Anh -Chương trình 02 năm đầu học tại Bảo Lộc,B7220201,B7220201
+612,"Việt Nam học, Chuyên ngành: Du lịch và quản lý du lịch -Chương trình 02 năm đầu học tại Bảo Lộc",B7310630Q,B7310630Q
+613,"Quản trị kinh doanh, Chuyên ngành: Quản trị nhà hàng - khách sạn -Chương trình 02 năm đầu học tại Bảo Lộc",B7340101N,B7340101N
+614,Luật - Chương trình 02 năm đầu học tại Bảo Lộc,B7380101,B7380101
+615,Kỹ thuật phần mềm - Chương trình 02 năm đầu học tại Bảo Lộc,B7480103,B7480103
+616,Thiết kế đồ họa - Chất lượng cao giảng dạy bằng tiếng Anh - Việt,F7210403,F7210403
+617,Ngôn ngữ Anh -Chất lượng cao giảng dạy bằng tiếng Anh - Việt,F7220201,F7220201
+618,Việt Nam học (Chuyên ngành: Du lịch và Quản lý du lịch)- Chất lượng cao giảng dạy bằng tiếng Anh - Việt,F7310630Q,F7310630Q
+619,Quản trị kinh doanh (Chuyên ngành: Quản trị nguồn nhân lực) - Chất lượng cao giảng dạy bằng tiếng Anh - Việt,F7340101,F7340101
+620,Quản trị kinh doanh (Chuyên ngành: Quản trị nhà hàng - khách sạn) - Chất lượng cao giảng dạy bằng tiếng Anh - Việt,F7340101N,F7340101N
+621,Marketing -Chất lượng cao giảng dạy bằng tiếng Anh - Việt,F7340115,F7340115
+622,Kinh doanh quốc tế - Chất lượng cao giảng dạy bằng tiếng Anh - Việt,F7340120,F7340120
+623,Tài chính - Ngân hàng - Chất lượng cao giảng dạy bằng tiếng Anh - Việt,F7340201,F7340201
+624,Kế toán - Chất lượng cao giảng dạy bằng tiếng Anh - Việt,F7340301,F7340301
+625,Luật - Chất lượng cao giảng dạy bằng tiếng Anh - Việt,F7380101,F7380101
+626,Công nghệ sinh học - Chất lượng cao giảng dạy bằng tiếng Anh - Việt,F7420201,F7420201
+627,Khoa học máy tính - Chất lượng cao giảng dạy bằng tiếng Anh - Việt,F7480101,F7480101
+628,Kỹ thuật phần mềm - Chất lượng cao giảng dạy bằng tiếng Anh - Việt,F7480103,F7480103
+629,Kỹ thuật điện -Chất lượng cao giảng dạy bằng tiếng Anh - Việt,F7520201,F7520201
+630,Kỹ thuật điện tử - viễn thông - Chất lượng cao giảng dạy bằng tiếng Anh - Việt,F7520207,F7520207
+631,Kỹ thuật điều khiển và tự động hóa - Chất lượng cao giảng dạy bằng tiếng Anh - Việt,F7520216,F7520216
+632,Kỹ thuật xây dựng - Chất lượng cao giảng dạy bằng tiếng Anh - Việt,F7580201,F7580201
+633,Ngôn ngữ Anh -Chất lượng cao giảng dạy 100% tiếng Anh,FA7220201,FA7220201
+634,Quản trị kinh doanh (Chuyên ngành: Quản trị nhà hàng - khách sạn) - Chất lượng cao giảng dạy 100% tiếng Anh,FA7340101N,FA7340101N
+635,Marketing - Chất lượng cao giảng dạy 100% tiếng Anh,FA7340115,FA7340115
+636,Kế toán (chuyên ngành: Kế toán quốc tế) - Chất lượng cao giảng dạy 100% tiếng Anh,FA7340301,FA7340301
+637,Công nghệ sinh học - Chất lượng cao giảng dạy 100% tiếng Anh,FA7420201,FA7420201
+638,Khoa học máy tính - Chất lượng cao giảng dạy 100% tiếng Anh,FA7480101,FA7480101
+639,Kỹ thuật phần mềm - Chất lượng cao giảng dạy 100% tiếng Anh,FA7480103,FA7480103
+640,Kỹ thuật điều khiển và tự động hóa - Chất lượng cao giảng dạy 100% tiếng Anh,FA7520216,FA7520216
+641,Kỹ thuật xây dựng - Chất lượng cao giảng dạy 100% tiếng Anh,FA7580201,FA7580201
+642,Quản lý du lịch và giải trí (song bằng 2+2) - Chương trình liên kết Đại học khoa học-công nghệ quốc gia Penghu-Đài Loan,K7310630Q,K7310630Q
+643,Quản trị kinh doanh (song bằng 2+2) - Chương trình liên kết Đại học kinh tế Praha-Cộng hòa Séc; Đại học Saimaa-Phần Lan,K7340101,K7340101
+644,"Quản trị nhà hàng khách sạn (song bằng 2,5+1,5) -Chương trình liên kết Đại học Taylor’s-Malaysia; Chương trình liên kết (song bằng 2+2) Đại học Southern Cross-Úc",K7340101N,K7340101N
+645,Quản trị kinh doanh quốc tế (đơn bằng 3+1) - Chương trình liên kết Đại học khoa học và công nghệ Lunghwa-Đài Loan,K7340120,K7340120
+646,Tài chính (song bằng 2+2) -Chương trình liên kết Đại học Fengchia-Đài Loan,K7340201,K7340201
+647,Tài chính (đơn bằng 3+1) -Chương trình liên kết Đại học khoa học và công nghệ Lunghwa-Đài Loan; Tài chính và kiểm soát (đơn bằng 3+1) -Chương trình liên kết Đại học khoa học ứng dụng Saxion-Hà Lan,K7340201S,K7340201S
+648,"Kế toán (song bằng 3+1) - Chương trình liên kết Đại học West of England, Bristol-Vương quốc Anh",K7340301,K7340301
+649,Khoa học máy tính & công nghệ tin học (đơn bằng 2+2) - Chương trình liên kết Đại học khoa học và công nghệ Lunghwa-Đài Loan; Đại học kỹ thuật Ostrava-Cộng hòa Czech,K7480101,K7480101
+650,"Kỹ thuật điện – điện tử (song bằng 2,5+1,5) - Chương trình liên kết Đại học khoa học ứng dụng Saxion-Hà Lan",K7520201,K7520201
+651,Ngôn ngữ Anh -Chương trình 02 năm đầu học tại Nha Trang,N7220201,N7220201
+652,"Quản trị kinh doanh, Chuyên ngành: Quản trị nhà hàng - khách sạn -Chương trình 02 năm đầu học tại Nha Trang",N7340101N,N7340101N
+653,Marketing -Chương trình 02 năm đầu học tại Nha Trang,N7340115,N7340115
+654,Kế toán -Chương trình 02 năm đầu học tại Nha Trang,N7340301,N7340301
+655,Luật -Chương trình 02 năm đầu học tại Nha Trang,N7380101,N7380101
+656,Ngôn ngữ Trung Quốc (Chuyên ngành: Trung - Anh),7220204A,7220204A
+657,Việt Nam học (Chuyên ngành: Du lịch và quản lý du lịch),7310630Q,7310630Q
+658,Quản trị kinh doanh (Chuyên ngành: Quản trị nhà hàng - khách sạn),7340101N,7340101N
+659,Y khoa (liên thông),7720101LT,7720101LT
+660,Dược học (liên thông),7720201LT,7720201LT
+661,Khoa học quản lý,QHX07,QHX07
+662,Toán tin,QHT02,QHT02
+663,Hoá dược,7720203CLC,7720203CLC
+664,Quản lý tài nguyên và Môi trường,7760101,7760101
+665,Đồ hoạ,7210104,7210104
+666,Piano,7210208,7210208
+667,Văn hóa học,7229040,7229040
+668,CĐ Giáo dục mầm non,5140201,5140201
+669,Âm nhạc học,7210201,7210201
+670,Biểu diễn nhạc cụ truyền thống,7210210,7210210
+671,Ngôn ngữ Khmer,7220106,7220106
+672,Văn hoá các dân tộc thiểu số Việt Nam,7220112,7220112
+673,Khoa học vật liệu,QHT04,QHT04
+674,Sư phạm Tiếng Khmer,7140226,7140226
+675,Kỹ thuật XD Cầu đường bộ (ngành Kỹ thuật xây dựng CTGT),GHA-01,GHA-01
+676,Kỹ thuật XD Đường bộ (ngành Kỹ thuật xây dựng CTGT),GHA-02,GHA-02
+677,Kỹ thuật XD Cầu hầm (ngành Kỹ thuật xây dựng CTGT),GHA-03,GHA-03
+678,Kỹ thuật XD Đường sắt (ngành Kỹ thuật xây dựng CTGT),GHA-04,GHA-04
+679,Kỹ thuật XD Cầu - Đường sắt (ngành Kỹ thuật xây dựng CTGT),GHA-05,GHA-05
+680,Kỹ thuật XD Cầu - Đường ô tô - Sân bay (ngành Kỹ thuật xây dựng CTGT),GHA-06,GHA-06
+681,Kỹ thuật XD Đường ô tô - Sân bay (ngành Kỹ thuật xây dựng CTGT),GHA-07,GHA-07
+682,Công trình giao thông công chính (ngành Kỹ thuật xây dựng CTGT),GHA-08,GHA-08
+683,Công trình giao thông đô thị (ngành Kỹ thuật xây dựng CTGT),GHA-09,GHA-09
+684,Tự động hóa thiết kế cầu đường (ngành Kỹ thuật xây dựng CTGT),GHA-10,GHA-10
+685,Kỹ thuật giao thông đường bộ (ngành Kỹ thuật xây dựng CTGT),GHA-11,GHA-11
+686,Nhóm chuyên ngành: Kỹ thuật XD Đường sắt đô thị; Kỹ thuật XD Đường hầm và metro; Địa kỹ thuật CTGT; Kỹ thuật GIS và trắc địa CT (ngành Kỹ thuật xây dựng CTGT),GHA-12,GHA-12
+687,Kỹ thuật xây dựng công trình thủy,7580202,7580202
+688,Nhóm chuyên ngành: Công nghệ chế tạo cơ khí; Tự động hóa thiết kế cơ khí; Cơ điện tử (ngành Kỹ thuật cơ khí),GHA-16,GHA-16
+689,Cơ khí ôtô (ngành Kỹ thuật cơ khí),GHA-17,GHA-17
+690,Nhóm chuyên ngành: Máy xây dựng; Cơ giới hóa XD cầu đường; Cơ khí giao thông công chính; Kỹ thuật máy động lực; Đầu máy - toa xe; Tàu điện - metro (ngành Kỹ thuật cơ khí),GHA-18,GHA-18
+691,Kinh tế vận tải,7840104H,7840104H
+692,Khai thác vận tải,7840101,7840101
+693,Công nghệ kỹ thuật giao thông,7510104VP,7510104VP
+694,Kỹ thuật xây dựng công trình giao thông (Chương trình CLC: Cầu - Đường bộ Việt - Anh; Cầu - Đường bộ Việt - Pháp; Công trình GTĐT Việt - Nhật; Chương trình tiên tiến),GHA-32,GHA-32
+695,Kỹ thuật xây dựng (Chương trình CLC: Vật liệu và Công nghệ Việt - Pháp),GHA-33,GHA-33
+696,Kinh tế xây dựng (Chương trình CLC: Kinh tế xây dựng công trình Giao thông Việt - Anh),GHA-34,GHA-34
+697,Kế toán (Chương trình CLC: Kế toán tổng hợp Việt - Anh),GHA-35,GHA-35
+698,CƠ SỞ PHÍA BẮC,,
+699,Kỹ thuật xây dựng (gồm các chuyên ngành: Xây dựng dân dụng và công nghiệp; Kết cấu xây dựng; Kỹ thuật hạ tầng đô thị; Vật liệu và công nghệ xây dựng),GHA-15,GHA-15
+700,Ngành kĩ thuật cơ khí (nhóm kĩ thuật cơ khí gồm các chuyên ngành: Công nghệ chế tạo cơ khí; Tự động hóa thiết kế cơ khí; Cơ điện tử,GHA-16,GHA-16
+701,"Ngành Quản trị kinh doanh (gồm 4 chuyên ngành: Quản trị doanh nghiệp xây dựng, Quản trị doanh nghiệp Bưu chính - Viễn thông, Quản trị kinh doanh giao thông vận tải, Quản trị Logistics)",GHA-01,GHA-01
+702,Ngành Kế toán (chuyên ngành Kế toán tổng hợp),GHA-02,GHA-02
+703,Ngành Kinh tế (chuyên ngành Kinh tế Bưu chính - Viễn thông),GHA-03,GHA-03
+704,"Ngành Khai thác vận tải (gồm 5 chuyên ngành: Khai thác vận tải đường sắt đô thị, Khai thác vận tải đa phương thức,Vận tải - Thương mại quốc tế, Qui hoạch và quản lý GTVT đô thị, Logistics)",GHA-04,GHA-04
+705,"Ngành Kinh tế vận tải (gồm 3 chuyên ngành: Kinh tế vận tải ô tô, Kinh tế vận tải đường sắt, Kinh tế vận tải và du lịch)",GHA-05,GHA-05
+706,Ngành Toán ứng dụng (chuyên ngành Toán - Tin ứng dụng),GHA-06,GHA-06
+707,Ngành Công nghệ thông tin,7480201,7480201
+708,Ngành Công nghệ kỹ thuật giao thông (chuyên ngành Kỹ thuật an toàn giao thông),GHA-08,GHA-08
+709,Ngành Kỹ thuật môi trường (chuyên ngành Kỹ thuật môi trường giao thông),GHA-09,GHA-09
+710,"Ngành Kỹ thuật cơ khí (gồm 2 chuyên ngành: Công nghệ chế tạo cơ khí, Tự động hóa thiết kế cơ khí)",GHA-10,GHA-10
+711,Ngành Kỹ thuật Cơ điện tử (chuyên ngành Cơ điện tử),GHA-11,GHA-11
+712,"Ngành Kỹ thuật nhiệt (gồm 2 chuyên ngành: Kỹ thuật nhiệt lạnh, Điều hòa không khí và thông gió công trình xây dựng)",GHA-12,GHA-12
+713,Ngành Kỹ thuật cơ khí động lực (Chuyên ngành Máy xây dựng),GHA-13,GHA-13
+714,"Ngành Kỹ thuật cơ khí động lực (Nhóm chuyên ngành: Cơ giới hóa xây dựng cầu đường, Cơ khí giao thông công chính, Kỹ thuật máy động lực, Đầu máy - toa xe, Tàu điện - metro)",GHA-14,GHA-14
+715,Ngành Kỹ thuật ô tô (chuyên ngành Cơ khí ô tô),GHA-15,GHA-15
+716,"Ngành Kỹ thuật điện (gồm 2 chuyên ngành: Trang bị điện trong công nghiệp và giao thông, Hệ thống điện giao thông và công nghiệp)",GHA-16,GHA-16
+717,"Ngành Kỹ thuật điện tử - viễn thông (gồm 3 chuyên ngành: Kỹ thuật điện tử và tin học công nghiệp, Kỹ thuật thông tin và truyền thông, Kỹ thuật viễn thông)",GHA-17,GHA-17
+718,"Ngành Kỹ thuật điều khiển và tự động hoá (gồm 2 chuyên ngành: Kỹ thuật điều khiển và tự động hóa giao thông, Tự động hóa)",GHA-18,GHA-18
+719,"Ngành Kỹ thuật xây dựng (gồm 4 chuyên ngành: Xây dựng dân dụng và công nghiệp, Kết cấu xây dựng, Kỹ thuật hạ tầng đô thị, Vật liệu và công nghệ xây dựng)",GHA-19,GHA-19
+720,Ngành Kỹ thuật xây dựng công trình thủy,GSA-15,GSA-15
+721,Ngành Kỹ thuật xây dựng công trình giao thông (Chuyên ngành Cầu đường bộ),GHA-21,GHA-21
+722,"Ngành Kỹ thuật xây dựng công trình giao thông (Nhóm chuyên ngành: Đường bộ, Kỹ thuật giao thông đường bộ)",GHA-22,GHA-22
+723,"Ngành Kỹ thuật xây dựng công trình giao thông (Nhóm chuyên ngành: Cầu hầm, Đường hầm và metro)",GHA-23,GHA-23
+724,"Ngành Kỹ thuật xây dựng công trình giao thông (Nhóm chuyên ngành: Đường sắt, Cầu-Đường sắt, Đường sắt đô thị)",GHA-24,GHA-24
+725,"Ngành Kỹ thuật xây dựng công trình giao thông (Nhóm chuyên ngành: Đường ô tô - Sân bay, Cầu - Đường ô tô - Sân bay)",GHA-25,GHA-25
+726,"Ngành Kỹ thuật xây dựng công trình giao thông (Nhóm chuyên ngành: Công trình giao thông đô thị, Công trình giao thông công chính )",GHA-26,GHA-26
+727,"Ngành Kỹ thuật xây dựng công trình giao thông (Nhóm chuyên ngành: Tự động hóa thiết kế cầu đường, Địa kỹ thuật công trình giao thông, Kỹ thuật GIS và trắc địa công trình)",GHA-27,GHA-27
+728,"Ngành Kinh tế xây dựng (gồm 2 chuyên ngành: Kinh tế quản lý khai thác cầu đường, Kinh tế xây dựng công trình giao thông)",GHA-28,GHA-28
+729,Ngành Quản lý xây dựng,GSA-15,GSA-15
+730,Ngành Kỹ thuật xây dựng công trình giao thông (Chương trình chất lượng cao Cầu - Đường bộ Việt – Pháp),GHA-30,GHA-30
+731,Ngành Kỹ thuật xây dựng công trình giao thông (Chương trình chất lượng cao Cầu - Đường bộ Việt – Anh),GHA-31,GHA-31
+732,Ngành Kỹ thuật xây dựng công trình giao thông (Chương trình chất lượng cao Công trình Giao thông đô thị Việt - Nhật),GHA-32,GHA-32
+733,Ngành Kỹ thuật xây dựng (Chương trình tiên tiến Kỹ thuật xây dựng công trình giao thông),GHA-33,GHA-33
+734,Ngành Kỹ thuật xây dựng (Chương trình chất lượng cao Vật liệu và Công nghệ Xây dựng Việt – Pháp),GHA-34,GHA-34
+735,Ngành Kinh tế xây dựng (Chương trình chất lượng cao Kinh tế xây dựng công trình Giao thông Việt - Anh),GHA-35,GHA-35
+736,Ngành Kế toán (Chương trình chất lượng cao Kế toán tổng hợp Việt - Anh),GHA-36,GHA-36
+737,"Nhóm Kỹ thuật cơ khí, cơ khí động lực",GSA-01,GSA-01
+738,Nhóm Kỹ thuật ô tô,GSA-02,GSA-02
+739,Ngành Kỹ thuật điện,GSA-03,GSA-03
+740,Ngành Kỹ thuật điện tử - viễn thông,GSA-04,GSA-04
+741,Ngành Kỹ thuật điều khiển và tự động hoá,GSA-05,GSA-05
+742,Ngành Kế toán,GSA-07,GSA-07
+743,Ngành Kinh tế,GSA-08,GSA-08
+744,Ngành Kinh tế vận tải,7840104,7840104
+745,Ngành Kinh tế xây dựng,GSA-10,GSA-10
+746,Ngành Kỹ thuật xây dựng,7580201H,7580201H
+747,Ngành Quản trị kinh doanh,52340101,52340101
+748,Ngành Khai thác vận tải,GSA-13,GSA-13
+749,Ngành Kỹ thuật xây dựng công trình giao thông,7580205,7580205
+750,CƠ SỞ PHÍA NAM,,
+751,"Nhóm Kỹ thuật cơ khí (nhóm Kỹ thuật cơ khí, cơ khí động lực gồm các Chuyên ngành: Máy xây dựng, Cơ điện tử)",GSA-01,GSA-01
+752,Ngành Kỹ thuật cơ khí (Nhóm Kỹ thuật ô tô: Chuyên ngành Cơ khí ô tô),GSA-02,GSA-02
+753,Ngành Kỹ thuật điện (Chuyên ngành Trang bị điện trong Công nghiệp và Giao thông),GSA-03,GSA-03
+754,Ngành Kỹ thuật điện tử - viễn thông (Gồm các chuyên ngành: Kỹ thuật viễn thông; Điện tử và tin học công nghiệp),GSA-04,GSA-04
+755,Ngành Kỹ thuật điều khiển và tự động hoá (gồm các chuyên ngành: Tự động hóa; Giao thông thông minh - ITS),GSA-05,GSA-05
+756,Ngành Kế toán (Chuyên ngành kế toán tổng hợp),GSA-07,GSA-07
+757,Ngành Kinh tế (chuyên ngành kinh tế bưu chính viễn thông),GSA-08,GSA-08
+758,Ngành Kinh tế vận tải (chuyên ngành Kinh tế vận tải và du lịch),GSA-09,GSA-09
+759,Ngành Kinh tế xây dựng (gồm các chuyên ngành: Kinh tế xây dựng công trình giao thông; Kinh tế quản lý khai thác cầu đường),GSA-10,GSA-10
+760,Ngành Kỹ thuật xây dựng (gồm các chuyên ngành: Xây dựng dân dụng và công nghiệp; Kỹ thuật hạ tầng đô thị),GSA-11,GSA-11
+761,Ngành Quản trị kinh doanh (chuyên ngành quản trị kinh doanh giao thông vận tải),GSA-12,GSA-12
+762,Ngành Khai thác vận tải (gồm các chuyên ngành: Quy hoạch và quản lý GTVT đô thị; Logistics),GSA-13,GSA-13
+763,Ngành Kỹ thuật xây dựng công trình giao thông (gồm các chuyên ngành: Cầu đường bộ; Đường bộ; Cầu hầm; Công trình giao thông công chính; Công trình giao thông đô thị…),GSA-14,GSA-14
+764,"Nhóm ngành: Kỹ thuật cơ khí động lực, Kỹ thuật Cơ điện tử",GSA-01,GSA-01
+765,Ngành Kỹ thuật ô tô,GSA-02,GSA-02
+766,Công nghệ kỹ thuật Ô tô,7510205,7510205
+767,Công nghệ kỹ thuật Cơ điện tử,7510203,7510203
+768,Logistics và quản lý chuỗi cung ứng,7510605,7510605
+769,Điện tử - viễn thông,7510302,7510302
+770,Công nghệ kỹ thuật Cơ khí,7510201,7510201
+771,Quản trị doanh nghiệp,7340101,7340101
+772,Công nghệ Kỹ thuật giao thông,7510104,7510104
+773,Công nghệ kỹ thuật xây dựng dân dụng và công nghiệp,7510102,7510102
+774,Logistics và Quản lý chuỗi cung ứng (VP),7510605VP,7510605VP
+775,Logistics và vận tải đa phương thức (TN),7840101TN,7840101TN
+776,Kỹ thuật cơ khí (Chuyên ngành Cơ khí ô tô),7520103H,7520103H
+777,Kỹ thuật điện tử - viễn thông (Chuyên ngành Điện tử viễn thông),7520207H,7520207H
+778,Kỹ thuật xây dựng công trình giao thông (Chuyên ngành Xây dựng Công trình thủy và thềm lục địa),7580205109,7580205109
+779,Kỹ thuật xây dựng công trình giao thông (Chuyên ngành Xây dựng cầu đường),7580205111H,7580205111H
+780,Kỹ thuật xây dựng công trình giao thông (Chuyên ngành Quy hoạch và thiết kế công trình giao thông),7580205117,7580205117
+781,Kỹ thuật xây dựng công trình giao thông (Chuyên ngành Xây dựng đường sắt – Metro),7580205120,7580205120
+782,Kỹ thuật xây dựng công trình giao thông (Chuyên ngành Xây dựng cầu hầm),7580205122,7580205122
+783,Kỹ thuật xây dựng công trình giao thông (Chuyên ngành Xây dựng đường bộ),7580205123,7580205123
+784,Khai thác vận tải (Chuyên ngành Quản trị Logistics và vận tải đa phương thức),7840101H,7840101H
+785,Khoa học Hàng hải (Chuyên ngành Điều khiển tàu biển),7840106101,7840106101
+786,Khoa học Hàng hải (Chuyên ngành Điều khiển tàu biển,7840106101H,7840106101H
+787,Khoa học Hàng hải (Chuyên ngành Thiết bị năng lượng tàu thủy),7840106103,7840106103
+788,Khoa học Hàng hải (Chuyên ngành Quản lý hàng hải),7840106104H,7840106104H
+789,"Kỹ thuật cơ khí (Chuyên ngành: Cơ giới hóa xếp dỡ, cơ khí ô tô, Máy xây dựng, Cơ khí tự động)",7520103,7520103
+790,"Ngành kỹ thuật tàu thủy (Chuyên ngành: Thiết kế thân tàu thủy, Công nghệ đóng tàu thủy, Kỹ thuật công trình ngoài khơi)",7520122,7520122
+791,"Kỹ thuật điện (Chuyên ngành: Điện và tự động tàu thủy, Điện công nghiệp, Hệ thống điện giao thông)",7520201,7520201
+792,Kỹ thuật điều khiển và tự động hóa (Chuyên ngành Tự động hóa công nghiệp),7520216,7520216
+793,Ngành kỹ thuật môi trường,7520320,7520320
+794,"Kỹ thuật xây dựng (Chuyên ngành: Xây dựng dân dụng và công nghiệp, Kỹ thuật kết cấu công trình, Kỹ thuật nền móng và công trình ngầm)",7580201,7580201
+795,Kỹ thuật xây dựng công trình giao thông - Chuyên ngành Xây dựng Công trình thủy và thềm lục địa,7580205,7580205
+796,Kỹ thuật xây dựng công trình giao thông - Chuyên ngành Xây dựng cầu đường,7580205,7580205
+797,Kỹ thuật xây dựng công trình giao thông - Chuyên ngành Quy hoạch và thiết kế công trình giao thông,7580205,7580205
+798,Kỹ thuật xây dựng công trình giao thông - Chuyên ngành Xây dựng đường sắt - Metro,7580205,7580205
+799,Kỹ thuật xây dựng công trình giao thông - Chuyên ngành Xây dựng cầu hầm,7580205,7580205
+800,Kỹ thuật xây dựng công trình giao thông - Chuyên ngành Xây dựng đường bộ,7580205,7580205
+801,Kinh tế xây dựng (Chuyên ngành: Kinh tế xây dựng. Quản lí dự án xây dựng),7580301,7580301
+802,"Khai thác vận tải (Chuyên ngành: Quản trị Logistics và vận tải đa phương thức, Quản lí và kinh doanh vận tải)",7840101,7840101
+803,Kinh tế vận tải (Chuyên ngành Kinh tế vận tải biển),7840104,7840104
+804,Ngành Khoa học hàng hải (Chuyên ngành Điều khiển tàu biển),7840106101,7840106101
+805,Ngành Khoa học hàng hải (Chuyên ngành Vận hành khai thác máy tàu biển),7840106102,7840106102
+806,Ngành Khoa học hàng hải (Chuyên ngành Thiết bị năng lượng tàu thủy,7840106103,7840106103
+807,Ngành Khoa học hàng hải (Chuyên ngành Quản lí hàng hải),7840106104,7840106104
+808,II.Chương trình đào tạo chất lượng cao,,
+809,Ngành Khoa học Hàng hải -Chuyên ngành Điều khiển tàu biển,784016101H,784016101H
+810,Ngành Khoa học Hàng hải - Chuyên ngành Quản lý hàng hải,784016104H,784016104H
+811,Ngành Kỹ thuật điện tử - viễn thông (Chuyên ngành Điện tử viễn thông),7520207H,7520207H
+812,Ngành kĩ thuật cơ khí (Chuyên ngành Cơ khí ô tô),7520103H,7520103H
+813,Ngành Kỹ thuật xây dựng công trình giao thông (Chuyên ngành Xây dựng cầu đường),7580205111H,7580205111H
+814,Ngành kinh tế xây dựng,7580301H,7580301H
+815,Ngành Khai thác vận tải (Chuyên ngành Quản trị Logistics và vận tải đa phương thức),7840101H,7840101H
+816,Khoa học hàng hải (chuyên ngành Công nghệ máy tàu thủy),7840106105,7840106105
+817,Kỹ thuật điều khiển và tự động hóa (chuyên ngành Tự động hóa công nghiệp),7520216H,7520216H
+818,Khoa học Hàng hải (Chuyên ngành Vận hành khai thác máy tàu biển),7840106102,7840106102
+819,Khoa học hàng hải (chuyên ngành Vận hành khai thác máy tàu thủy),7840106102H,7840106102H
+820,"Ngành Kinh tế, chuyên ngành Quản lý kinh tế",527,527
+821,"Ngành Kinh tế, chuyên ngành Quản lý kinh tế (Sử dụng chứng chỉ Tiếng Anh)",527M,527M
+822,"Ngành Kinh tế, chuyên ngành Kinh tế và Quản lý (chất lượng cao)",528,528
+823,"Ngành Kinh tế, chuyên ngành Kinh tế và Quản lý (chất lượng cao) (Sử dụng chứng chỉ Tiếng Anh)",528M,528M
+824,"Ngành Kinh tế, chuyên ngành Kinh tế và Quản lý",529,529
+825,"Ngành Kinh tế, chuyên ngành Kinh tế và Quản lý (Sử dụng chứng chỉ Tiếng Anh)",529M,529M
+826,"Ngành Chính trị học, chuyên ngành Quản lý hoạt động tư tưởng - văn hóa",530,530
+827,"Ngành Chính trị học, chuyên ngành Chính trị học phát triển",531,531
+828,"Ngành Chính trị học, chuyên ngành Quản lý xã hội",532,532
+829,"Ngành Chính trị học, chuyên ngành Tư tưởng Hồ Chí Minh",533,533
+830,"Ngành Chính trị học, chuyên ngành Văn hóa phát triển",535,535
+831,"Ngành Chính trị học, chuyên ngành Chính sách công",536,536
+832,"Ngành Chính trị học, chuyên ngành Truyền thông chính sách",538,538
+833,"Ngành Chính trị học, chuyên ngành Truyền thông chính sách (Sử dụng chứng chỉ Tiếng Anh)",538M,538M
+834,"Ngành Báo chí, chuyên ngành Báo in",602,602
+835,"Ngành Báo chí, chuyên ngành Báo in (Sử dụng chứng chỉ Tiếng Anh)",602M,602M
+836,"Ngành Báo chí, chuyên ngành Ảnh báo chí",603,603
+837,"Ngành Báo chí, chuyên ngành Ảnh báo chí (Sử dụng chứng chỉ Tiếng Anh)",603M,603M
+838,"Ngành Báo chí, chuyên ngành Báo phát thanh",604,604
+839,"Ngành Báo chí, chuyên ngành Báo phát thanh (Sử dụng chứng chỉ Tiếng Anh)",604M,604M
+840,"Ngành Báo chí, chuyên ngành Báo truyền hình",605,605
+841,"Ngành Báo chí, chuyên ngành Báo truyền hình (Sử dụng chứng chỉ Tiếng Anh)",605M,605M
+842,"Ngành Báo chí, chuyên ngành Quay phim truyền hình",606,606
+843,"Ngành Báo chí, chuyên ngành Quay phim truyền hình (Sử dụng chứng chỉ Tiếng Anh)",606M,606M
+844,"Ngành Báo chí, chuyên ngành Báo mạng điện tử",607,607
+845,"Ngành Báo chí, chuyên ngành Báo mạng điện tử (Sử dụng chứng chỉ Tiếng Anh)",607M,607M
+846,"Ngành Báo chí, chuyên ngành Báo truyền hình (chất lượng cao)",608,608
+847,"Ngành Báo chí, chuyên ngành Báo truyền hình (chất lượng cao) (Sử dụng chứng chỉ Tiếng Anh)",608M,608M
+848,"Ngành Báo chí, chuyên ngành Báo mạng điện tử (chất lượng cao)",609,609
+849,"Ngành Báo chí, chuyên ngành Báo mạng điện tử (chất lượng cao) (Sử dụng chứng chỉ Tiếng Anh)",609M,609M
+850,"Ngành Quan hệ quốc tế, chuyên ngành Thông tin đối ngoại",610,610
+851,"Ngành Quan hệ quốc tế, chuyên ngành Thông tin đối ngoại (Sử dụng chứng chỉ Tiếng Anh)",610M,610M
+852,"Ngành Quan hệ quốc tế, chuyên ngành Quan hệ chính trị và truyền thông quốc tế",611,611
+853,"Ngành Quan hệ quốc tế, chuyên ngành Quan hệ chính trị và truyền thông quốc tế (Sử dụng chứng chỉ Tiếng Anh)",611M,611M
+854,"Ngành Quan hệ quốc tế, chuyên ngành Quan hệ quốc tế và truyền thông toàn cầu (chất lượng cao)",614,614
+855,"Ngành Quan hệ quốc tế, chuyên ngành Quan hệ quốc tế và truyền thông toàn cầu (chất lượng cao) (Sử dụng chứng chỉ Tiếng Anh)",614M,614M
+856,"Ngành Quan hệ công chúng, chuyên ngành Quan hệ công chúng chuyên nghiệp",615,615
+857,"Ngành Quan hệ công chúng, chuyên ngành Quan hệ công chúng chuyên nghiệp (Sử dụng chứng chỉ Tiếng Anh)",615M,615M
+858,"Ngành Quan hệ công chúng, chuyên ngành Truyền thông marketing (chất lượng cao)",616,616
+859,"Ngành Quan hệ công chúng, chuyên ngành Truyền thông marketing (chất lượng cao) (Sử dụng chứng chỉ Tiếng Anh)",616M,616M
+860,Ngành Ngôn ngữ Anh (Sử dụng chứng chỉ Tiếng Anh),7220201M,7220201M
+861,Chủ nghĩa xã hội khoa học,7229008,7229008
+862,"Ngành Lịch sử, chuyên ngành Lịch sử Đảng Cộng sản Việt Nam",7229010,7229010
+863,Ngành Quản lý nhà nước (Sử dụng chứng chỉ Tiếng Anh),7310205M,7310205M
+864,Ngành Xã hội học (Sử dụng chứng chỉ Tiếng Anh),7310301M,7310301M
+865,Ngành Truyền thông đa phương tiện (Sử dụng chứng chỉ Tiếng Anh),7320104M,7320104M
+866,Truyền thông đại chúng,7320105,7320105
+867,Ngành Truyền thông đại chúng (Sử dụng chứng chỉ Tiếng Anh),7320105M,7320105M
+868,Truyền thông quốc tế,7320107,7320107
+869,Ngành Truyền thông quốc tế (Sử dụng chứng chỉ Tiếng Anh),7320107M,7320107M
+870,Quảng cáo,7320110,7320110
+871,Ngành Quảng cáo (Sử dụng chứng chỉ Tiếng Anh),7320110M,7320110M
+872,Xuất bản,7320401,7320401
+873,Ngành Xuất bản,7320401,7320401
+874,Ngành Quản lý công (Sử dụng chứng chỉ Tiếng Anh),7340403M,7340403M
+875,Ngành Công tác xã hội (Sử dụng chứng chỉ Tiếng Anh),7760101M,7760101M
+876,Ngành Triết học,7229001,7229001
+877,Ngành Chủ nghĩa xã hội khoa học,7229008,7229008
+878,Ngành Kinh tế chính trị,7310102,7310102
+879,Ngành Truyền thông đa phương tiện,7320104,7320104
+880,Ngành Truyền thông đại chúng,7320105,7320105
+881,Ngành Xây dựng Đảng và chính quyền nhà nước,7310202,7310202
+882,Ngành Xã hội học,7310301,7310301
+883,Ngành Quản lý công,7340403,7340403
+884,Ngành Công tác xã hội,7760101,7760101
+885,"Ngành Quản lý nhà nước, chuyên ngành Quản lý xã hội",532,532
+886,"Ngành Quản lý nhà nước, chuyên ngành Quản lý hành chính nhà nước",537,537
+887,"Ngành Xuất bản, chuyên ngành Biên tập xuất bản",801,801
+888,"Ngành Xuất bản, chuyên ngành Xuất bản điện tử",802,802
+889,Ngành Ngôn ngữ Anh,NTH04,NTH04
+890,Ngành Truyền thông quốc tế,7320107,7320107
+891,Ngành Quảng cáo,7320110,7320110
+892,Kinh tế quốc tế,QHE43,QHE43
+893,Hậu cần quân sự (thí sinh nam miền Bắc),7860218,7860218
+894,Hậu cần quân sự (thí sinh nam miền Nam),7860218,7860218
+895,Thí sinh Nam miền Bắc,7310202,7310202
+896,Thí sinh Nam miền Nam,7310202,7310202
+897,Hậu cần quân sự - Thí sinh Nam miền Bắc,7860218,7860218
+898,Hậu cần quân sự - Thí sinh Nữ miền Bắc,7860218,7860218
+899,Hậu cần quân sự - Thí sinh Nam miền Nam,7860218,7860218
+900,Hậu cần quân sự - Thí sinh Nữ miền Nam,7860218,7860218
+901,Chỉ huy kỹ thuật hóa học phía Bắc,7860229,7860229
+902,Chỉ huy kỹ thuật hóa học phía Nam,7860229,7860229
+903,Chỉ huy kỹ thuật Hoá học,7860229,7860229
+904,Tiếng Anh thương mại,7220201D124,7220201D124
+905,"Ngôn ngữ Anh,",7220201D125,7220201D125
+906,"Quản trị kinh doanh,",7340101D403,7340101D403
+907,Quản trị tài chính kế toán,7340101D404,7340101D404
+908,Quản trị tài chính ngân hàng,7340101D411,7340101D411
+909,Kinh doanh quốc tế và logistics,7340120A409,7340120A409
+910,Kinh tế ngoại thương,7340120D402,7340120D402
+911,Kinh tế ngoại thương (CLC),7340120H402,7340120H402
+912,"Công nghệ thông tin,",7480201D114,7480201D114
+913,Công nghệ phần mềm,7480201D118,7480201D118
+914,Kỹ thuật truyền thông và mạng máy tính,7480201D119,7480201D119
+915,Công nghệ thông tin (CLC),7480201H114,7480201H114
+916,Máy và tự động hóa xếp dỡ,7520103D109,7520103D109
+917,"Kỹ thuật cơ khí,",7520103D116,7520103D116
+918,Kỹ thuật ôtô,7520103D122,7520103D122
+919,Kỹ thuật nhiệt lạnh,7520103D123,7520103D123
+920,Máy và tự động công nghiệp,7520103D128,7520103D128
+921,Máy tàu thủy,7520122D106,7520122D106
+922,Thiết kế tàu và công trình ngoài khơi,7520122D107,7520122D107
+923,Đóng tàu và công trình ngoài khơi,7520122D108,7520122D108
+924,Điện tử viễn thông,7520207D104,7520207D104
+925,Điện tự động tàu thủy,7520216D103,7520216D103
+926,Điện tự động công nghiệp,7520216D105,7520216D105
+927,Tự động hóa hệ thống điện,7520216D121,7520216D121
+928,Điện tự động công nghiệp (CLC),7520216H105,7520216H105
+929,"Kỹ thuật môi trường,",7520320D115,7520320D115
+930,Kỹ thuật hóa dầu,7520320D126,7520320D126
+931,Xây dựng dân dụng và công nghiệp,7580201D112,7580201D112
+932,Kiến trúc dân dụng và công nghiệp,7580201D127,7580201D127
+933,Xây dựng công trình thủy,7580203D110,7580203D110
+934,Kỹ thuật an toàn hàng hải,7580203D111,7580203D111
+935,Kỹ thuật cầu đường,7580205D113,7580205D113
+936,Kinh tế Hàng hải,7840104A408,7840104A408
+937,Kinh tế vận tải biển,7840104D401,7840104D401
+938,Logistics và chuỗi cung ứng,7840104D407,7840104D407
+939,Kinh tế vận tải thủy,7840104D410,7840104D410
+940,Kinh tế vận tải biển (CLC),7840104H401,7840104H401
+941,Điều khiển tàu biển,7840106D101,7840106D101
+942,Khai thác máy tàu biển,7840106D102,7840106D102
+943,Luật hàng hải,7380101D120,7380101D120
+944,Quản lý kinh doanh và marketing,7340101A403,7340101A403
+945,Chuyên ngành Kinh tế vận tải biển,7840104D401,7840104D401
+946,Chuyên ngành Kinh tế vận tải thủy,7840104D410,7840104D410
+947,Chuyên ngành Logistics và chuỗi cung ứng,7840104D407,7840104D407
+948,Ngành Kinh doanh quốc tế,7340120,7340120
+949,Chuyên ngành Kinh tế ngoại thương,7340120D402,7340120D402
+950,Chuyên ngành Quản trị kinh doanh,7340101D403,7340101D403
+951,Chuyên ngành Quản trị tài chính kế toán,7340101D404,7340101D404
+952,Chuyên ngành Quản trị tài chính ngân hàng,7340101D411,7340101D411
+953,Ngành Luật,7380101,7380101
+954,Chuyên ngành Luật hàng hải,7380101D120,7380101D120
+955,Ngành Khoa học Hàng hải,7840106,7840106
+956,Chuyên ngành Điều khiển tàu biển,7840106D101,7840106D101
+957,Chuyên ngành Khai thác máy tàu biển,7840106D102,7840106D102
+958,Ngành Kỹ thuật điện tử truyền thông,7520207,7520207
+959,Chuyên ngành Điện tử viễn thông,7520207D104,7520207D104
+960,Ngành Kỹ thuật điều khiển & Tự động hóa,7520216,7520216
+961,Chuyên ngành Điện tự động tàu thủy,7520216D103,7520216D103
+962,Chuyên ngành Điện tự động công nghiệp,7520216D105,7520216D105
+963,Chuyên ngành Tự động hóa hệ thống điện,7520216D121,7520216D121
+964,Ngành Kỹ thuật tàu thủy,7520122,7520122
+965,Chuyên ngành Máy tàu thủy,7520122D106,7520122D106
+966,Chuyên ngành Thiết kế tàu & công trình ngoài khơi,7520122D107,7520122D107
+967,Chuyên ngành Đóng tàu và công trình ngoài khơi,7520122D108,7520122D108
+968,Ngành Kỹ thuật cơ khí,7520103,7520103
+969,Chuyên ngành Máy và tự động công nghiệp,7520103D128,7520103D128
+970,Chuyên ngành Máy và tự động hóa xếp dỡ,7520103D109,7520103D109
+971,Chuyên ngành Kỹ thuật cơ khí,7520103D116,7520103D116
+972,Chuyên ngành Kỹ thuật cơ điện tử,7520103D117,7520103D117
+973,Chuyên ngành Kỹ thuật ô tô,7520103D122,7520103D122
+974,Chuyên ngành Kỹ thuật nhiệt lạnh,7520103D123,7520103D123
+975,Ngành Kỹ thuật công trình biển,7580203,7580203
+976,Chuyên ngành Xây dựng công trình thủy,7580203D110,7580203D110
+977,Chuyên ngành Kỹ thuật an toàn hàng hải,7580203D111,7580203D111
+978,Ngành Kỹ thuật công trình xây dựng,7580201,7580201
+979,Chuyên ngành Xây dựng dân dụng và công nghiệp,7580201D112,7580201D112
+980,Chuyên ngành Kiến trúc và nội thất,7580201D127,7580201D127
+981,Chuyên ngành Kỹ thuật cầu đường,7580205D113,7580205D113
+982,Chuyên ngành Công nghệ thông tin,7480201D114,7480201D114
+983,Chuyên ngành Công nghệ phần mềm,7480103_01,7480103_01
+984,Chuyên ngành Kỹ thuật truyền thông và mạng máy tính,7480201D119,7480201D119
+985,Ngành Kỹ thuật môi trường,7520320,7520320
+986,Chuyên ngành Kỹ thuật môi trường,7520320D115,7520320D115
+987,Chuyên ngành Kỹ thuật công nghệ hóa học,7520320D126,7520320D126
+988,Chuyên ngành Tiếng Anh thương mại,7220201_01,7220201_01
+989,Chuyên ngành Ngôn ngữ Anh,7220201D125,7220201D125
+990,NHÓM CÁC CHUYÊN NGÀNH CHẤT LƯỢNG CAO,,
+991,Chuyên ngành Điện tự động công nghiệp (CLC),7520216H105,7520216H105
+992,Chuyên ngành Công nghệ thông tin (CLC),7480201H114,7480201H114
+993,Chuyên ngành Kinh tế vận tải biển (CLC),7840104H401,7840104H401
+994,Chuyên ngành Kinh tế ngoại thương (CLC),7340120H402,7340120H402
+995,NHÓM CÁC CHUYÊN NGÀNH THUỘC CHƯƠNG TRÌNH TIÊN TIẾN,,
+996,Chuyên ngành Kinh tế Hàng hải,7840104A408,7840104A408
+997,Chuyên ngành Kinh doanh quốc tế và logistics,7340120A409,7340120A409
+998,Chuyên ngành Quản lý kinh doanh và marketing,7340101A403,7340101A403
+999,Quản lý kinh doanh và Marketing,7340101A403,7340101A403
+1000,Kỹ thuật Cơ điện tử,7520103D117,7520103D117
+1001,Kỹ thuật công nghệ hóa học,7520320D126,7520320D126
+1002,Kiến trúc và nội thất,7580201D127,7580201D127
+1003,Quản lý công trình xây dựng,7580201D130,7580201D130
+1004,Quản lý hàng hải,7840106D129,7840106D129
+1005,Kỹ thuật hàng không,7520120,7520120
+1006,Quản lý hoạt động bay,7840102,7840102
+1007,Đại học hệ chính quy,,
+1008,Cao đẳng,,
+1009,Giáo dục Đặc biệt,7140203D,7140203D
+1010,Sư phạm Hoá học (hệ cao đẳng),51140212,51140212
+1011,Sư phạm Sinh học (hệ cao đẳng),51140213,51140213
+1012,Sư phạm Ngữ văn (hệ cao đẳng),51140217,51140217
+1013,Sư phạm Địa lý (hệ cao đẳng),51140219,51140219
+1014,Hệ Đại học,,
+1015,Quản lý Giáo dục (ĐH),7140114,7140114
+1016,Giáo dục Mầm non (ĐH),7140201,7140201
+1017,Giáo dục Tiểu học (ĐH),7140202,7140202
+1018,Giáo dục Đặc biệt (ĐH),7140203,7140203
+1019,Giáo dục Công dân (ĐH),7140204,7140204
+1020,Sư phạm Toán học (ĐH),7140209,7140209
+1021,Sư Phạm Vât lý (ĐH),7140211,7140211
+1022,Sư phạm Ngữ văn (ĐH),7140217,7140217
+1023,Sư phạm lịch sử (ĐH),7140218,7140218
+1024,Ngôn ngữ Anh (ĐH),7220201,7220201
+1025,Ngôn ngữ Trung Quõc (ĐH),7220204,7220204
+1026,Chính tri học (ĐH),7310201,7310201
+1027,Việt Nam học (ĐH),7310630,7310630
+1028,Quản tri kinh doanh,7340101,7340101
+1029,Toán ứng dụng (ĐH ),7460112,7460112
+1030,Công nghệ thông tin (ĐH),7480201,7480201
+1031,Công nghệ kỹ thuật môi 1 rường (ĐH),7510406,7510406
+1032,Logistics vả quản lý chuỗi cung úng (DH),7510605,7510605
+1033,Công tác xã hội (ĐH),7760101,7760101
+1034,Quản tri dịch vụ du lịch vi lữ hành (ĐH),7810103,7810103
+1035,Quản tri khách sạn (ĐH),7810201,7810201
+1036,Giáo dục Mầm non (CĐ),51140201,51140201
+1037,Giáo dục Tiểu học (CĐ),51140202,51140202
+1038,Giáo dục Thể chất (CĐ),51140206,51140206
+1039,Sư phạm Toán học (CĐ),51140209,51140209
+1040,Sư nham Tin học (CĐ),SI 140210,SI 140210
+1041,Sư phạm Hóa học (CĐ),51140212,51140212
+1042,Sư phạm Sinh hoc (CD),51140213,51140213
+1043,Sư pham Ngữ văn (CĐ),51140217,51140217
+1044,Sư pham Địa lý (CD),51140219,51140219
+1045,Sư phạm Tiếng Anh (CĐ),SI 140231,SI 140231
+1046,Khoa học dữ liệu,7480109,7480109
+1047,Quản lý dự án,7340409,7340409
+1048,Quản trị kinh doanh học bằng tiếng Anh (EBBA),EBBA,EBBA
+1049,Khởi nghiệp và phát triển kinh doanh (BBAE) học bằng tiếng Anh (tiếng Anh hệ số 2),EP01,EP01
+1050,Định phí Bảo hiểm & Quản trị rủi ro (Actuary) học bằng tiếng Anh,EP02,EP02
+1051,Quản lý công và chính sách học bằng tiếng Anh (EPMP),EPMP,EPMP
+1052,Các chương trình định hướng ứng dụng (POHE - tiếng Anh hệ số 2),POHE,POHE
+1053,Khoa học dữ liệu trong Kinh tế & Kinh doanh (DSEB),EP03,EP03
+1054,Kế toán tích hợp chứng chỉ quốc tế (ICAEW CFAB),EP04,EP04
+1055,Kinh doanh số (E-BDB),EP05,EP05
+1056,Phân tích kinh doanh (BA),EP06,EP06
+1057,Quản trị điều hành thông minh (E-SOM),EP07,EP07
+1058,Quản trị chất lượng và Đổi mới (E-MQI),EP08,EP08
+1059,Công nghệ tài chính (BFT),EP09,EP09
+1060,Đầu tư tài chính (BFI - tiếng Anh hệ số 2),EP10,EP10
+1061,Quản trị khách sạn quốc tế (IHME - tiếng Anh hệ số 2),EP11,EP11
+1062,Quản trị kinh doanh (E-BBA),EBBA,EBBA
+1063,Khởi nghiệp và phát triển kinh doanh (BBAE - tiếng Anh hệ số 2),EP01,EP01
+1064,Định phí Bảo hiểm & Quản trị rủi ro (Actuary),EP02,EP02
+1065,Quản lý công và Chính sách (E-PMP),EPMP,EPMP
+1066,Chuyên ngành Kinh tế học ứng dụng,7310101_01,7310101_01
+1067,Chuyên ngành Kinh tế nông nghiệp,7310101_02,7310101_02
+1068,Chuyên ngành Kinh tế chính trị,7310101_03,7310101_03
+1069,Chuyên ngành Quản trị bệnh viện,7340101_01,7340101_01
+1070,Chuyên ngành Ngoại thương,7340120_01,7340120_01
+1071,Chuyên ngành Quản trị lữ hành,7810103_01,7810103_01
+1072,Chuyên ngành Quản trị khách sạn,7810201_01,7810201_01
+1073,Chuyên ngành Quản trị sự kiện và dịch vụ giải trí,7810201_02,7810201_02
+1074,Chuyên ngành Thuế trong kinh doanh,7340201_01,7340201_01
+1075,Chuyên ngành Quản trị hải quan - ngoại thương,7340201_02,7340201_02
+1076,Chuyên ngành Ngân hàng đầu tư,7340201_03,7340201_03
+1077,Chuyên ngành Thị trường chứng khoán,7340201_04,7340201_04
+1078,Chuyên ngành Quản trị rủi ro tài chính và bảo hiểm,7340201_05,7340201_05
+1079,Chuyên ngành Đầu tư tài chính,7340201_06,7340201_06
+1080,Chuyên ngành Tài chính quốc tế,7340201_07,7340201_07
+1081,Chuyên ngành Toán tài chính,7310108_01,7310108_01
+1082,Chuyên ngành Thống kê kinh doanh,7310107_01,7310107_01
+1083,Chuyên ngành Hệ thống thông tin kinh doanh,7340405_01,7340405_01
+1084,Chuyên ngành Thương mại điện tử,7340405_02,7340405_02
+1085,Chuyên ngành Hệ thống hoạch định nguồn lực doanh nghiệp,7340405_03,7340405_03
+1086,Chuyên ngành Luật kinh doanh,7380101_01,7380101_01
+1087,Chuyên ngành Luật kinh doanh quốc tế,7380101_02,7380101_02
+1088,Chuyên ngành Quản lý công,7340403_01,7340403_01
+1089,Chỉ huy tham mưu Lục quân,7860201,7860201
+1090,Thí sinh Nam (cả nước),7860201,7860201
+1091,Chỉ huy tham mưu Lục quân (Thí sinh nam cả nước ),7860201,7860201
+1092,Thí sinh Nam Quân khu 4(Quảng Trị và TT-Huế),7860201,7860201
+1093,Thí sinh Nam Quân khu 5,7860214,7860214
+1094,Thí sinh Nam Quân khu 7,7860201,7860201
+1095,Thí sinh Nam Quân khu 9,7860201,7860201
+1096,Chỉ huy tham mưu lục quân,7860201,7860201
+1097,Thí sinh Nam Quân khu 4 (Quảng Trị và TT-Huế),7860201,7860201
+1098,Chỉ huy tham mưu Lục quân - Thí sinh nam Quân khu 4 ( Quảng Trị và TT Huế),7860201,7860201
+1099,Chỉ huy tham mưu Lục quân - Thí sinh nam Quân khu 5,7860201,7860201
+1100,Chỉ huy tham mưu Lục quân - Thí sinh nam Quân khu 7,7860201,7860201
+1101,Chỉ huy tham mưu Lục quân - Thí sinh nam Quân khu 9,7860201,7860201
+1102,Đông Nam Á học,QHX04,QHX04
+1103,Tài chính – Ngân hàng CLC,7340201C,7340201C
+1104,Kế toán CLC,7340301C,7340301C
+1105,Luật kinh tế CLC,7380107C,7380107C
+1106,Công nghệ sinh học CLC,7420201C,7420201C
+1107,Công nghệ kỹ thuật công trình xây dựng CLC,7510102C,7510102C
+1108,Ngôn ngữ Anh (CT chất lượng cao),7220201C,7220201C
+1109,Quản trị kinh doanh (CT chất lượng cao),7340101C,7340101C
+1110,Tài chính - Ngân hàng (CT chất lượng cao),7340201C,7340201C
+1111,Kế toán (CT chất lượng cao),7340301C,7340301C
+1112,Hệ thống thông tin quản lí,7340405,7340405
+1113,Luật kinh tế (CT chất lượng cao),7380107C,7380107C
+1114,Công nghệ kĩ thuật công trình xây dựng,7510102,7510102
+1115,CNKT công trình xây dựng CLC,7510102C,7510102C
+1116,Quản lí xây dựng,7580302,7580302
+1117,Marketing (Ngành mới),7340115,7340115
+1118,Ngôn ngữ Anh Chất lượng cao,7220201C,7220201C
+1119,Quản trị kinh doanh Chất lượng cao,7340101C,7340101C
+1120,Tài chính – Ngân hàng Chất lượng cao,7340201C,7340201C
+1121,Kế toán Chất lượng cao,7340301C,7340301C
+1122,Luật kinh tế Chất lượng cao,7380107C,7380107C
+1123,Công nghệ sinh học Chất lượng cao,7420201C,7420201C
+1124,CNKT công trình xây dựng Chất lượng cao,7510102C,7510102C
+1125,Kỹ thuật địa vật lý,7520502,7520502
+1126,Kỹ thuật dầu khí,7520604_V,7520604_V
+1127,Tài chính - ngân hàng,7340201,7340201
+1128,Công nghệ kỹ thuật hoá học – CTTT,7510401_TT,7510401_TT
+1129,Chương trình cử nhân chất lượng cao,7340001,7340001
+1130,"Chương trình cử nhân chất lượng cao (Bao gồm ngành Tài Chính - Ngân hàng, Kế toán, Quản trị kinh doanh)",,
+1131,Nhóm ngành Kinh tế - Kinh doanh (Chương trình đại trà) - Tài chính - Ngân hàng,7340201,7340201
+1132,Nhóm ngành Kinh tế - Kinh doanh (Chương trình đại trà) - Kế toán,7340301,7340301
+1133,Nhóm ngành Kinh tế - Kinh doanh (Chương trình đại trà) -Quản trị kinh doanh,7340101,7340101
+1134,Nhóm ngành Kinh tế - Kinh doanh (Chương trình đại trà) -Kinh tế quốc tế,7310106,7310106
+1135,Khối ngành Luật (chương trình đại trà) Luật Kinh tế,7380107,7380107
+1136,Khối ngành Ngôn ngữ (chương trình đại trà) -Ngôn ngữ Anh,7220201,7220201
+1137,Khối ngành quản lý (chương trình đại trà) -Hệ thống thông tin quản lý,7340405,7340405
+1138,Chương trình đại học chính quy quốc tế cấp song bằng ngành Quản trị kinh doanh,7340002,7340002
+1139,"Kinh tế, Kinh tế quốc tế, Luật",NTH01,NTH01
+1140,"Quản trị kinh doanh, Kinh doanh Quốc tế, Kinh doanh quốc tế theo mô hình tiên tiến Nhật Bản",NTH02,NTH02
+1141,"Kế toán , Tài chính - Ngân hàng",NTH03,NTH03
+1142,Ngôn ngữ Trung,7220204,7220204
+1143,"Nhóm ngành Kế toán, Kinh doanh quốc tế, Quản trị kinh doanh (tại Quảng Ninh)",NTH08,NTH08
+1144,CƠ SỞ 1: HÀ NỘI,,
+1145,Kinh tế: Kinh tế quốc tế và Luật,NTH01,NTH01
+1146,Kinh doanh quốc tế và Quản trị kinh doanh,NTH02,NTH02
+1147,Tài chính - Ngân hàng và Kế toán,NTH03,NTH03
+1148,Nhóm ngành Kế toán; Kinh doanh quốc tế (học tại CS Quảng Ninh),NTH08,NTH08
+1149,Nhóm ngành Kinh tế; Kinh tế quốc tế; Luật,NTH01,NTH01
+1150,Nhóm ngành Kinh doanh quốc tế; Quản trị kinh doanh,NTH02,NTH02
+1151,Nhóm ngành Tài chính-Ngân hàng; Kế toán,NTH03,NTH03
+1152,Ngành Ngôn ngữ Pháp,NTH05,NTH05
+1153,Ngành Ngôn ngữ Trung quốc,NTH06,NTH06
+1154,Ngành Ngôn ngữ Nhật,NTH07,NTH07
+1155,"Kế toán, Kinh doanh quốc tế",NTH08,NTH08
+1156,"Kinh tế, Quản trị kinh doan, Tài chính- Ngân hàng, Kế toán",NTS01,NTS01
+1157,Kinh tế quản trị kinh doanh,NTS01,NTS01
+1158,Tài chính ngân hàng kế toán,NTS02,NTS02
+1159,"Kinh tế, Quản trị kinh doanh",NTS01,NTS01
+1160,"Tài chính-Ngân hàng, Kế toán",NTS02,NTS02
+1161,"Đạo diễn điện ảnh, truyền hình",7210235,7210235
+1162,Vật lý y khoa,7520403,7520403
+1163,Y học Dự phòng,7720110,7720110
+1164,Vật lý Y khoa,7520403,7520403
+1165,Kỹ thuật Y sinh,7520212,7520212
+1166,Công nghệ Sinh học,7420201,7420201
+1167,Công nghệ Kỹ thuật Hóa học,7510401,7510401
+1168,Công nghệ Thực phẩm,7540101,7540101
+1169,Quản trị Khách sạn,7810201,7810201
+1170,Quản trị Nhà hàng và Dịch vụ ăn uông,7810202,7810202
+1171,Quản trị Nhân lực,7340404,7340404
+1172,Công nghệ Kỹ thuật Cơ điện tử,7510203,7510203
+1173,Công nghệ kỹ thuật ô-tô,7510205,7510205
+1174,Kỹ thuật Điện - Điện tử,7510301,7510301
+1175,Kỹ thuật Hệ thống Công nghiệp,7520118,7520118
+1176,Kỹ thuật Xây dựng,7580201,7580201
+1177,Ngôn ngữ Trung Quôc,7220204,7220204
+1178,Thiết kế Nội thât,7580108,7580108
+1179,Đạo diễn điện ảnh - Truyền hình,7210235,7210235
+1180,Tiếng Việt và văn hoá Việt Nam,7220101,7220101
+1181,Kỹ thuật hàng không (miền Bắc),7520120,7520120
+1182,Kỹ thuật hàng không (miền Nam),7520120,7520120
+1183,Chỉ huy kỹ thuật Phòng không (miền Bắc),7860226,7860226
+1184,Chỉ huy kỹ thuật Phòng không (miền Nam),7860226,7860226
+1185,Ngành kỹ thuật hàng không Thí sinh Nam miền Bắc,7520120,7520120
+1186,Ngành kỹ thuật hàng khôngThí sinh Nam miền Nam,7520120,7520120
+1187,Ngành CHTM PK - KQ Thí sinh Nam miền Bắc,7860226,7860226
+1188,Ngành CHTM PK - KQ Thí sinh Nam miền Nam,7860226,7860226
+1189,Kỹ thuật hàng không -Thí sinh Nam miền Bắc,7520120,7520120
+1190,Kỹ thuật hàng không - Thí sinh Nam miền Nam,7520120,7520120
+1191,Chỉ huy kỹ thuật Phòng không - Thí sinh Nam miền Bắc,7860226,7860226
+1192,Chỉ huy kỹ thuật Phòng không - Thí sinh Nam miền Nam,7860226,7860226
+1193,Khoa học Máy tính; Kỹ thuật Máy tính; (Nhóm ngành),106,106
+1194,Kỹ thuật Điện;Kỹ thuật Điện tử - Viễn thông;Kỹ thuật Điều khiển và tự động hóa;(Nhóm ngành),108,108
+1195,Kỹ thuật Cơ khí; Kỹ thuật Cơ điện tử ; (Nhóm ngành),109,109
+1196,Kỹ thuật Dệt; Công nghệ Dệt may; (Nhóm ngành),112,112
+1197,Kỹ thuật Hóa học; Công nghệ Thực phẩm; Công nghệ Sinh học; (Nhóm ngành),114,114
+1198,Kỹ thuật Xây dựng; Kỹ thuật Xây dựng Công trình giao thông;Kỹ thuật Xây dựng Công trình thủy; Kỹ thuật Xây dựng Công trình biển;Kỹ thuật Cơ sở hạ tầng;(Nhóm ngành),115,115
+1199,Kỹ thuật Địa chất; Kỹ thuật Dầu khí; (Nhóm ngành),120,120
+1200,Quản lý Công nghiệp,7510601,7510601
+1201,Kỹ thuật Môi trường; Quản lý Tài nguyên và Môi trường; (Nhóm ngành),125,125
+1202,Kỹ thuật Hệ thống Công nghiệp;Logistics và Quản lý chuỗi Cung ứng;(Nhóm ngành),128,128
+1203,Kỹ thuật Vật liệu,129,129
+1204,Kỹ thuật Trắc địa - Bản đồ,130,130
+1205,Công nghệ Kỹ thuật Vật liệu Xây dựng,131,131
+1206,Vật lý Kỹ thuật,137,137
+1207,Cơ Kỹ thuật,138,138
+1208,Kỹ thuật Nhiệt (Nhiệt lạnh),140,140
+1209,Bảo dưỡng Công nghiệp,141,141
+1210,Kỹ thuật Ô tô,142,142
+1211,Kỹ thuật Tàu thủy,143,143
+1212,Kỹ thuật Hàng không,144,144
+1213,Khoa học Máy tính (CT Chất lượng cao. giảng dạy bằng tiếng Anh. học phí tương ứng),206,206
+1214,Kỹ thuật Máy tính (CT Chất lượng cao. giảng dạy bằng tiếng Anh. học phí tương ứng),207,207
+1215,Kỹ thuật Điện - Điện tử (CT Tiên tiến. giảng dạy bằng tiếng Anh. học phí tương ứng),208,208
+1216,Kỹ thuật Cơ khí (CT Chất lượng cao. giảng dạy bằng tiếng Anh. học phí tương ứng),209,209
+1217,Kỹ thuật Cơ điện tử (CT Chất lượng cao. giảng dạy bằng tiếng Anh. học phí tương ứng),210,210
+1218,Kỹ thuật Hóa học (CT Chất lượng cao. giảng dạy bằng tiếng Anh. học phí tương ứng),214,214
+1219,Kỹ thuật Xây dựng (CT Chất lượng cao. giảng dạy bằng tiếng Anh. học phí tương ứng),215,215
+1220,Công nghệ Thực phẩm (CT Chất lượng cao. giảng dạy bằng tiếng Anh. học phí tương ứng),219,219
+1221,Kỹ thuật Dầu khí (CT Chất lượng cao. giảng dạy bằng tiếng Anh. học phí tương ứng),220,220
+1222,Quản lý Công nghiệp (CT Chất lượng cao. giảng dạy bằng tiếng Anh. học phí tương ứng),223,223
+1223,Quản lý Tài nguyên và Môi trường (CT Chất lượng cao. giảng dạy bằng tiếng Anh. học phí tương ứng),225,225
+1224,Kỹ thuật Môi trường (CT Chất lượng cao. giảng dạy bằng tiếng Anh. học phí tương ứng),241,241
+1225,Kỹ thuật Ô tô (CT Chất lượng cao. giảng dạy bằng tiếng Anh. học phí tương ứng),242,242
+1226,Kỹ thuật Xây dựng Công trình Giao thông (CT Chất lượng cao. giảng dạy bằng tiếng Anh. học phí tương ứng),245,245
+1227,Kỹ thuật Điện (Đào tạo tại Phân hiệu ĐHQG-HCM tại Bến Tre. thí sinh phải thỏa điều kiện quy định của Phân hiệu),408,408
+1228,Kỹ thuật Cơ điện tử (Đào tạo tại Phân hiệu ĐHQG-HCM tại Bến Tre. thí sinh phải thỏa điều kiện quy định của Phân hiệu),410,410
+1229,Kỹ thuật Xây dựng (Đào tạo tại Phân hiệu ĐHQG-HCM tại Bến Tre. thí sinh phải thỏa điều kiện quy định của Phân hiệu),415,415
+1230,Công nghệ Thực phẩm (Đào tạo tại Phân hiệu ĐHQG-HCM tại Bến Tre. thí sinh phải thỏa điều kiện quy định của Phân hiệu),419,419
+1231,Quản lý Tài nguyên và Môi trường (Đào tạo tại Phân hiệu ĐHQG-HCM tại Bến Tre. thí sinh phải thỏa điều kiện quy định của Phân hiệu),425,425
+1232,ĐẠI HỌC CHÍNH QUY,,
+1233,Kỹ thuật Điện; Kỹ thuật Điện tử - Viễn thông; Kỹ thuật Điều khiển và tự động hóa; (Nhóm ngành),108,108
+1234,Kỹ thuật Cơ khí; Kỹ thuật Cơ điện tử; (Nhóm ngành),109,109
+1235,Kỹ thuật Xây dựng; Kỹ thuật Xây dựng Công trình giao thông; Kỹ thuật Xây dựng Công trình thủy; Kỹ thuật Xây dựng Công trình biển; Kỹ thuật Cơ sở hạ tầng; (Nhóm ngành),115,115
+1236,Kỹ thuật Hệ thống Công nghiệp; Logistics và Quản lý chuỗi Cung ứng; (Nhóm ngành),128,128
+1237,ĐẠI HỌC CHÍNH QUY CHẤT LƯỢNG CAO (GIẢNG DẠY BẰNG TIẾNG ANH),,
+1238,"Khoa học Máy tính (CT Chất lượng cao, giảng dạy bằng tiếng Anh, học phí tương ứng)",206,206
+1239,"Kỹ thuật Máy tính (CT Chất lượng cao, giảng dạy bằng tiếng Anh, học phí tương ứng)",207,207
+1240,"Kỹ thuật Điện - Điện tử (CT Tiên tiến, giảng dạy bằng tiếng Anh, học phí tương ứng)",208,208
+1241,"Kỹ thuật Cơ khí (CT Chất lượng cao, giảng dạy bằng tiếng Anh, học phí tương ứng)",209,209
+1242,"Kỹ thuật Cơ điện tử (CT Chất lượng cao, giảng dạy bằng tiếng Anh, học phí tương ứng)",210,210
+1243,"Kỹ thuật Hóa học (CT Chất lượng cao, giảng dạy bằng tiếng Anh, học phí tương ứng)",214,214
+1244,"Kỹ thuật Xây dựng (CT Chất lượng cao, giảng dạy bằng tiếng Anh, học phí tương ứng)",215,215
+1245,"Công nghệ Thực phẩm (CT Chất lượng cao, giảng dạy bằng tiếng Anh, học phí tương ứng)",219,219
+1246,"Kỹ thuật Dầu khí (CT Chất lượng cao, giảng dạy bằng tiếng Anh, học phí tương ứng)",220,220
+1247,"Quản lý Công nghiệp (CT Chất lượng cao, giảng dạy bằng tiếng Anh, học phí tương ứng)",223,223
+1248,"Quản lý Tài nguyên và Môi trường (CT Chất lượng cao, giảng dạy bằng tiếng Anh, học phí tương ứng)",225,225
+1249,"Kỹ thuật Môi trường (CT Chất lượng cao, giảng dạy bằng tiếng Anh, học phí tương ứng)",241,241
+1250,"Kỹ thuật Ô tô (CT Chất lượng cao, giảng dạy bằng tiếng Anh, học phí tương ứng)",242,242
+1251,"Kỹ thuật Xây dựng Công trình Giao thông (CT Chất lượng cao, giảng dạy bằng tiếng Anh, học phí tương ứng)",245,245
+1252,ĐẠI HỌC CHÍNH QUY (ĐÀO TẠO TẠI PHÂN HIỆU ĐHQG-HCM TẠI BẾN TRE),,
+1253,"Kỹ thuật Điện (Đào tạo tại Phân hiệu ĐHQG-HCM tại Bến Tre, thí sinh phải thỏa điều kiện quy định của Phân hiệu)",408,408
+1254,"Kỹ thuật Cơ điện tử (Đào tạo tại Phân hiệu ĐHQG-HCM tại Bến Tre, thí sinh phải thỏa điều kiện quy định của Phân hiệu)",410,410
+1255,"Kỹ thuật Xây dựng (Đào tạo tại Phân hiệu ĐHQG-HCM tại Bến Tre, thí sinh phải thỏa điều kiện quy định của Phân hiệu)",415,415
+1256,"Công nghệ Thực phẩm (Đào tạo tại Phân hiệu ĐHQG-HCM tại Bến Tre, thí sinh phải thỏa điều kiện quy định của Phân hiệu)",419,419
+1257,"Quản lý Tài nguyên và Môi trường (Đào tạo tại Phân hiệu ĐHQG-HCM tại Bến Tre, thí sinh phải thỏa điều kiện quy định của Phân hiệu)",425,425
+1258,Khoa học Máy tính,106,106
+1259,Kỹ thuật Máy tính,107,107
+1260,Kỹ thuật Điện;Kỹ thuật Điện tử - Viễn thông;Kỹ thuật Điều khiển và Tự động hóa;(Nhóm ngành),108,108
+1261,Kỹ thuật Cơ khí;Kỹ thuật Cơ điện tử;(Nhóm ngành),109,109
+1262,Kỹ thuật Dệt;Công nghệ Dệt May;(Nhóm ngành),112,112
+1263,Kỹ thuật Hóa học;Công nghệ Thực phẩm;Công nghệ Sinh học;(Nhóm ngành),114,114
+1264,Kỹ thuật Xây dựng;Kỹ thuật Xây dựng Công trình Giao thông;Kỹ thuật Xây dựng Công trình Thủy;Kỹ thuật Xây dựng Công trình Biển;Kỹ thuật Cơ sở Hạ tầng;(Nhóm ngành),115,115
+1265,Kỹ thuật Địa chất;Kỹ thuật Dầu khí;(Nhóm ngành),120,120
+1266,Kỹ thuật Môi trường;Quản lý Tài nguyên và Môi trường;(Nhóm ngành),125,125
+1267,Kỹ thuật Tàu thủy;Kỹ thuật Hàng không;(Nhóm ngành),145,145
+1268,Bảo dưỡng Công nghiệp - Chuyên ngành Bảo dưỡng Cơ điện tử; Chuyên ngành Bảo dưỡng Công nghiệp (Phân hiệu ĐHQG-HCM tại Bến Tre),441,441
+1269,Kỹ thuật Xây dựng - Chuyên ngành Kỹ thuật Hạ tầng và Môi trường (Phân hiệu ĐHQG-HCM tại Bến Tre),445,445
+1270,Kỹ thuật Xây dựng Công trình Giao thông - Chuyên ngành Cầu đường (Đào tạo tại Phân hiệu ĐHQG-HCM tại Bến Tre).,446,446
+1271,Kỹ thuật Điện - Chuyên ngành Năng lượng tái tạo (Đào tạo tại Phân hiệu ĐHQG-HCM tại Bến Tre).,448,448
+1272,Khoa học máy tính (chất lượng cao),7480101_CLCA,7480101_CLCA
+1273,Mạng máy tính và truyền thông dữ liệu (chất lượng cao),7480102_CLCA,7480102_CLCA
+1274,Kỹ thuật phần mềm (chất lượng cao),7480103_CLCA,7480103_CLCA
+1275,Hệ thống thông tin (chất lượng cao),7480104_CLCA,7480104_CLCA
+1276,Hệ thống thông tin (tiên tiến),7480104_TT,7480104_TT
+1277,Kỹ thuật máy tính,7480106,7480106
+1278,Kỹ thuật máy tính (chất lượng cao),7480106_CLCA,7480106_CLCA
+1279,Công nghệ thông tin (Đào tạo tại Phân hiệu ĐHQG-HCM tại Bến Tre),7480201_BT,7480201_BT
+1280,Công nghệ thông tin (chất lượng cao định hướng Nhật Bản),7480201_CLCN,7480201_CLCN
+1281,Công nghệ thông tin (Khoa học dữ liệu),7480201_KHDL,7480201_KHDL
+1282,An toàn thông tin (chất lượng cao),7480202_CLCA,7480202_CLCA
+1283,Công nghệ thông tin (Đào tạo tại Phân hiệu ĐHQG -HCM tại Bến Tre),7480201_BT,7480201_BT
+1284,Công nghệ thông tin (khoa học dữ liệu),7480201_KHDL,7480201_KHDL
+1285,Thương mại điện tử (chất lượng cao),7340122_411C,7340122_411C
+1286,Kinh tế (Kinh tế học),7310101_401,7310101_401
+1287,Kinh tế (Kinh tế học) (chất lượng cao),7310101_401C,7310101_401C
+1288,Kinh tế (Kinh tế và Quản lý Công),7310101_403,7310101_403
+1289,Kinh tế (Kinh tế và Quản lý Công) (chất lượng cao),7310101_403C,7310101_403C
+1290,Kinh tế (Kinh tế và Quản lý công) (đào tạo tại Phân hiệu ĐHQG ở Bến Tre),7310101_403_BT,7310101_403_BT
+1291,Kinh tế quốc tế (Kinh tế đối ngoại),7310106_402,7310106_402
+1292,Kinh tế quốc tế (Kinh tế đối ngoại) (chất lượng cao),7310106_402C,7310106_402C
+1293,"Toán kinh tế (Toán ứng dụng trong kinh tế, quản trị và tài chính)",7310108_413,7310108_413
+1294,Quản trị kinh doanh (chất lượng cao bằng tiếng Anh),7340101_407CA,7340101_407CA
+1295,Marketing (chất lượng cao),7340115_410C,7340115_410C
+1296,Kinh doanh quốc tế (chất lượng cao),7340120_408C,7340120_408C
+1297,Kinh doanh quốc tế (chất lượng cao bằng tiếng Anh),7340120_408CA,7340120_408CA
+1298,Tài chính – Ngân hàng (chất lượng cao bằng tiếng Anh),7340201_404CA,7340201_404CA
+1299,Tài chính – Ngân hàng (đào tạo tại Phân hiệu ĐHQG ở Bến Tre),7340201_404_BT,7340201_404_BT
+1300,Kế toán (chất lượng cao),7340301_405C,7340301_405C
+1301,Kế toán (chất lượng cao bằng tiếng Anh),7340301_405CA,7340301_405CA
+1302,Luật dân sự,7380101_503,7380101_503
+1303,Luật dân sự (chất lượng cao),7380101_503C,7380101_503C
+1304,Luật Tài chính - Ngân hàng,7380101_504,7380101_504
+1305,Luật Tài chính - Ngân hàng (chất lượng cao),7380101_504C,7380101_504C
+1306,Luật kinh doanh,7380110,7380110
+1307,Luật kinh doanh (chất lượng cao),7380107_501C,7380107_501C
+1308,Luật thương mại quốc tế,7380109,7380109
+1309,Luật thương mại quốc tế (chất lượng cao),7380107_502C,7380107_502C
+1310,T ài chính - Ngân hàng,7340201_404,7340201_404
+1311,Tài chính - Ngân hàng (chất lượng cao bằng tiếng Anh),7340201_404CA,7340201_404CA
+1312,Ke toán (chất lượng cao),7340301_405C,7340301_405C
+1313,Ke toán (chất lượng cao bằng tiếng Anh),7340301_405CA,7340301_405CA
+1314,Kiêm toán,7340302_409,7340302_409
+1315,Kiêm toán ( chất lượng cao),7340302_409C,7340302_409C
+1316,Quản trị kinh doanh (Quản trị du lịch và lữ hành),7340101_415,7340101_415
+1317,Tài chính - Ngân hàng (Công nghệ tài chính) (Chất lượng cao),7340201_414C,7340201_414C
+1318,Luật (Luật Tài chính - Ngân hàng) (Chất lượng cao tăng cường tiếng Pháp),7380101_504CP,7380101_504CP
+1319,Kinh tế (Kinh tế học) (Chất lượng cao),7310101_401C,7310101_401C
+1320,Kinh tế (Kinh tế và Quản lý Công) (Chất lượng cao),7310101_403C,7310101_403C
+1321,Kinh tế (Kinh tế và Quản lý công) (đào tạo tại Phân hiệu ĐHQG ở Bến Tre) *,7310101_403_BT,7310101_403_BT
+1322,Kinh tế quốc tế (Kinh tế đối ngoại) (Chất lượng cao),7310106_402C,7310106_402C
+1323,Quản trị kinh doanh (Chất lượng cao),7340101_407C,7340101_407C
+1324,Quản trị kinh doanh (Chất lượng cao bằng tiếng Anh),7340101_407CA,7340101_407CA
+1325,Marketing (Chất lượng cao),7340115_410C,7340115_410C
+1326,Kinh doanh quốc tế (Chất lượng cao),7340120_408C,7340120_408C
+1327,Kinh doanh quốc tế (Chất lượng cao bằng tiếng Anh),7340120_408CA,7340120_408CA
+1328,Thương mại điện tử (Chất lượng cao),7340122_411C,7340122_411C
+1329,Tài chính - Ngân hàng (Chất lượng cao),7340201_404C,7340201_404C
+1330,Tài chính – Ngân hàng (Chất lượng cao bằng tiếng Anh),7340201_404CA,7340201_404CA
+1331,Tài chính – Ngân hàng (đào tạo tại Phân hiệu ĐHQG ở Bến Tre) *,7340201_404_BT,7340201_404_BT
+1332,Kế toán (Chất lượng cao),7340301_405C,7340301_405C
+1333,Kế toán (Chất lượng cao bằng tiếng Anh),7340301_405CA,7340301_405CA
+1334,Kiểm toán (Chất lượng cao),7340302_409C,7340302_409C
+1335,Hệ thống thông tin quản lý (Chất lượng cao),7340405_406C,7340405_406C
+1336,Luật (Luật dân sự),7380101_503,7380101_503
+1337,Luật (Luật dân sự) (Chất lượng cao),7380101_503C,7380101_503C
+1338,Luật (Luật Tài chính - Ngân hàng),7380101_504,7380101_504
+1339,Luật (Luật Tài chính - Ngân hàng) (Chất lượng cao),7380101_504C,7380101_504C
+1340,Luật kinh tế (Luật kinh doanh),7380107_501,7380107_501
+1341,Luật kinh tế (Luật kinh doanh) (Chất lượng cao),7380107_501C,7380107_501C
+1342,Luật kinh tế (Luật thương mại quốc tế),7380107_502,7380107_502
+1343,Luật kinh tế (Luật thương mại quốc tế) (Chất lượng cao),7380107_502C,7380107_502C
+1344,Quản trị kinh doanh (Chương trình liên kết với Đại học nước ngoài),7340101_LK,7340101_LK
+1345,Công nghệ sinh học (Chương trình liên kết với Đại học nước ngoài),7420201_LK,7420201_LK
+1346,Kỹ thuật Máy tính (Chương trình liên kết với Đại học nước ngoài),7480106_LK,7480106_LK
+1347,Công nghệ thông tin (Chương trình liên kết với Đại học nước ngoài),7480201_LK,7480201_LK
+1348,Khoa học Dữ liệu (dự kiến),7489001,7489001
+1349,Kỹ thuật Hệ thống công nghiệp (Chương trình liên kết với Đại học nước ngoài),7520118_LK,7520118_LK
+1350,Kỹ thuật không gian,7520121,7520121
+1351,Kỹ thuật Điện tử viễn thông (Chương trình liên kết với Đại học nước ngoài),7520207_LK,7520207_LK
+1352,Logistics & Quản lý chuỗi cung ứng,7510605,7510605
+1353,Hóa Sinh,7440112,7440112
+1354,"Kỹ thuật điện tử, viễn thông",7520207,7520207
+1355,Kỹ thuật điều khiển & Tự động hoá,7520216,7520216
+1356,Kỹ Thuật Không gian,7520121,7520121
+1357,Kỹ Thuật Xây dựng,7580201,7580201
+1358,Quản lý nguồn lợi thủy sản,7620305,7620305
+1359,Kỹ thuật Môi trường,7520320,7520320
+1360,Toán ứng dụng (Kỹ thuật tài chính và Quản trị rủi ro),7460112,7460112
+1361,Khoa học Dữ liệu,7480109,7480109
+1362,Kỹ thuật Hóa học,7520301,7520301
+1363,Kỹ thuật máy tính (Chương trình liên kết với Đại học nước ngoài),7480106_LK,7480106_LK
+1364,Kỹ thuật hệ thống công nghiệp (Chương trình liên kết với Đại học nước ngoài),7520118_LK,7520118_LK
+1365,"Kỹ thuật điện tử, truyền thông (Chương trình liên kết với Đại học nước ngoài)",7520207_LK,7520207_LK
+1366,Sinh học (Tuyển sinh đào tạo tại Phân hiệu ĐHQG-HCM tại tỉnh Bến Tre),7420101_BT,7420101_BT
+1367,Công nghệ Sinh học (Chương trình Chất lượng cao),7420201_CLC,7420201_CLC
+1368,Hoá học (Chương trình liên kết Việt - Pháp),7440112_VP,7440112_VP
+1369,Hải dương học,QHT17,QHT17
+1370,Khoa học Môi trường (Tuyển sinh đào tạo tại Phân hiệu ĐHQG-HCM tại tỉnh Bến Tre),7440301_BT,7440301_BT
+1371,Công nghệ thông tin (Chương trình Chất lượng cao),7480201_CLC,7480201_CLC
+1372,Công nghệ thông tin (Chương trình Tiên tiến),7480201_TT,7480201_TT
+1373,Công nghệ thông tin (Chương trình liên kết Việt - Pháp),7480201_VP,7480201_VP
+1374,Công nghệ kỹ thuật Hoá học(Chương trình Chất lượng cao),7510401_CLC,7510401_CLC
+1375,Kỹ thuật điện tử - viễn thông (Chương trình Chất lượng cao),7520207_CLC,7520207_CLC
+1376,Kỹ thuật hạt nhân,7520402,7520402
+1377,Sinh học - Phân hiệu ĐHQG- HCM tại tỉnh bến Tre,7420101_BT,7420101_BT
+1378,Công nghệ sinh học - Chương trình chất lượng cao,7420201_CLC,7420201_CLC
+1379,Hóa học,7440112,7440112
+1380,Hóa học- Chương trình Việt Pháp,7440112_VP,7440112_VP
+1381,Khoa học Vật liệu,7440122,7440122
+1382,Khoa học môi trường -Phân hiệu ĐHQG- HCM tại tỉnh bến Tre,7440301_BT,7440301_BT
+1383,Nhóm ngành máy tính và Công nghệ thông tin,7480201_NN,7480201_NN
+1384,Công nghệ thông tin- Chương trình chất lượng cao,7480201_CLC,7480201_CLC
+1385,Công nghệ thông tin- Chương trình tiên tiến,7480201_TT,7480201_TT
+1386,Công nghệ thông tin- Chương trình Việt Pháp,7480201_VP,7480201_VP
+1387,Công nghệ kỹ thuật Hóa học - Chương trình chất lượng cao,7510401_CLC,7510401_CLC
+1388,Công nghệ kỹ thuật Môi trường,7510406,7510406
+1389,Kĩ thuật điện tử- viễn thông,7520207,7520207
+1390,Kĩ thuật điện tử- viễn thông- Chương trình chất lượng cao,7520207_CLC,7520207_CLC
+1391,Khoa học máy tính (Chương trình Tiên tiến),7480101_TT,7480101_TT
+1392,Ngôn ngữ Đức,7220205,7220205
+1393,Ngôn ngữ Tây Ban Nha,7220206,7220206
+1394,Ngôn ngữ Italia,7220208,7220208
+1395,Nhân học,QHX11,QHX11
+1396,Nhật Bản học,QHX12,QHX12
+1397,Hàn Quốc học,7310614,7310614
+1398,Đô thị học,7580112,7580112
+1399,Quản trị dịch vụ du lịch và lữ hành tại Bến Tre,7810103 _ BT,7810103 _ BT
+1400,Quản trị dịch vụ du lịch và lữ hành chất lượng cao,7810103 _ CLC,7810103 _ CLC
+1401,Ngôn ngữ Anh_Phân hiệu Bến Tre,7220201_BT,7220201_BT
+1402,Ngôn ngữ Anh_Chất lượng cao,7220201_CLC,7220201_CLC
+1403,Quan hệ Quốc tế_Chất lượng cao,7310206_CLC,7310206_CLC
+1404,Nhật Bản học_Phân hiệu Bến Tre,7310613_BT,7310613_BT
+1405,Nhật Bản học_Chất lượng cao,7310613_CLC,7310613_CLC
+1406,Báo chí_Phân hiệu Bến Tre,7320101_BT,7320101_BT
+1407,Báo chí_Chất lượng cao,7320101_CLC,7320101_CLC
+1408,Đô thị học_Phân hiệu Bến Tre,7580112_BT,7580112_BT
+1409,Quản trị dịch vụ du lịch và lữ hành _Phân hiệu Bến Tre,7810103_BT,7810103_BT
+1410,Quản trị dịch vụ du lịch và lữ hành_Chất lượng cao,7810103_CLC,7810103_CLC
+1411,Y khoa chất lượng cao,7720101_CLC,7720101_CLC
+1412,Dược học Chất lượng cao,7720201_CLC,7720201_CLC
+1413,Răng-Hàm-Mặt Chất lượng cao,7720501_CLC,7720501_CLC
+1414,Y khoa Chất lượng cao,7720101_CLC,7720101_CLC
+1415,Công nghệ thông tin (chương trình chất lượng cao),7480201CLC,7480201CLC
+1416,Ngôn ngữ Anh (CN Thương mại và Du lịch),7220201,7220201
+1417,Sư phạm Lịch sử - Địa lí,7140249,7140249
+1418,Khối ngành Sư phạm,,
+1419,Quản lý Giáo dục,7140114,7140114
+1420,Khối ngoài Sư phạm,,
+1421,Ngôn ngữ Trang Quốc,7220204,7220204
+1422,Ngôn ngữ Anh (chuyên ngành: Ngôn ngữ Anh và Tiếng Anh du lịch),7220201,7220201
+1423,Việt Nam học (chuyên ngành Hướng dẫn viên du lịch và Quản lý Nhà hàng - Khách sạn),7310630,7310630
+1424,Sư phạm giáo dục Mầm non (hệ cao đẳng),51140201,51140201
+1425,Sư phạm giáo dục Tiểu học (hệ cao đẳng),51140202,51140202
+1426,Sư phạm giáo dục Thể chất (hệ cao đẳng),51140206,51140206
+1427,BẬC CAO ĐẲNG (NGOÀI ĐẠI HỌC),,
+1428,Phát triển Nông thôn,6620128,6620128
+1429,Bảo vệ Thực vật,6620108,6620108
+1430,Hướng dẫn du lịch,6810103,6810103
+1431,Dịch vụ thú y,6640201,6640201
+1432,Thiết kế trang web,6480217,6480217
+1433,Quản trị lữ hành,6810104,6810104
+1434,Quản trị nhà hàng,6810206,6810206
+1435,CNKT Điện tử - Viễn thông,7510302,7510302
+1436,Quản trị DV du lịch và lữ hành,7810103,7810103
+1437,QTDV du lịch và lữ hành,7810103,7810103
+1438,Kinh tế (chuyên ngành Luật kinh tế),7310101A,7310101A
+1439,Kinh tế (chuyên ngành Kinh tế thủy sản),7310101B,7310101B
+1440,Quản trị kinh doanh (chương trình song ngữ Pháp-Việt),7340101P,7340101P
+1441,Kỹ thuật cơ khí (chuyên ngành Kỹ thuật cơ khí),7520103A,7520103A
+1442,Kỹ thuật cơ khí (chuyên ngành Kỹ thuật cơ khí động lực),7520103B,7520103B
+1443,Công nghệ chế biến thuỷ sản,7540105,7540105
+1444,Khai thác thuỷ sản,7620304,7620304
+1445,Quản trị dịch vụ du lịch và lữ hành (chương trình song ngữ Pháp-Việt),7810103P,7810103P
+1446,Khoa học hàng hải,7840106,7840106
+1447,Quản trị dịch vụ du lịch và lữ hành (2 chuyên ngành: Quản trị khách sạn; Quản trị dịch vụ du lịch và lữ hành),7810103,7810103
+1448,Ngôn ngữ Anh (3 chuyên ngành: Biên - phiên dịch; Tiếng Anh du lịch; Phương pháp giảng dạy Tiếng Anh),7220201,7220201
+1449,Kế toán (2 chuyên ngành: Kế toán; Kiểm toán),7340301,7340301
+1450,Công nghệ thông tin (2 chuyên ngành: Công nghệ thông tin; Truyền thông và Mạng máy tính),7480201,7480201
+1451,Công nghệ thực phẩm (2 chuyên ngành: Công nghệ thực phẩm; Đảm bảo chất lượng và an toàn thực phẩm),7540101,7540101
+1452,Quản trị kinh doanh (chương trình song ngữ Pháp - Việt),7340101P,7340101P
+1453,Quản trị dịch vụ du lịch và lữ hành (chương trình song ngữ Pháp - Việt),7810103P,7810103P
+1454,Kinh tế (chuyên ngành kinh tế thủy sản),7310101B,7310101B
+1455,"Công nghệ kĩ thuật điện, điện tử",7510301,7510301
+1456,"Kỹ thuật nhiệt (3 chuyên ngành: Kỹ thuật điện lạnh; Máy lạnh, điều hòa không khí và thông gió; Máy lạnh và thiết bị thực phẩm)",7520115,7520115
+1457,Kỹ thuật xây dựng (2 chuyên ngành: Kỹ thuật xây dựng; Kỹ thuật xây dựng công trình giao thông),7580201,7580201
+1458,Khai thác thủy sản,7620304,7620304
+1459,Nuôi trồng thủy sản (2 chuyên ngành: Nuôi trồng thủy sản; Bệnh học thủy sản),7620301,7620301
+1460,Công nghệ chế biến thủy sản,7540105,7540105
+1461,Công nghệ kỹ thuật hóa học,7510401C,7510401C
+1462,Quản trị kinh doanh (chương trình song ngữ Anh - Việt),7340101A,7340101A
+1463,"Công nghệ thông tin (chương trình định hướng nghề nghiệp, đào tạo song ngữ Anh - Việt)",7480201PHE,7480201PHE
+1464,Nhóm ngành Kỹ thuật cơ khí (2 ngành: Kỹ thuật cơ khí; Công nghệ chế tạo máy),7520103A,7520103A
+1465,Quản trị dịch vụ du lịch và lữ hành (chuyên ngành song ngữ Pháp - Việt),7810103P,7810103P
+1466,"Quản trị dịch vụ du lịch và lữ hành (chuyên ngành Quản trị khách sạn, chương trình định hướng nghề nghiệp, đào tạo song ngữ Anh - Việt)",7810103PHE,7810103PHE
+1467,Sáng tác văn học,7220110,7220110
+1468,Văn hoá học - Nghiên cứu văn hoá,7229040A,7229040A
+1469,Văn hoá học - Văn hoá truyền thông,7229040B,7229040B
+1470,QLVH - Chính sách văn hoá và Quản lý nghệ thuật,7229042A,7229042A
+1471,QLVH - Quản lý nhà nước về gia đình,7229042B,7229042B
+1472,Quản lý di sản văn hoá,7229042C,7229042C
+1473,QLVH - Biểu diễn âm nhạc,7229042D,7229042D
+1474,QLVH - Đạo diễn sự kiện,7229042E,7229042E
+1475,QLVH - Biên đạo múa đại chúng,7229042G,7229042G
+1476,Liên thông Quản lý văn hoá,7229042LT,7229042LT
+1477,Gia đình học,7229045,7229045
+1478,Liên thông Thư viện,7320201LT,7320201LT
+1479,Bảo tàng học,7320305,7320305
+1480,Kinh doanh xuất bản phẩm,7320402,7320402
+1481,Du lịch - Văn hoá du lịch,7810101A,7810101A
+1482,"Du lịch - Lữ hành, Hướng dẫn du lịch",7810101B,7810101B
+1483,Du lịch - Hướng dẫn du lịch quốc tế,7810101C,7810101C
+1484,Liên thông Du lịch,7810101LT,7810101LT
+1485,Du lịch - Văn hóa du lịch,7810101A,7810101A
+1486,Văn hóa học - Nghiên cứu văn hóa,7229040,7229040
+1487,Văn hóa học - Văn hóa truyền thông,7229040B,7229040B
+1488,QLVH - Chính sách văn hóa và Quản lý nghệ thuật,7229042A,7229042A
+1489,Quản lý di sản văn hóa,7229042C,7229042C
+1490,Thông tin - Thư viện,QHX20,QHX20
+1491,Văn hóa các dân tộc thiểu số Việt Nam,7220112,7220112
+1492,Liên thông du lịch,7810101LT,7810101LT
+1493,Liên thông Quản lý văn hóa,7229042LT,7229042LT
+1494,Liên thông thư viện,7320201LT,7320201LT
+1495,Văn hoá học – Văn hoá đối ngoại,7229040C,7229040C
+1496,QLVH - Quản lý di sản văn hoá,7229042C,7229042C
+1497,QLVH - Biểu diễn nghệ thuật,7229042D,7229042D
+1498,QLVH - Tổ chức sự kiện văn hoá,7229042E,7229042E
+1499,Văn hoá các dân tộc thiểu số Việt Nam - Tổ chức và Quản lý Văn hoá vùng dân tộc thiểu số,7220112A,7220112A
+1500,Văn hoá các dân tộc thiểu số Việt Nam - Tổ chức và Quản lý Du lịch vùng dân tộc thiểu số,7220112B,7220112B
+1501,Điều dưỡng chuyên ngành Hộ sinh,7720301_02,7720301_02
+1502,Điều dưỡng chuyên ngành Gây mê hồi sức,7720301_03,7720301_03
+1503,Kỹ thuật phục hình răng,7720502,7720502
+1504,Y khoa (có CC Tiếng Anh),7720101_02,7720101_02
+1505,Dược học (có CC Tiếng Anh),7720201_02,7720201_02
+1506,Công nghệ Kỹ thuật Nhiệt,7510206,7510206
+1507,Công nghệ Điều khiển - Tự động hóa,7510303,7510303
+1508,Công nghệ kỹ thuật Điện - Điện tử,7510301,7510301
+1509,Công nghệ Chế tạo máy,7510202,7510202
+1510,Quản trị kinh doanh (Quản trị nhà hàng - khách sạn),7340101,7340101
+1511,Việt Nam học (Hướng dẫn du lịch),7310630,7310630
+1512,Luật Thương mại quốc tế,7380109,7380109
+1513,Quản trị - Luật,7340102,7340102
+1514,ĐHSP Âm nhạc,7140221,7140221
+1515,ĐHSP Âm nhạc Mầm non,7140221,7140221
+1516,ĐHSP Mỹ thuật,7140222,7140222
+1517,ĐHSP Mỹ thuật Mầm non,7140222,7140222
+1518,ĐH Quản lý văn hóa,7229042,7229042
+1519,ĐH Thiết kế Thời trang,7210404,7210404
+1520,ĐH Công nghệ may,7540204,7540204
+1521,ĐH Thiết kế Đồ họa,7210403,7210403
+1522,ĐH Hội họa,7210103,7210103
+1523,ĐH Thanh nhạc,7210205,7210205
+1524,ĐH Piano,7210208,7210208
+1525,ĐH Diễn viên kịch - điện ảnh,7210234,7210234
+1526,Hệ liên thông:,,
+1527,Sư phạm Âm nhạc Mầm non,7140221,7140221
+1528,Sư phạm Mỹ thuật Mầm non,7140222,7140222
+1529,Hệ Đại học:,,
+1530,Hệ Cao Đẳng:,,
+1531,Công tác thanh thiếu niên,7760102,7760102
+1532,Xây dựng Đảng và Chính quyền nhà nước,7310202,7310202
+1533,Công tác Xã hội,7760101,7760101
+1534,Quan hệ Công chúng,7320108,7320108
+1535,Quản lý Nhà nước,7310205,7310205
+1536,Ngôn ngữ Hàn,7220209,7220209
+1537,Ngành Dầu khí,7520600,7520600
+1538,Ngành Dầu khí ( Gồm 3 ngành: Kỹ thuật Địa chất (Địa chất-Địa Vật lý Dầu khí) 7520501; Kỹ thuật Dầu khí (Khoan Khai thác Dầu khí) 7520604; Kỹ thuật Hóa học (Lọc Hóa dầu) 7520301.Điểm chuẩn chung.Phân ngành sau năm 1),7520600,7520600
+1539,Giáo dục Mầm non (Hệ cao đẳng),51140201,51140201
+1540,Giáo dục Tiểu học (Hệ cao đẳng),51140202,51140202
+1541,Giáo dục Thể chất (Hệ cao đẳng),51140206,51140206
+1542,Sư phạm Toán học (Hệ cao đẳng),51140209,51140209
+1543,Sư phạm Tin học (Hệ cao đẳng),51140210,51140210
+1544,Sư phạm Vật lý (Hệ cao đẳng),51140211,51140211
+1545,Sư phạm Hoá học (Hệ cao đẳng),51140212,51140212
+1546,Sư phạm Sinh học (Hệ cao đẳng),51140213,51140213
+1547,Sư phạm Ngữ văn (Hệ cao đẳng),51140217,51140217
+1548,Sư phạm Lịch sử (Hệ cao đẳng),51140218,51140218
+1549,Sư phạm Địa lý (Hệ cao đẳng),51140219,51140219
+1550,Sư phạm Âm nhạc (Hệ cao đẳng),51140221,51140221
+1551,Sư phạm Mỹ thuật (Hệ cao đẳng),51140222,51140222
+1552,Ngôn ngữ Anh (Biên phiên dịch; Tiếng Anh kinh doanh),7220201,7220201
+1553,Việt Nam học (chuyên ngành Hướng dẫn viên du lịch và Quàn lý Nhà hàng - Khách sạn),7310630,7310630
+1554,Khoa học máy tính (Công nghệ thông tin),7480101,7480101
+1555,Quàn lý đất đai,7850103,7850103
+1556,Giáo dục mầm non (CĐ),51140201,51140201
+1557,Sư phạm toán học (CĐ),51140209,51140209
+1558,Sư phạm Tin học (CĐ),51140210,51140210
+1559,Sư phạm Vật lý (CĐ),51140211,51140211
+1560,Sư phạm Sinh học (CĐ),51140213,51140213
+1561,Sư phạm Ngữ văn (CĐ),51140217,51140217
+1562,Sư phạm Lịch sử (CĐ),51140218,51140218
+1563,Sư phạm Địa lý (CĐ),51140219,51140219
+1564,Sư phạm Âm nhạc (CĐ),51140221,51140221
+1565,Sư phạm Mỹ thuật (CĐ),51140222,51140222
+1566,Khoa học thư viện,7320201,7320201
+1567,Quản lí giáo dục,7140114D,7140114D
+1568,Giáo dục Mầm non SP Tiếng Anh,7140201C,7140201C
+1569,Giáo dục Tiểu học SP Tiếng Anh,7140202D,7140202D
+1570,Giáo dục công dân,7140204D,7140204D
+1571,Giáo dục chính trị,7140205B,7140205B
+1572,SP Toán học,7140209A,7140209A
+1573,SP Toán học (dạy Toán bằng tiếng Anh),7140209D,7140209D
+1574,SP Tin học,7140210E,7140210E
+1575,SP Tin học (dạy Tin bằng tiếng Anh),7140210G,7140210G
+1576,SP Vật lý,7140211C,7140211C
+1577,SP Vật lý (dạy Lý bằng tiếng Anh),7140211G,7140211G
+1578,SP Hoá học,7140212A,7140212A
+1579,SP Hoá học (dạy Hoá bằng tiếng Anh),7140212B,7140212B
+1580,SP Sinh học,7140213C,7140213C
+1581,SP Sinh học (dạy Sinh bằng tiếng Anh),7140213F,7140213F
+1582,SP Ngữ văn,7140217D,7140217D
+1583,SP Lịch sử,7140218D,7140218D
+1584,SP Địa lý,7140219C,7140219C
+1585,SP Tiếng Pháp,7140233D,7140233D
+1586,SP Công nghệ,7140246C,7140246C
+1587,Chính trị học (Kinh tế chính trị Mác Lênin),7310201D,7310201D
+1588,Tâm lý học (Tâm lý học trường học),7310401D,7310401D
+1589,SP Tiếng Anh,7140231,7140231
+1590,Giáo dục Quốc phòng và An ninh,7140208C,7140208C
+1591,SP Toán học (dạy Toán bằng Tiếng Anh),7140209B,7140209B
+1592,Triết học (Triết học Mác Lê-nin),7229001D,7229001D
+1593,Sư phạm tiếng Anh (Đại trà),7140231D,7140231D
+1594,Thiết kế đồ họa (Đại trà),7210403D,7210403D
+1595,Thiết kế thời trang (Đại trà),7210404D,7210404D
+1596,Ngôn ngữ Anh (Đại trà),7220201D,7220201D
+1597,Thương mại điện tử (Đại trà),7340122D,7340122D
+1598,Kế toán (Chất lượng cao tiếng Việt),7340301C,7340301C
+1599,Kế toán (Đại trà),7340301D,7340301D
+1600,Công nghệ kỹ thuật máy tính (Chất lượng cao tiếng Anh),7480108A,7480108A
+1601,Công nghệ kỹ thuật máy tính (Chất lượng cao tiếng Việt),7480108C,7480108C
+1602,Công nghệ kỹ thuật máy tính (Đại trà),7480108D,7480108D
+1603,CN thông tin (Chất lượng cao tiếng Anh),7480201A,7480201A
+1604,CN thông tin (Chất lượng cao tiếng Việt),7480201C,7480201C
+1605,CN thông tin (Đại trà),7480201D,7480201D
+1606,Kỹ thuật dữ liệu (Đại trà),7480203D,7480203D
+1607,Công nghệ kỹ thuật công trình xây dựng (Chất lượng cao tiếng Anh),7510102A,7510102A
+1608,Công nghệ kỹ thuật công trình xây dựng (Chất lượng cao tiếng Việt),7510102C,7510102C
+1609,Công nghệ kỹ thuật công trình xây dựng (Đại trà),7510102D,7510102D
+1610,Công nghệ kỹ thuật cơ khí (Chất lượng cao tiếng Anh),7510201A,7510201A
+1611,Công nghệ kỹ thuật cơ khí (Chất lượng cao tiếng Việt),7510201C,7510201C
+1612,Công nghệ kỹ thuật cơ khí (Đại trà),7510201D,7510201D
+1613,CN chế tạo máy (Chất lượng cao tiếng Anh),7510202A,7510202A
+1614,CN chế tạo máy (Chất lượng cao tiếng Việt),7510202C,7510202C
+1615,CN chế tạo máy (Đại trà),7510202D,7510202D
+1616,Công nghệ kỹ thuật cơ điện tử (Chất lượng cao tiếng Anh),7510203A,7510203A
+1617,Công nghệ kỹ thuật cơ điện tử (Chất lượng cao tiếng Việt),7510203C,7510203C
+1618,Công nghệ kỹ thuật cơ điện tử (Đại trà),7510203D,7510203D
+1619,Công nghệ kỹ thuật ô tô (Chất lượng cao tiếng Anh),7510205A,7510205A
+1620,Công nghệ kỹ thuật ô tô (Chất lượng cao tiếng Việt),7510205C,7510205C
+1621,Công nghệ kỹ thuật ô tô (Đại trà),7510205D,7510205D
+1622,Công nghệ kỹ thuật nhiệt (Chất lượng cao tiếng Anh),7510206A,7510206A
+1623,Công nghệ kỹ thuật nhiệt (Chất lượng cao tiếng Việt),7510206C,7510206C
+1624,Công nghệ kỹ thuật nhiệt (Đại trà),7510206D,7510206D
+1625,Năng lượng tái tạo (Đại trà),7510208D,7510208D
+1626,"Công nghệ kỹ thuật điện, điện tử (Chất lượng cao tiếng Anh)",7510301A,7510301A
+1627,"Công nghệ kỹ thuật điện, điện tử (Chất lượng cao tiếng Việt)",7510301C,7510301C
+1628,"Công nghệ kỹ thuật điện, điện tử (Đại trà)",7510301D,7510301D
+1629,Công nghệ kỹ thuật điện tử - viễn thông (Chất lượng cao tiếng Anh),7510302A,7510302A
+1630,Công nghệ kỹ thuật điện tử - viễn thông (Chất lượng cao tiếng Việt),7510302C,7510302C
+1631,Công nghệ kỹ thuật điện tử - viễn thông (Đại trà),7510302D,7510302D
+1632,Công nghệ kỹ thuật điều khiển và tự động hóa (Chất lượng cao tiếng Anh),7510303A,7510303A
+1633,Công nghệ kỹ thuật điều khiển và tự động hóa (Chất lượng cao tiếng Việt),7510303C,7510303C
+1634,Công nghệ kỹ thuật điều khiển và tự động hóa (Đại trà),7510303D,7510303D
+1635,Công nghệ kỹ thuật Hóa học (Đại trà),7510401D,7510401D
+1636,Công nghệ vật liệu (Đại trà),7510402D,7510402D
+1637,Công nghệ kỹ thuật môi trường (Chất lượng cao tiếng Việt),7510406C,7510406C
+1638,Công nghệ kỹ thuật môi trường (Đại trà),7510406D,7510406D
+1639,Quản lý công nghiệp (Chất lượng cao tiếng Việt),7510601C,7510601C
+1640,Quản lý công nghiệp (Đại trà),7510601D,7510601D
+1641,Logistics & Quản lý chuỗi cung ứng (Đại trà),7510605D,7510605D
+1642,Công nghệ kỹ thuật in (Chất lượng cao tiếng Việt),7510801C,7510801C
+1643,Công nghệ kỹ thuật in (Đại trà),7510801D,7510801D
+1644,KT công nghiệp (Đại trà),7520117D,7520117D
+1645,Kỹ thuật y sinh (Điện tử YS) (Đại trà),7520212D,7520212D
+1646,Công nghệ thực phẩm (Chất lượng cao tiếng Anh),7540101A,7540101A
+1647,Công nghệ thực phẩm (Chất lượng cao tiếng Việt),7540101C,7540101C
+1648,Công nghệ thực phẩm (Đại trà),7540101D,7540101D
+1649,Công nghệ may (Chất lượng cao tiếng Việt),7540205C,7540205C
+1650,Công nghệ may (Đại trà),7540205D,7540205D
+1651,CN chế biến lâm sản (chế biến gỗ) (Đại trà),7549001D,7549001D
+1652,Kiến trúc (Đại trà),7580101D,7580101D
+1653,KT xây dựng công trình giao thông (Đại trà),7580205D,7580205D
+1654,Quản lý xây dựng (Đại trà),7580302D,7580302D
+1655,Quản trị nhà hàng và dịch vụ ăn uống (Đại trà),7810202D,7810202D
+1656,Kỹ thuật nữ công (Đại trà),7810502D,7810502D
+1657,Su phạm Tiếng Anh (hệ Đại trả),7140231D,7140231D
+1658,Thict kế dồ họa (hệ Đại trà),7210403D,7210403D
+1659,Thiết kế thời trang (hệ Đại trà),7210404D,7210404D
+1660,Ngôn ngữ Anh (hệ Đại trà),7220201D,7220201D
+1661,Thương mại điện tử (hệ Đại trà),7340122D,7340122D
+1662,Kế toán (hệ Chất lượng cao tiếng Việt),7340301C,7340301C
+1663,Kế toán (hệ Đại trà),7340301D,7340301D
+1664,Công nghệ kỹ thuật máy tinh (hệ ('hất lượng cao ticng Anh),7480108A,7480108A
+1665,Công nghệ kỹ thuật máy tinh (hệ Chất lượng cao ticng Việt),7480108C,7480108C
+1666,Công nghệ kỳ thuật máy tinh (hệ Đại trà),7480108D,7480108D
+1667,Công nghệ Thông Tin (hệ Chất lượng cao tiếng Anh),7480201A,7480201A
+1668,Công nghệ Thông Tin (hệ Chấl lượng cao tiếng Việt),7480201C,7480201C
+1669,Công nghệ Thông Tin (hệ đại trà),7480201D,7480201D
+1670,Kỹ thuật dữ liệu,7480203D,7480203D
+1671,Cóng nghệ kỹ thuật công trình xây dựng (hệ Chất lượng cao ticng Anh),7510102A,7510102A
+1672,Công nghệ kỳ thuậl công trình xây dựng (hý Chất lưựng cao ticng Việt),7510102C,7510102C
+1673,Cõng nghệ kỳ thuật cõng trinh xây dựng (hệ Dại trà),7510102D,7510102D
+1674,Công nghệ kỳ thuật cơ khi (hệ Chát lượng cao tiếng Anh),7510201A,7510201A
+1675,Công nghệ kỷ thuật cơ khi (hệ Chất lượng cao ticng Việt),7510201C,7510201C
+1676,Công nghv* kỳ thuvìt cơ khí (hv* Đựi trà),7510201D,7510201D
+1677,Công nghệ chc tạo máy (hệ Chắt lượng cao tiếng Anh),7510202A,7510202A
+1678,Công nghộ chò tạt) miy (hộ Chât lưựng cao ticng Việt),7510202C,7510202C
+1679,Công nghệ chê tạo máy (hệ Dại trả),7510202D,7510202D
+1680,Công nghç kỳ thuật cơ điện tứ (hộ Chất lượng cao ticng Anh),7510203A,7510203A
+1681,Công nghệ kỳ thuật cơ điC*n lừ (hệ Chất lưựng cao ticng Việt),7510203C,7510203C
+1682,Cống nghệ kỳ thu¿! cơ điộn từ (hí* Dụi (rà),7510203D,7510203D
+1683,Công nghệ kỳ thuật ỏ tô (hệ Chat lượng cao ticng Anh),7510205A,7510205A
+1684,Công nghệ kỳ thuật ô tò (hệ Chất lượng cao tiêng Việt),7510205C,7510205C
+1685,Công nghệ kỹ thuật ỏ tỏ (Ik Dại trà),7510205D,7510205D
+1686,Công nghệ kỳ thuật nhiệt (hộ Chắt lượng cao ticng Anh),7510206A,7510206A
+1687,Công nghệ kỳ thuật nhiệt (hệ Chất lượng cao tiêng Việt),7510206C,7510206C
+1688,Cong nghệ kỳ thuật nhiệt (hệ Đại trả),7510206D,7510206D
+1689,Năng lưựng tái tạo (hộ Dại (rà),7510208D,7510208D
+1690,Công Nghý kỹ thuật điộn - điộn tư (hệ Chất lượng cao tiếng Anh),7510301A,7510301A
+1691,Cõng Nghç kỳ thuật diçn - điện tư (hệ Chất lượng cao tiếng Việt),7510301C,7510301C
+1692,Công Nghệ kỳ thu¿t điện - điện tư (hệ Đại trà),7510301D,7510301D
+1693,Công nghệ kỷ thuật Diện từ - Viễn thông (hệ Chất lưựng cao tiếng Anh),7510302A,7510302A
+1694,Công nghộ kỹ thuật Điộn tứ - Viền thòng (hộ Chất lưựng cao ticng Việt),7510302C,7510302C
+1695,Công nghç kỹ thuật Diện tứ - Vico thòng (hç Dại trả),7510302D,7510302D
+1696,Công nghỹ kỳ thuật điều khicn và lự động hoả (hệ Chat lượng cao ticng Anh),7510303A,7510303A
+1697,Công nghệ kỳ thuật điều khiên và tự động hoả (hệ (’hất lượng cao ticng Việt),7510303C,7510303C
+1698,Công nghệ kỳ thuật điểu khicn và tự động hoả (hộ Đại trà),7510303D,7510303D
+1699,Công nghç Kỳ thuật Hóa học (hç Dại trà),7510401D,7510401D
+1700,Công nghộ vật liệu (hvẳ Đựi trà),7510402D,7510402D
+1701,Công nghệ kỳ thuật môi trưừng (hệ Chat lirựng cao tiếng Việi),7510406C,7510406C
+1702,Công nghệ kỳ thuật mỏi trường (hệ Đại trà),7510406D,7510406D
+1703,Quan lý Còng nghiệp (hệ Chất lượng cao tiếng Việt),7510601C,7510601C
+1704,Quản lý Công nghiệp (hệ Đại trà),7510601D,7510601D
+1705,Logistics và quán lý chuồi cung ứng (hv Dự! trà),7510605D,7510605D
+1706,Công nghệ kỹ thuựt m (hệ Chất lượng cao tiếng Việt),7510801c,7510801c
+1707,Công nghệ kỳ thuật in (hộ Đụi trà),7510801D,7510801D
+1708,KỲ thuật Còng nghiệp (hệ Đại trà),7520117D,7520117D
+1709,Kỹ thuật Y sinh (Điện tư V sinh) (hệ Đại trà),7520212D,7520212D
+1710,Công nghệ Thực phẩm (hệ Chất lượng cao tiếng Anh),7540101A,7540101A
+1711,Công nghệ Thực phàm (hệ Chất lượng cao ticng Việt),7540101C,7540101C
+1712,Công nghệ Thực phàm (hệ Đại trà),7540101D,7540101D
+1713,Công nghệ may (hệ Chất lượng cao tiếngViệt),7540205C,7540205C
+1714,Công nghệ may (hệ Đại trả),7540205D,7540205D
+1715,Công nghệ chc biến lảm sản (Chế biến gỗ) (hệ Đại trà),7549001D,7549001D
+1716,Kiên trúc (hệ Đại trà),7580101D,7580101D
+1717,Kỹ thuật xảy dựng công trinh giao thông (hệ Đại trà),7580205D,7580205D
+1718,Quản lý xây dựng (hệ Đại trà),7580302D,7580302D
+1719,Quan trị nhà hàng vả dịch vụ ăn uống (hệ Đại trả),7810202D,7810202D
+1720,Kỷ thuật nử công (hộ Đại trà),7810502D,7810502D
+1721,Kinh doanh Quốc tế (hệ Đại trà),7340120D,7340120D
+1722,Hệ thống kỹ thuật công trình xây dựng (hệ Đại trà),7510106D,7510106D
+1723,Robot và trí tuệ nhân tạo (hệ Đại trà),7510209D,7510209D
+1724,Quản lý Công nghiệp (hệ Chất lượng cao tiếng Anh),7510601A,7510601A
+1725,Công nghệ vật liệu dệt may (hệ Đại trà),7540203D,7540203D
+1726,Công nghệ may (hệ Chất lượng cao tiếng Việt),7540204C,7540204C
+1727,Công nghệ may (hệ Đại trà),7540204D,7540204D
+1728,Kỹ nghệ gỗ và nội thất (hệ Đại trà),7549002D,7549002D
+1729,Ngôn ngữ Anh (học tại Khu Hòa An),7220201H,7220201H
+1730,Việt Nam học (Học tại khu Hòa An),7310630H,7310630H
+1731,Quản trị kinh doanh (Học tại khu Hòa An),7340101H,7340101H
+1732,Kinh doanh quốc tế - CTCLC,7340120C,7340120C
+1733,Luật (Học tại khu Hòa An),7380101H,7380101H
+1734,Công nghệ sinh học - CTTT,7420201T,7420201T
+1735,Công nghệ thông tin - CTCLC,7480201C,7480201C
+1736,Công nghệ thông tin (Học tại khu Hòa An),7480201H,7480201H
+1737,Công nghệ kỹ thuật hóa học - CTCLC,7510401C,7510401C
+1738,Kỹ thuật vật liệu,7520309,7520309
+1739,Vật lý kỹ thuật,CN3,CN3
+1740,19,7540105,7540105
+1741,Kỹ thuật xây dựng (Học tại khu Hòa An),7580201H,7580201H
+1742,Khuyến nông (Học tại khu Hòa An),7620102H,7620102H
+1743,Nông học (Học tại khu Hòa An),7620109H,7620109H
+1744,Kinh doanh nông nghiệp (Học tại khu Hòa An),7620114H,7620114H
+1745,Kinh tế nông nghiệp (Học tại khu Hòa An),7620115H,7620115H
+1746,Nuôi trồng thủy sản (Học tại khu Hòa An),7620301H,7620301H
+1747,Nuôi trồng thủy sản - CTTT,7620301T,7620301T
+1748,"A00, A01, B00",7850103,7850103
+1749,Chương trình đào tạo đại trà,,
+1750,"Ngôn ngữ Anh, 2 chuyên ngành: - Ngôn ngữ Anh; - Phiên dịch – biên dịch tiếng Anh",7220201,7220201
+1751,"Việt Nam học, Chuyên ngành Hướng dẫn viên du lịch",7310630,7310630
+1752,"Luật, 3 chuyên ngành: - Luật hành chính; - Luật thương mại; - Luật tư pháp.",7380101,7380101
+1753,"Sinh học, 2 chuyên ngành: - Sinh học; - Vi sinh vật học.",7420101,7420101
+1754,"Công nghệ thông tin, 2 chuyên ngành: - Công nghệ thông tin; - Tin học ứng dụng",7480201,7480201
+1755,"Kỹ thuật cơ khí, 3 chuyên ngành: - Cơ khí chế tạo máy; - Cơ khí chế biến; - Cơ khí giao thông.",7520103,7520103
+1756,Kỹ thuật điều khiển và Tự động hóa,7520216,7520216
+1757,"Khoa học cây trồng, 2 chuyên ngành: - Khoa học cây trồng; - Công nghệ giống cây trồng.",7620110,7620110
+1758,"Thú y, 2 chuyên ngành: - Thú y; - Dược Thú y.",7640101,7640101
+1759,Hóa dược,7720203,7720203
+1760,"Chương trình đào tạo đại trà, học tại Khu Hòa An",,
+1761,Việt Nam học Chuyên ngành Hướng dẫn viên du lịch,7310630H,7310630H
+1762,"Luật, Chuyên ngành Luật Hành chính",7380101H,7380101H
+1763,Nông học Chuyên ngành Kỹ thuật Nông nghiệp,7620109H,7620109H
+1764,Chương trình tiên tiến và chương trình chất lượng cao (Phương thức A),,
+1765,Công nghệ sinh học (CTTT),7420201T,7420201T
+1766,Nuôi trồng thủy sản (CTTT),7620301T,7620301T
+1767,Ngôn ngữ Anh (CTCLC),7220201C,7220201C
+1768,Kinh doanh quốc tế (CTCLC),7340120C,7340120C
+1769,Công nghệ thông tin (CTCLC),7480201C,7480201C
+1770,Công nghệ kỹ thuật hóa học (CTCLC),7510401C,7510401C
+1771,Kỹ thuật Điện (CTCLC),7520201C,7520201C
+1772,Công nghệ thực phẩm (CTCLC),7540101C,7540101C
+1773,Kỹ thuật xây dựng (Chương trình chất lượng cao),7580201C,7580201C
+1774,"Việt Nam học,",7310630,7310630
+1775,Tài chính – Ngân hàng (CTCLC),7340201C,7340201C
+1776,Kỹ thuật xây dựng (CTCLC),7580201C,7580201C
+1777,Kỹ thuật điện (CTCLC),7520201C,7520201C
+1778,Giáo duc hoc,7140101,7140101
+1779,Giáo duc Mâm non,7140201,7140201
+1780,Chính tri hoc,7310201,7310201
+1781,Luât,7380101,7380101
+1782,Sinh học úng dụng,7420203,7420203
+1783,Hóa hoc,7440112,7440112
+1784,Khoa học Môi trường,7440301,7440301
+1785,Kỹ thuật Phần mềm - Công nghệ Thông tin,7480103,7480103
+1786,Hệ thông Thông tin - Công nghệ Thông tin,7480104,7480104
+1787,Kỹ thuật Điện,7520201,7520201
+1788,Quy hoạch Vùng và Đô thị - Quản lý Đô thị,7580105,7580105
+1789,Quản lý Đất đai,7850103,7850103
+1790,Chính trị học (chuyên ngành Chính sách công),7310201A,7310201A
+1791,Bác sĩ Răng - Hàm - Mặt,7720501,7720501
+1792,Luật (nữ miền Bắc),7380101,7380101
+1793,Luật (nam miền Bắc),7380101,7380101
+1794,Luật (nữ miền Nam),7380101,7380101
+1795,Luật (nam miền Nam),7380101,7380101
+1796,Điểm chuẩn trúng tuyển của Thí sinh Miền Bắc (Từ tỉnh Quảng Bình trở ra),,
+1797,Luật (Nam),7380101,7380101
+1798,Luật (Nữ),7380101,7380101
+1799,Điểm chuẩn trúng tuyển của Thí sinh Miền Nam (Từ tỉnh Quảng Trị trở vào),,
+1800,Luật - Thí sinh Nam phía Bắc,7380101,7380101
+1801,Luật - Thí sinh Nữ phía Bắc,7380101,7380101
+1802,Luật - Thí sinh Nam phía Nam,7380101,7380101
+1803,Luật - Thí sinh Nữ phía Nam,7380101,7380101
+1804,Giáo dục mầm non (hệ cao đẳng),5140201,5140201
+1805,ĐH Sư phạm Toán (CLC),7140209,7140209
+1806,ĐH Sư phạm Lý (CLC),7140211,7140211
+1807,ĐH Sư phạm Văn (CLC),7140217,7140217
+1808,ĐH Sư phạm Sư (CLC),7140218,7140218
+1809,ĐHSP Toán,7140209,7140209
+1810,ĐHSP Vật lý,7140211,7140211
+1811,ĐHSP Hóa học,7140213,7140213
+1812,ĐHSP Sinh học,7140213,7140213
+1813,ĐHSP Ngữ Văn,7140217,7140217
+1814,ĐHSP Lịch sử,7140218,7140218
+1815,ĐHSP Địa lý,7140219,7140219
+1816,ĐHSP Tiếng Anh,7140231,7140231
+1817,ĐHGD Mầm non,7140201,7140201
+1818,ĐHGD Tiểu học,7140202,7140202
+1819,ĐHGD Thể chất,7140206,7140206
+1820,CĐSP Toán,5140209,5140209
+1821,CĐSP Vật lý,5140211,5140211
+1822,CĐSP Hóa học,5140213,5140213
+1823,CĐSP Sinh học,5140213,5140213
+1824,CĐSP Ngữ Văn,5140217,5140217
+1825,CĐSP Lịch sử,5140218,5140218
+1826,CĐSP Địa lý,5140219,5140219
+1827,CĐSP Tiếng Anh,5140231,5140231
+1828,CĐGD Mầm non,5140201,5140201
+1829,CĐGD Tiểu học,5140202,5140202
+1830,CĐGD Thể chất,5140206,5140206
+1831,Các ngành đào tạo khác,,
+1832,Bậc đại học,,
+1833,"Bậc đại học ngành Nuôi trồng thủy sản, Kinh doanh Nông nghiệp",,
+1834,Bậc cao đẳng,,
+1835,Sư phạm toán học (CLC),7140209,7140209
+1836,Sư phạm Vật lý (CLC),7140211,7140211
+1837,Sư phạm Ngữ văn (CLC),7140217,7140217
+1838,Sư phạm Lịch sử (CLC),7140218,7140218
+1839,Giới và phát triển,7310399,7310399
+1840,Luật quốc tế,7380108,7380108
+1841,Luật (Nam miền Bắc),7380101,7380101
+1842,Luật (Nữ miền Bắc),7380101,7380101
+1843,Luật (Nam miền Nam),7380101,7380101
+1844,Luật (Nữ miền Nam),7380101,7380101
+1845,Luật - Phía Bắc đối với Nam,7380101,7380101
+1846,Luật - Phía Bắc đối với Nữ,7380101,7380101
+1847,Luật - Phía Nam đối với Nam,7380101,7380101
+1848,Luật - Phía Nam đối với Nữ,7380101,7380101
+1849,Sư phạm kỹ thuật nông nghiệp,7140215,7140215
+1850,Kinh tế tài chính chất lượng cao,7310109E,7310109E
+1851,Quản trị kinh doanh nông nghiệp tiên tiến,7340101T,7340101T
+1852,Kế toán (POHE),7340301P,7340301P
+1853,Công nghệ sinh học chất lượng cao,7420201E,7420201E
+1854,Công nghệ sinh học (POHE),7420201P,7420201P
+1855,Công nghệ thông tin (POHE),7480201P,7480201P
+1856,Kỹ thuật cơ khí (POHE),7520103P,7520103P
+1857,Công nghệ và kinh doanh thực phẩm,7540108,7540108
+1858,Chăn nuôi (POHE),7620105P,7620105P
+1859,Khoa học cây trồng tiên tiến,7620111T,7620111T
+1860,Kinh tế nông nghiệp chất lượng cao,7620115E,7620115E
+1861,Phát triển nông thôn (POHE),7620116P,7620116P
+1862,Nông nghiệp công nghệ cao,7620118,7620118
+1863,Chăn nuôi định hướng nghề nghiệp (POHE),7620105P,7620105P
+1864,Công nghệ Rau Hoa Quả và cảnh quan định hướng nghề nghiệp (POHE),7620113P,7620113P
+1865,Công nghệ sinh học chất lượng cao (dạy bằng tiếng Anh),7420201E,7420201E
+1866,Công nghệ sinh học định hướng nghề nghiệp (POHE),7420201P,7420201P
+1867,Công nghệ thông tin định hướng nghề nghiệp (POHE),7480201P,7480201P
+1868,Kế toán định hướng nghề nghiệp (POHE),7340301P,7340301P
+1869,Khoa học cây trồng tiên tiến (dạy bằng tiếng Anh),7620111T,7620111T
+1870,Kinh tế nông nghiệp chất lượng cao (dạy bằng tiếng Anh),7620115E,7620115E
+1871,Kinh tế tài chính chất lượng cao (dạy bằng tiếng Anh),7310101E,7310101E
+1872,Kỹ thuật cơ khí định hướng nghề nghiệp (POHE),7520103P,7520103P
+1873,Nông nghiệp định hướng nghề nghiệp (POHE),7620101P,7620101P
+1874,Phát triển nông thôn định hướng nghề nghiệp (POHE),7620116P,7620116P
+1875,Quản trị kinh doanh nông nghiệp tiên tiến (dạy bằng tiếng Anh),7340102T,7340102T
+1876,Sư phạm Kỹ thuật nông nghiệp,7140215,7140215
+1877,Kinh tế tài chính,7310109,7310109
+1878,Quản lý kinh tế,7310110,7310110
+1879,Quản lý và phát triển nguồn nhân lực,7340411,7340411
+1880,Quản lý và phát triển du lịch,7340418,7340418
+1881,Chăn nuôi thú y,7620106,7620106
+1882,Phân bón và dinh dưỡng cây trồng,7620108,7620108
+1883,Khoa học cây trồng Tiên tiến,7620110T,7620110T
+1884,Chỉ huy tham mưu Không quân (miền Bắc),7860203,7860203
+1885,Chỉ huy tham mưu Không quân (miền Nam),7860203,7860203
+1886,Sĩ quan CHTM Không quân (Thí sinh nam cả nước),7860203,7860203
+1887,Thí sinh Nam miền Bắc (Hệ cao đẳng),7860203,7860203
+1888,Thí sinh Nam miền Nam (Hệ cao đẳng),7860203,7860203
+1889,Chỉ huy tham mưu Không quân,7860203,7860203
+1890,Chỉ huy tham mưu thông tin (thí sinh nam miền Bắc),7860220,7860220
+1891,Chỉ huy tham mưu thông tin (thí sinh nam miền Nam),7860220,7860220
+1892,Chỉ huy tham mưu thông tin (thí sinh nữ miền Bắc),7860220,7860220
+1893,Chỉ huy tham mưu thông tin (thí sinh nữ miền Nam),7860220,7860220
+1894,Thí sinh Nữ miền Bắc,7860220,7860220
+1895,Thí sinh Nữ miền Nam,7860220,7860220
+1896,Chỉ huy tham mưu thông tin phía Bắc đối với Nam,7860220,7860220
+1897,Chỉ huy tham mưu thông tin phía Bắc đối với Nữ,7860220,7860220
+1898,Chỉ huy tham mưu thông tin phía Nam đối với Nam,7860220,7860220
+1899,Chỉ huy tham mưu thông tin phía nam đối với Nữ,7860220,7860220
+1900,Nhóm ngành 1: Kiến trúc - Quy hoạch vùng và đô thị,KTA01,KTA01
+1901,Nhóm ngành 2: Kiến trúc cảnh quan - Chương trình tiên tiến ngành Kiến trúc,KTA02,KTA02
+1902,Nhóm ngành 3: Thiết kế đồ họa - Thiết kế thời trang,KTA03,KTA03
+1903,Nhóm ngành 4: Thiết kế nội thất - Điêu khắc,KTA04,KTA04
+1904,Kỹ thuật xây dựng (Chuyên ngành Xây dựng công trình ngầm đô thị),7580201,7580201
+1905,Kỹ thuật cơ sở hạ tầng (Chuyên ngành Kỹ thuật môi trường đô thị),7580210,7580210
+1906,Nhóm ngành 1:,,
+1907,Nhóm ngành 2:,,
+1908,Chương trình tiên tiến ngành Kiến trúc,7580101_1,7580101_1
+1909,Nhóm ngành 3:,,
+1910,Thiết kế đồ hoa,7210403,7210403
+1911,Nhóm ngành 4:,,
+1912,Kỹ thuật xây dựng (Chuyên ngành Xây dựng dân dụng và công nghiệp),7580201,7580201
+1913,Kinh tế Xây dựng,7580301,7580301
+1914,Kỹ thuật cơ sở hạ tầng (Chuyên ngành Kỹ thuật hạ tầng đô thị),7580210,7580210
+1915,Nhóm ngành 1,KTA01,KTA01
+1916,Nhóm ngành 2,KTA02,KTA02
+1917,Nhóm ngành 3,KTA03,KTA03
+1918,Nhóm ngành 4,KTA04,KTA04
+1919,Xây dựng công trình ngầm đô thị,7580201_1,7580201_1
+1920,Nhóm ngành 10,KTA10,KTA10
+1921,Nhóm ngành 11,KTA11,KTA11
+1922,Kỹ thuật hạ tầng đô thị,7580210,7580210
+1923,Mỹ thuật đô thị,7210110,7210110
+1924,CƠ SỞ TP HCM,,
+1925,CƠ SỞ TP CẦN THƠ,,
+1926,CƠ SỞ TP ĐÀ LẠT,,
+1927,CHƯƠNG TRÌNH CHẤT LƯỢNG CAO,,
+1928,Kỹ thuật xây dựng ( Chất lượng cao),7580201CLC,7580201CLC
+1929,Quy hoạch vùng và đô thị (Chất lượng cao),7580105CLC,7580105CLC
+1930,CHƯƠNG TRÌNH TIÊN TiẾN (CTTT),,
+1931,Thiết kế đô thị ( CT tiên tiến),7580199,7580199
+1932,Thiết kế đô thị,7580199,7580199
+1933,Ngôn ngữ Anh (chuyên ngành Tiếng Anh pháp lý),7380109,7380109
+1934,Luật (đào tạo tại Phân hiệu Đắk Lắk),7380101PH,7380101PH
+1935,"Thiết kế công nghiệp (gồm 03 chuyên ngành: Thiết kế nội thất, Thiết kế thời trang, Thiết kế đồ họa)",7210402,7210402
+1936,Ngôn ngữ Bồ Đào Nha,7220207,7220207
+1937,Truyền thông doanh nghiệp,7320109,7320109
+1938,Quốc tế học (dạy bằng tiếng Anh),7310601,7310601
+1939,Truyền thông doanh nghiệp (dạy bằng tiếng Pháp),7320109,7320109
+1940,Quản trị kinh doanh (dạy bằng tiếng Anh),7340101,7340101
+1941,Tài chính - Ngân hàng (dạy bằng tiếng Anh),7340301,7340301
+1942,Kế toán(dạy bằng tiếng Anh),7340301,7340301
+1943,Công nghệ thông tin (dạy bằng tiếng Anh),7480201,7480201
+1944,Quản trị dịch vụ du lịch và lữ hành (dạy bằng tiếng Anh),7810103,7810103
+1945,Ngôn ngữ Trung Quốc - Chất lượng cao (CLC),7220204 CLC,7220204 CLC
+1946,Ngôn ngữ Italia - Chất lượng cao (CLC),7220208 CLC,7220208 CLC
+1947,Ngôn ngữ Hàn Quốc - Chất lượng cao (CLC),7220210 CLC,7220210 CLC
+1948,Marketing (dạy bằng tiếng Anh),7340115,7340115
+1949,Tiếng Việt & Văn hóa Việt Nam,7220101,7220101
+1950,Ngôn ngữ Trung Quốc - Chất lượng cao,7220204 CLC,7220204 CLC
+1951,Ngôn ngữ Italia - Chất lượng cao,7220208 CLC,7220208 CLC
+1952,Ngôn ngữ Hàn Quốc - Chất lượng cao,7220210 CLC,7220210 CLC
+1953,Trinh sát kỹ thuật phía Bắc,7860231,7860231
+1954,Trinh sát kỹ thuật phía Nam,7860231,7860231
+1955,Ngôn ngữ Anh nam phía Bắc,7220201,7220201
+1956,Ngôn ngữ Anh nam phía Nam,7220201,7220201
+1957,Ngôn ngữ Anh nữ toàn quốc,7220201,7220201
+1958,Ngôn ngữ Nga nam phía Bắc,7220202,7220202
+1959,Ngôn ngữ Nga nữ toàn quốc,7220202,7220202
+1960,Ngôn ngữ Trung nam phía Bắc,7220204,7220204
+1961,Ngôn ngữ Trung nam phía Nam,7220204,7220204
+1962,Ngôn ngữ Trung nữ toàn quốc,7220204,7220204
+1963,Quan hệ quốc tế- Thí sinh Nam miền Bắc,7310206,7310206
+1964,Quan hệ quốc tế- Thí sinh nữ,7310206,7310206
+1965,Ngôn ngữ Anh Thí sinh Nam (cả nước),7220201,7220201
+1966,Ngôn ngữ Anh Thí sinh Nữ (cả nước),7220201,7220201
+1967,Ngôn ngữ Nga Thí sinh Nam (cả nước),7220202,7220202
+1968,Ngôn ngữ Nga Thí sinh Nữ (cả nước),7220202,7220202
+1969,Ngôn ngữ Trung Quốc Thí sinh Nam (cả nước),7220204,7220204
+1970,Ngôn ngữ Trung Quốc Thí sinh Nữ (cả nước),7220204,7220204
+1971,Quan hệ Quốc tế Thí sinh Nam (cả nước),7310206,7310206
+1972,Quan hệ Quốc tế Thí sinh Nữ (cả nước),7310206,7310206
+1973,ĐT Trinh sát Kỹ thuật Nam miền Bắc,7860231,7860231
+1974,ĐT Trinh sát Kỹ thuật Nam miền Nam,7860231,7860231
+1975,Ngôn ngữ Anh đối với Nam,7220201,7220201
+1976,Ngôn ngữ Anh đối với Nữ,7220201,7220201
+1977,Ngôn ngữ Nga đối với Nam,7220202,7220202
+1978,Ngôn ngữ Nga đối với Nữ,7220202,7220202
+1979,Ngôn ngữ Trung Quốc đối với Nam,7220204,7220204
+1980,Ngôn ngữ Trung Quốc đối với Nữ,7220204,7220204
+1981,Quan hệ quốc tế đối với Nam,7310206,7310206
+1982,Quan hệ quốc tế đối với Nữ,7310206,7310206
+1983,Trinh sát kỹ thuật đới với Nam phía Bắc,7860231,7860231
+1984,Trinh sát kỹ thuật đới với Nam phía Nam,7860231,7860231
+1985,Phòng cháy chữa cháy (Nam phía Bắc),7860113,7860113
+1986,Phòng cháy chữa cháy (Nữ phía Bắc),7860113,7860113
+1987,Phòng cháy chữa cháy (Nam phía Nam),7860113,7860113
+1988,Phòng cháy chữa cháy (Nữ phía Nam),7860113,7860113
+1989,"Phòng cháy chữa cháy và cứu nạn, hệ dân sự",7860113DS,7860113DS
+1990,Công an hệ chính quy (Nam phía Bắc),7860113,7860113
+1991,Công an hệ chính quy (Nữ phía Bắc),7860113,7860113
+1992,Công an hệ chính quy (Nam phía Nam),7860113,7860113
+1993,Công an hệ chính quy (Nữ phía Nam),7860113,7860113
+1994,Hệ dân sự,7860113DS,7860113DS
+1995,Phòng cháy chữa cháy và cứu nạn cứu hộ phía Bắc đối với Nam,7860113,7860113
+1996,Phòng cháy chữa cháy và cứu nạn cứu hộ phía Bắc đối với Nữ,7860113,7860113
+1997,Phòng cháy chữa cháy và cứu nạn cứu hộ phía Nam đối với Nam,7860113,7860113
+1998,Phòng cháy chữa cháy và cứu nạn cứu hộ phía Nam đối với Nữ,7860113,7860113
+1999,"Phòng cháy chữa cháy và cứu nạn, cứu hộ hệ dân sự",7860113DS,7860113DS
+2000,Quản trị kinh doanh (liên kết quốc tế do Đại học Troy - Hoa Kỳ cấp bằng),7340101QT,7340101QT
+2001,Quản trị kinh doanh (CLC),7340101C,7340101C
+2002,Tài chính - Ngân hàng (CLC),QHE41,QHE41
+2003,Kế toán (CLC),QHE42,QHE42
+2004,Kinh tế quốc tế (CLC),QHE43,QHE43
+2005,Kinh tế (CLC),QHE44,QHE44
+2006,Quản trị kinh doanh do Đại học Troy (Hoa Kỳ) cấp bằng,QHE80,QHE80
+2007,Sư phạm Tiếng Đức,7140235,7140235
+2008,Sư phạm Tiếng Nhật,7140236,7140236
+2009,Sư phạm Tiếng Hàn Quốc,7140237,7140237
+2010,Ngôn ngữ Trung Quốc** CTĐT CLC TT23,7220204CLC,7220204CLC
+2011,Ngôn ngữ Nhật** CTĐT CLC TT23,7220209CLC,7220209CLC
+2012,Ngôn ngữ Hàn Quốc** CTĐT CLC TT23,7220210CLC,7220210CLC
+2013,Ngôn ngữ Ảrập,7220211,7220211
+2014,Máy tính và Robot,CN2,CN2
+2015,Cơ kỹ thuật,CN4,CN4
+2016,Công nghệ Hàng không vũ trụ,CN7,CN7
+2017,Công nghệ nông nghiệp*,CN10,CN10
+2018,Ngôn ngữ Anh** CTĐT CLC TT23,7220201CLC,7220201CLC
+2019,Ngôn ngữ Pháp** CTĐT CLC TT23,7220203CLC,7220203CLC
+2020,Ngôn ngữ Đức**CTĐT CLC TT23,7220205CLC,7220205CLC
+2021,Ngôn ngữ Nhật**CTĐT CLC TT23,7220209CLC,7220209CLC
+2022,Ngôn ngữ Hàn Quốc**CTĐT CLC TT23,7220210CLC,7220210CLC
+2023,Kinh tế - Tài chính***,7903124QT,7903124QT
+2024,Công nghệ nông nghiệp,CN10,CN10
+2025,Công nghệ kỹ thuật cơ điện tử**(CLC theo TT23),CN6,CN6
+2026,Công nghệ thông tin**(CLC theo TT23),CN8,CN8
+2027,Công nghệ kỹ thuật điện tử - viến thông**(CLC theo TT23),CN9,CN9
+2028,Luật chất lượng cao đáp ứng Thông tư 23,7380101CLC,7380101CLC
+2029,Luật Chất lượng cao,7380101 CLC,7380101 CLC
+2030,Luật Thương mại Quốc tế,7380109,7380109
+2031,Luật chất lượng cao (Thu học phí theo điều kiện đảm bảo chất lượng đào tạo đáp ứng Thông tư 23 của Bộ GD&ĐT),7380101CLC,7380101CLC
+2032,"Kế toán, Phân tích và Kiểm toán",QHQ02,QHQ02
+2033,Tin học và kỹ thuật máy tính,7480111,7480111
+2034,Tin học và Kỹ thuật máy tính,QHQ04,QHQ04
+2035,Kinh doanh quốc tế (đào tạo bằng tiếng Anh),QHQ01,QHQ01
+2036,"Kế toán, Phân tích và Kiểm toán (đào tạo bằng tiếng Anh)",QHQ02,QHQ02
+2037,Hệ thống thông tin quản lý (đào tạo bằng tiếng Anh),QHQ03,QHQ03
+2038,"Tin học và Kỹ thuật máy tính (chương trình LKQT do ĐHQGHN cấp bằng, đào tạo bằng tiếng Anh)",QHQ04,QHQ04
+2039,Phân tích dữ liệu kinh doanh,QHQ05,QHQ05
+2040,Toán và Khoa học tự nhiên,GD1,GD1
+2041,Ngữ văn và Lịch sử,GD2,GD2
+2042,Quản trị trường học,GD3,GD3
+2043,Sư phạm Toán và Khoa học tự nhiên (gồm các ngành: Sư phạm Toán học; Sư phạm Vật lý; Sư phạm Hóa học; Sư phạm Sinh học; Sư phạm Khoa học tự nhiên),GD1,GD1
+2044,Sư phạm Ngữ văn và Lịch sử ( Gồm các ngành: Sư phạm ngữ Văn; Sư phạm Lịch sử),GD2,GD2
+2045,Khoa học giáo dục (Gồm các ngành: Quản trị trường học; Quản trị công nghệ giáo dục; Quản trị Chất lượng giáo dục; Tham vấn học đường; Khoa học giáo dục),GD3,GD3
+2046,Máy tính và khoa học thông tin,7480110QTD,7480110QTD
+2047,Máy tính và khoa học thông tin**,QHT40,QHT40
+2048,Hoá học**,QHT41,QHT41
+2049,Công nghệ kỹ thuật hoá học**,QHT42,QHT42
+2050,Khoa học thông tin địa không gian,7440230QTD,7440230QTD
+2051,Công nghệ sinh học**,QHT44,QHT44
+2052,Khoa học môi trường**,QHT45,QHT45
+2053,Khí tượng Thủy văn và Biến đổi khí hậu,QHTN01,QHTN01
+2054,Tài nguyên trái đất,QHTN02,QHTN02
+2055,Máy tính và khoa học thông tin*,QHT90,QHT90
+2056,Hoá dược**,QHT43,QHT43
+2057,Khoa học thông tin địa không gian*,QHT91,QHT91
+2058,Công nghệ kỹ thuật môi trường**,QHT46,QHT46
+2059,Tài nguyên và môi trường nước*,QHT92,QHT92
+2060,Khoa học quản lí,7340401,7340401
+2061,Tâm lí học,7310401,7310401
+2062,Thông tin – thư viện,7320201,7320201
+2063,Tôn giáo học,QHX21,QHX21
+2064,Chính trị hoc,QHX02,QHX02
+2065,Đông phương hoc,QHX05,QHX05
+2066,Lich sử,QHX08,QHX08
+2067,Ọuan hẻ công chúng,QHX13,QHX13
+2068,Quản trị dịch vụ du lịch và,QHX15,QHX15
+2069,Ọuản tri khách san,QHX16,QHX16
+2070,Quản tri văn phòng,QHX17,QHX17
+2071,Tôn giáo hoc,QHX21,QHX21
+2072,Báo chí ** CTĐT CLC TT23,QHX40,QHX40
+2073,Khoa học quản lý ** CTĐT CLC TT23,QHX41,QHX41
+2074,Quản lý thông tin ** CTĐT CLC TT23,QHX42,QHX42
+2075,Báo chí ** (CTĐT CLC TT23),QHX40,QHX40
+2076,Khoa học quản lý ** (CTĐT CLC TT23),QHX41,QHX41
+2077,Quản lý thông tin ** (CTĐT CLC TT23),QHX42,QHX42
+2078,Y Khoa,7720101,7720101
+2079,Răng Hàm Mặt,7720501,7720501
+2080,Kỹ thuật Xét nghiệm Y học,7720601,7720601
+2081,Kỹ thuật Hình ảnh Y học,7720602,7720602
+2082,Răng - Hàm - Mặt (CTĐT CLC theo đặc thù đơn vị),7720501CLC,7720501CLC
+2083,7510201,7510201,7510201
+2084,Kỷ thuật điều khiển và tự động hóa,7520216,7520216
+2085,Công nghệ kỹ thuật điện tử,7510302,7510302
+2086,Cồng nghệ thực phẩm,7540101,7540101
+2087,Việt Nam học (Hướng dẫn Du lịh),7310630,7310630
+2088,Sư phạm Kỹ thuật công nghiệp,7140214,7140214
+2089,Sư phạm KTCN (chuyên sâu Điện tử - Tin học),7140214,7140214
+2090,Kế toán(Kế toán doanh nghiệp),7340301,7340301
+2091,Kinh tế(Kinh tế đầu tư),7310101,7310101
+2092,Công nghệ kỹ thuật hóa học (Kỹ thuật hóa học và môi,7510401,7510401
+2093,Công nghệ kỹ thuật môi trường(Công nghệ Hóa môi trường),7510406,7510406
+2094,Sư phạm Công nghệ,7140246,7140246
+2095,Công nghệ kỹ thuật xây dựng (Chuyên ngành Xây dựng dân dụng và công nghiệp),7510103,7510103
+2096,Công nghệ kỹ thuật cơ khí (Chuyên ngành Cơ khí chế tạo máy),7510201,7510201
+2097,"Công nghệ kỹ thuật điện, điện tử (Các chuyên ngành: Hệ thống cung cấp điện - Kỹ thuật điện tử)",7510301,7510301
+2098,"Quản trị kinh doanh, Quản trị marketing, Kinh doanh quốc tế, Kế toán (ĐT liên kết quốc tế)",7340120QT,7340120QT
+2099,Nghiệp vụ An ninh (Nam),7860100,7860100
+2100,Nghiệp vụ An ninh (Nữ),7860100,7860100
+2101,Nghiệp vụ An ninh,7860100,7860100
+2102,Nghiệp vụ an ninh Đối với nam,7860100,7860100
+2103,Nghiệp vụ an ninh Đối với nữ,7860100,7860100
+2104,Gửi đào tạo ngoài ngành,,
+2105,Nghiệp vụ An ninh phía Bắc đối với Nam,7860100,7860100
+2106,Nghiệp vụ An ninh phía Bắc đối với Nữ,7860100,7860100
+2107,Nghiệp vụ An ninh phía Nam đối với Nam,7860100,7860100
+2108,Nghiệp vụ An ninh phía Nam đối với Nữ,7860100,7860100
+2109,An toàn thông tin phía Bắc,7480202,7480202
+2110,An toàn thông tin phía Nam,7480202,7480202
+2111,Gửi đào tạo ngành Y,7860100,7860100
+2112,Nghiệp vụ an ninh (Nam),7860100,7860100
+2113,Nghiệp vụ an ninh (Nữ),7860100,7860100
+2114,Gửi đào tạo ngoài ngành Y,7860100,7860100
+2115,Biên phòng Thí sinh Nam miền Bắc,7860214,7860214
+2116,Biên phòng Thí sinh Nam Quân khu 4 (Quảng Trị và TT-Huế),7860214,7860214
+2117,Biên phòng Thí sinh Nam Quân khu 5,7860214,7860214
+2118,Biên phòng Thí sinh Nam Quân khu 7,7860214,7860214
+2119,Biên phòng Thí sinh Nam Quân khu 9,7860214,7860214
+2120,Luật Thí sinh Nam miền Bắc,7380101,7380101
+2121,Luật Thí sinh Nam Quân khu 4 (Quảng Trị và TT-Huế),7380101,7380101
+2122,Luật Thí sinh Nam Quân khu 5,7380101,7380101
+2123,Luật Thí sinh Nam Quân khu 7,7380101,7380101
+2124,Luật Thí sinh Nam Quân khu 9,7380101,7380101
+2125,Ngành Biên phòng Thí sinh Nam miền Bắc,7860214,7860214
+2126,Ngành Biên phòng Thí sinh Nam Quân khu 4 (Quảng Trị và TT-Huế),7860214,7860214
+2127,Ngành Biên phòng Thí sinh Nam Quân khu 5,7860214,7860214
+2128,Ngành Biên phòng Thí sinh Nam Quân khu 7,7860214,7860214
+2129,Ngành Biên phòng Thí sinh Nam Quân khu 9,7860214,7860214
+2130,Ngành luật Thí sinh Nam miền Bắc,7380101,7380101
+2131,Ngành luật Thí sinh Nam Quân khu 4 (Quảng Trị và TT-Huế),7380101,7380101
+2132,Ngành luật Thí sính Nam Quân khu 5,7380101,7380101
+2133,Ngành luật Thí sinh Nam Quân khu 7,7380101,7380101
+2134,Ngành luật Thí sinh Nam Quân khu 9,7380101,7380101
+2135,Ngành luật Thí sinh Nam Quân khu 5,7380101,7380101
+2136,Luật - miền Bắc với thí sinh Nam,7380101,7380101
+2137,Luật - Thí sinh Nam Quân khu 4 (Quảng Trị và TT Huế),7380101,7380101
+2138,Luật - Thí sinh nam Quân khu 5,7380101,7380101
+2139,Luật - Thí sinh nam Quân khu 7,7380101,7380101
+2140,Luật - Thí sinh nam Quân khu 9,7380101,7380101
+2141,Biên phòng - Thí sinh nam miền Bắc,7860214,7860214
+2142,Biên phòng - Thí sinh Nam Quân khu 4 (Quảng Trị và TT Huế),7860214,7860214
+2143,Biên phòng - Thí sinh nam Quân khu 5,7860214,7860214
+2144,Biên phòng - Thí sinh nam Quân khu 7,7860214,7860214
+2145,Biên phòng - Thí sinh nam Quân khu 9,7860214,7860214
+2146,Điều tra trinh sát (nam),7860100,7860100
+2147,Điều tra trinh sát (nữ),7860100,7860100
+2148,Điều tra trinh sát,7860100,7860100
+2149,Gửi đào tạo ngành y (nam),7860100,7860100
+2150,Nghiệp vụ cảnh sát phía Bắc đối với Nam,7860100,7860100
+2151,Nghiệp vụ cảnh sát phía Bắc đối với Nữ,7860100,7860100
+2152,Nghiệp vụ cảnh sát phía Nam đối với Nam,7860100,7860100
+2153,Nghiệp vụ cảnh sát phía Nam đối với Nữ,7860100,7860100
+2154,Nghiệp vụ cảnh sát (Nam),7860100,7860100
+2155,Nghiệp vụ cảnh sát (nam),7860100,7860100
+2156,Nghiệp vụ cảnh sát (nữ),7860100,7860100
+2157,Nghiệp vụ cảnh sát (Nữ),7860100,7860100
+2158,Nghiệp vụ cảnh sát,7860100,7860100
+2159,Chỉ huy tham mưu Đặc công phía Bắc,7860207,7860207
+2160,Chỉ huy tham mưu Đặc công phía Nam,7860207,7860207
+2161,Chỉ huy tham mưu Đặc công miền Bắc,7860207,7860207
+2162,Chỉ huy tham mưu đặc công phía Nam,7860207,7860207
+2163,Lâm nghiệp,7620201,7620201
+2164,Ngôn ngữ Anh (*),7220201,7220201
+2165,Kinh doanh (LKQT),7340120Q,7340120Q
+2166,Thương mại (LKQT),7340121Q,7340121Q
+2167,Công nghệ sinh học (CLC),7420201C,7420201C
+2168,Công nghệ sinh học (LKQT),7420201Q,7420201Q
+2169,Bản đồ học,7440212,7440212
+2170,Công nghệ kỹ thuật cơ khí (CLC),7510201C,7510201C
+2171,Kỹ thuật môi trường (CLC),7520320C,7520320C
+2172,Công nghệ thực phẩm (CLC),7540101C,7540101C
+2173,Công nghệ thực phẩm(CTTT),7540101T,7540101T
+2174,Quản lý và kinh doanh nông nghiệp quốc tế,7620114Q,7620114Q
+2175,Thú y ( CTTT),7640101T,7640101T
+2176,Cơ sở TPHCM:,,
+2177,Công nghệ kỹ thuật Ôtô,7510205,7510205
+2178,Kỳ thuật môi trường,7520320,7520320
+2179,Chương trình đào tạo chất lượng cao,,
+2180,Công nghệ kỹ thuật cơ khi,7510201C,7510201C
+2181,Chương trình đào tạo cử nhân quốc tế,,
+2182,Kinh doanh,7340120Q,7340120Q
+2183,Thương mại,7340121Q,7340121Q
+2184,Quản lý và kinh doanh nông nghiệp,7620114Q (LKQT),7620114Q (LKQT)
+2185,PHÂN HiệU GIA LAI,,
+2186,PHÂN HIỆU NINH THUẬN,,
+2187,Ngôn ngừ Anh (*),7220201,7220201
+2188,Y Đa khoa Phân hiệu Thanh Hóa,7720101_YHT,7720101_YHT
+2189,Khúc xạ nhãn khoa,7720699,7720699
+2190,Y Đa khoa,7720101,7720101
+2191,Xét nghiệm Y học,7720601,7720601
+2192,Khúc xạ Nhãn khoa,7720699,7720699
+2193,Ngành Quản trị kinh doanh (Hệ đại học Chất lượng cao),7340101C,7340101C
+2194,Ngành Marketing (Hệ đại học Chất lượng cao),7340115C,7340115C
+2195,Ngành Kinh doanh quốc tế (Hệ đại học Chất lượng cao),7340120C,7340120C
+2196,Ngành Tài chính ngân hàng (Hệ đại học Chất lượng cao),7340201C,7340201C
+2197,Ngành Kế toán (Hệ đại học Chất lượng cao),7340301C,7340301C
+2198,Ngành Công nghệ sinh học (Hệ đại học Chất lượng cao),7420201C,7420201C
+2199,Ngành Kỹ thuật phần mềm (Hệ đại học Chất lượng cao),7480103C,7480103C
+2200,Ngành Công nghệ kỹ thuật cơ khí (Hệ đào tạo Chất lượng cao),7510201C,7510201C
+2201,Ngành Công nghệ chế tạo máy (Hệ đại học Chất lượng cao),7510202C,7510202C
+2202,Ngành Công nghệ kỹ thuật cơ điện tử( Hệ đào tạo Chất lượng cao),7510203C,7510203C
+2203,"Ngành Công nghệ kỹ thuật điện, điện tử (Hệ đào tạo chất lượng cao)",7510301C,7510301C
+2204,Ngành Công nghệ kỹ thuật điện tử - viễn thông(Hệ đào tạo Chất lượng cao),7510302C,7510302C
+2205,Ngành Công nghệ hóa học (Hệ đại học Chất lượng cao),7510401C,7510401C
+2206,Ngành Công nghệ kỹ thuật môi trường( Hệ đại học Chất lượng cao),7510406C,7510406C
+2207,Ngành Công nghệ thực phẩm(Hệ đại học Chất lượng cao),7540101C,7540101C
+2208,Dinh dưỡng và khoa học thực phẩm,7720497,7720497
+2209,"Nhóm ngành Công nghệ Diện gôm 02 ngành: Công nghệ kỹ thuật diện, diện tử; Công nghe kỹ thuât điều khiốn và tư đông hóa",7510301,7510301
+2210,Nhóm ngành Kỹ thuật xây dụng gôm 02 ngành: Kỳ thuật xây dựng; Kỹ thuật xây dựng công trình giao thông,7580201,7580201
+2211,Công nghệ dệt may,7540204,7540204
+2212,"Nhóm ngành Công nghệ thông tin gôm 04 ngành: Công nghệ thông tinễ, Kỹ thuật phần mềm; Khoa học máy tính, IIỘ thống thông tin",7480201,7480201
+2213,Nhóm ngành Công nghệ hỏa học gôm 04 chuycn ngành: Kỹ thuật hóa phân tích; Công nghệ lọc Ilóa dầu; Công nghệ hữu cơ Hóa dươc; Công nghe Vô cơ - Vât liệu.,7510401,7510401
+2214,Nhỏm ngành Kê toản-Kiêm toán gôm 02 ngành: Kc toán; Kicm toán,7340301,7340301
+2215,Nhóm ngành Tài chính ngân hàng gôm 02 chuyên ngành: Tài chính ngân hàng; Tài chính doanh nghicp,7340201,7340201
+2216,Quản trị du lịch và lữ hành,7810103,7810103
+2217,Công nghệ kỹ thuật điện tử - viễn Ihông,7510302C,7510302C
+2218,Công nghệ chế lạo máy,7510202C,7510202C
+2219,Công nghệ thực phẳm,7540101C,7540101C
+2220,Quản lý tài nguycn và môi trường,7850101,7850101
+2221,Nhóm ngành Kế toán-Kiểm toán gôm 02 ngành: Kế toán; Kiểm toán,7340301,7340301
+2222,'ITiương mại điện tử,7340122,7340122
+2223,Chương trình chất lượng cao,,
+2224,"Công nghệ kỹ thuật điện, điện lử",7510301C,7510301C
+2225,Chỉ huy tham mưu Hải quân Thí sinh Nam miền Bắc,7860202,7860202
+2226,Chỉ huy tham mưu Hải quân Thí sinh Nam miền Nam,7860202,7860202
+2227,Chỉ huy tham mưu Hải quân - Thí sinh Nam miền Bắc,7860202,7860202
+2228,Chỉ huy tham mưu Hải quân - Thí sinh Nam miền Nam,7860202,7860202
+2229,Xây dựng Đảng và chính quyền và nước (Thí sinh Nam miền Bắc),7310202,7310202
+2230,Xây dựng Đảng và chính quyền và nước (Thí sinh Nam miền Nam),7310202,7310202
+2231,Xây dựng Đảng và chính quyền và nước(Thí sinh Nam miền Nam),7310202,7310202
+2232,Xây dựng Đảng và chính quyền nhà nước - Thí sinh Nam miền Bắc,7310202,7310202
+2233,Xây dựng Đảng và chính quyền nhà nước - Thí sinh Nam miền Nam,7310202,7310202
+2234,"Lý luận, lịch sử và phê bình mỹ thuật",52210101,52210101
+2235,Hội họa Chuyên ngành: - Tranh Lụa - Tranh Sơn dầu - Tranh Sơn mài,52210103,52210103
+2236,Đồ họa,52210104,52210104
+2237,Điêu khắc Chuyên ngành: - Điêu khắc tạo hình - Điêu khắc ứng dụng,52210105,52210105
+2238,"Quản trị kinh doanh (Liên kết với Đại học CityU, Hoa Kỳ)",7340101_IV,7340101_IV
+2239,Tài chính ngân hàng (chuyên ngành Tài chính doanh nghiệp),7340201_1,7340201_1
+2240,"Quản lý Tài chính- Kế toán (Liên kết với Đại học Sunderland, Vương quốc Anh)",7340301_I,7340301_I
+2241,"Tài chính- ngân hàng (Liên kết với Đại học Sunderland, Vương quốc Anh)",7340201_I,7340201_I
+2242,Chỉ huy tham mưu Pháo binh (miền Nam),7860205,7860205
+2243,Chỉ huy tham mưu Pháo binh (miền Bắc),7860205,7860205
+2244,Chỉ huy tham mưu Pháo binh (Nam miền Nam),7860205,7860205
+2245,Chỉ huy tham mưu Pháo binh (Nam miền Bắc),7860205,7860205
+2246,Chỉ huy tham mưu Pháo binh -Thí sinh nam miền Bắc,7860205,7860205
+2247,Chỉ huy tham mưu Pháo binh - Thí sinh nam miền Nam,7860205,7860205
+2248,CÁC NGÀNH ĐÀO TẠO ĐẠI HỌC,,
+2249,"Công nghệ kỹ thuật điện, Điện tử",7510301,7510301
+2250,CÁC NGÀNH ĐÀO TẠO CAO ĐẲNG,,
