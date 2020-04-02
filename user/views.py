@@ -2,8 +2,8 @@ from django.shortcuts import render
 from rest_framework.views import APIView
 from rest_framework.response import Response
 from rest_framework import status
-from .models import User, Intent
-from .serializers import UserSerializer, IntentSerializer
+from .models import User, Intent, Rasalog
+from .serializers import UserSerializer, IntentSerializer, RasalogSerializer
 from django.views.decorators.csrf import csrf_exempt
 from django.http import HttpResponse, JsonResponse
 from rest_framework.parsers import JSONParser
@@ -91,3 +91,22 @@ def intent_detail(request, pk):
             serializer.save()
             return JsonResponse(data=serializer.data, safe= False)
     return Response({'key': 'value'}, status=status.HTTP_200_OK)
+
+@csrf_exempt
+@api_view(['GET', 'POST'])
+def rasalog(request):
+    """
+     save log to db
+    """
+    if request.method == 'GET':
+        rasalog = Rasalog.objects.all()
+        serializer = RasalogSerializer(rasalog, many=True)
+        return JsonResponse(serializer.data, safe=False)
+    if request.method == 'POST':
+        data = JSONParser().parse(request)
+        serializer = RasalogSerializer(data=data)
+        if serializer.is_valid():
+            serializer.save()
+            return JsonResponse(serializer.data, status=201)
+
+    return Response({}, status=status.HTTP_200_OK)

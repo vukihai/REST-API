@@ -22,6 +22,7 @@ urlpatterns = [
     path('user/', views.user),
     path('user/<int:pk>/', views.user_detail),
     path('intent/',views.intent),
-    path('intent/<str:pk>/',views.intent_detail)
+    path('intent/<str:pk>/',views.intent_detail),
     #path('', include('user.urls')),
+    path('rasalog/', views.rasalog),
 ]

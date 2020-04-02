@@ -11,4 +11,9 @@ class Intent(models.Model):
     intent_name = models.CharField(max_length = 100, primary_key = True)
     quantity = models.IntegerField(default=0)
     
-    
+class Rasalog(models.Model):
+    timestamp = models.CharField(max_length=30)
+    type = models.CharField(max_length=30)
+    target = models.CharField(max_length=30)
+    value = models.CharField(max_length=200)
+    message = models.CharField(max_length=1000)
